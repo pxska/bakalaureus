@@ -1,0 +1,863 @@
+T1	Org 2 34	Keisrl Tartu IV Kihelkonna kohtu
+T2	Muu 107 128	Maa Kogokonna Seaduse
+T3	Isik 931 943	Peter Urtson
+T4	Isik 948 961	Jaan Leppikow
+T5	Isik 966 978	Jaan Oinberg
+T6	Isik 990 1002	Hind Leppisk
+T7	Isik 1007 1020	Kustaw Helfer
+T8	Isik 1025 1038	Jakob Laaskar
+T9	Isik 1043 1056	Josep Wõikson
+T10	KO_koht 1067 1074	Sõukese
+T11	Isik 1075 1081	Willep
+T12	Isik 1086 1100	Joosep Oinberg
+T13	KO_koht 1162 1169	Klõmpsi
+T14	Isik 1170 1175	Kusta
+T15	Isik 1199 1214	Toomas Kärtmann
+T16	Isik 1221 1237	Hindrek Kärtmann
+T17	Isik 1254 1266	Peter Urtson
+T18	Isik 1273 1286	Kustav Helfer
+T19	Isik 1303 1316	Jaan Leppikow
+T20	Isik 1323 1336	Jaan Leppikow
+T21	Isik 1353 1365	Jaan Oinberg
+T22	Isik 1372 1384	Jaan Oinberg
+T23	Isik 1427 1436	H. Liiwak
+T24	Isik 1443 1452	H. Liiwak
+T25	Isik 1469 1484	Peter Rämman L.
+T26	Isik 1491 1504	Hind. Meening
+T27	Isik 1521 1533	Peter Urgard
+T28	Isik 1540 1552	Peter Urgard
+T29	Isik 1569 1582	Josep Wõikson
+T30	Isik 1589 1602	Josep Wõikson
+T31	KO_koht 1623 1628	Jõksi
+T32	Isik 1629 1634	Jakob
+T33	Isik 1659 1671	Jaan Karpson
+T34	Isik 1678 1688	Frits Jõks
+T35	Isik 1705 1717	Peter Urtson
+T36	Isik 1724 1736	Peter Urtson
+T37	Isik 1753 1766	Jaan Leppikow
+T38	Isik 1773 1786	Jaan Leppikow
+T39	Isik 1803 1815	Jaan Oinberg
+T40	Isik 1822 1834	Jaan Oinberg
+T41	Isik 1857 1870	Karel Parmson
+T42	Isik 1877 1886	H. Liiwak
+T43	Isik 1903 1918	Peter Rämman L.
+T44	Isik 1925 1935	Josep Jõks
+T45	Isik 1952 1964	Peter Urgard
+T46	Isik 1971 1981	Peter Jõks
+T47	Isik 1998 2011	Josep Wõikson
+T48	Isik 2018 2031	Josep Wõikson
+T49	KO_koht 2049 2053	Hani
+T50	Isik 2054 2059	Peter
+T51	Isik 2064 2076	Jakob Urgard
+T52	KO_koht 2154 2160	Kadowa
+T53	Isik 2161 2166	Peter
+T54	Isik 2171 2184	Kustaw Helfer
+T55	Isik 2189 2202	Gustaw Lepson
+T56	Isik 2207 2220	Jaan Leppikow
+T57	Isik 2225 2237	Jaan Oinberg
+T58	Isik 2248 2260	Hind Leppisk
+T59	Isik 2265 2275	Josep Jõks
+T60	Isik 2280 2292	Josep Kübard
+T61	Isik 2297 2310	Josep Wõikson
+T62	KO_koht 2324 2328	Oina
+T63	Isik 2329 2334	Peter
+T64	Isik 2359 2371	Jaan Oinberg
+T65	Isik 2378 2391	Jaan Kodowand
+T66	Isik 2408 2420	Peter Urtson
+T67	Isik 2427 2439	Peter Urtson
+T68	Isik 2456 2469	Jaan Leppikow
+T69	Isik 2476 2489	Jaan Leppikow
+T70	Isik 2506 2520	Mihail Jssakow
+T71	Isik 2527 2539	Jaan Oinberg
+T72	Isik 2562 2575	Gustaw Helfer
+T73	Isik 2582 2593	Ants Liiwak
+T74	Isik 2610 2620	Peter Sepp
+T75	Isik 2627 2642	Peter Rämman L.
+T76	Isik 2659 2671	Jakob Laskar
+T77	Isik 2678 2690	Jakob Laskar
+T78	Isik 2707 2720	Josep Wõikson
+T79	Isik 2727 2740	Josep Wõikson
+T80	KO_koht 2761 2770	Kapsimagi
+T81	Isik 2795 2805	Peedo Jõks
+T82	Isik 2812 2823	Jaan Hindow
+T83	Isik 2840 2853	Gustaw Helfer
+T84	Isik 2879 2892	Jaan Leppikow
+T85	Isik 2922 2932	Josep Jõks
+T86	Isik 2985 2997	Widr. Urgard
+T87	Isik 3023 3035	Hind Meening
+T88	Isik 3062 3074	Peter Urgard
+T89	Isik 3100 3113	Josep Wõikson
+T90	KO_koht 3141 3146	Juusa
+T91	Isik 3147 3152	Josep
+T92	Isik 3157 3171	Mihail Jssakow
+T93	Isik 3176 3188	Peter Urtson
+T94	Isik 3193 3206	Jaan Leppikow
+T95	Isik 3211 3223	Jaan Oinberg
+T96	Isik 3234 3244	Josep Jõks
+T97	Isik 3249 3262	Josep Parmson
+T98	Isik 3267 3277	Peter Jõks
+T99	Isik 3282 3295	Josep Wõikson
+T100	KO_koht 3309 3314	Jõksi
+T101	Isik 3315 3319	Paap
+T102	Isik 3343 3353	Josep Jõks
+T103	Isik 3360 3372	Wiido Juusar
+T104	Isik 3389 3401	Kusta Helfer
+T105	Isik 3408 3420	Peter Urtson
+T106	Isik 3437 3450	Jaan Leppikow
+T107	Isik 3457 3470	Jaan Leppikow
+T108	Isik 3487 3500	Jakob Parmann
+T109	Isik 3507 3520	Jakob Parmann
+T110	Isik 3563 3576	Hind. Leppisk
+T111	Isik 3583 3592	H. Liiwak
+T112	Isik 3609 3626	Peter Rämman Lep.
+T113	Isik 3633 3646	Hind. Meening
+T114	Isik 3663 3676	Jakob Laaskar
+T115	Isik 3683 3695	Josep Kübard
+T116	Isik 3712 3725	Josep Wõikson
+T117	Isik 3732 3745	Josep Wõikson
+T118	KO_koht 3767 3771	Oina
+T119	Isik 3772 3776	Rein
+T120	Isik 3800 3812	Rein Oinberg
+T121	Isik 3819 3832	Josep Oinberg
+T122	Isik 3849 3861	Peter Urtson
+T123	Isik 3868 3881	Gustaw Helfer
+T124	Isik 3898 3911	Jaan Leppikow
+T125	Isik 3918 3931	Wiido Ritsing
+T126	Isik 3948 3960	Jaan Oinberg
+T127	Isik 3967 3979	Jaan Oinberg
+T128	Isik 4002 4012	Josep Jõks
+T129	Isik 4019 4032	Josep Parmson
+T130	Isik 4049 4060	Karel Sults
+T131	Isik 4067 4081	Hind. Kärtmann
+T132	Isik 4098 4111	Jakob Laaskar
+T133	Isik 4118 4130	Jakob Laskar
+T134	Isik 4147 4160	Josep Wõikson
+T135	Isik 4167 4180	Josep Wõikson
+T136	KO_koht 4202 4209	Juusare
+T137	Isik 4234 4243	Jaan Mitt
+T138	Isik 4250 4263	Frits Solnask
+T139	Isik 4293 4305	Peter Urtson
+T140	Isik 4331 4344	Jaan Leppikow
+T141	Isik 4371 4384	Jakob Parmann
+T142	Isik 4439 4449	Josep Jõks
+T143	Isik 4475 4487	Widr. Urgard
+T144	Isik 4514 4526	Peter Urgard
+T145	Isik 4556 4569	Josep Wõikson
+T146	KO_koht 4591 4600	Kuiwamagi
+T147	Isik 4625 4638	Karel Sultson
+T148	Isik 4645 4659	Josep Üllimson
+T149	Isik 4676 4689	Kustaw Helfer
+T150	Isik 4696 4708	Peter Urtson
+T151	Isik 4725 4738	Jaan Leppikow
+T152	Isik 4745 4758	Jaan Leppikow
+T153	Isik 4775 4787	Wiido Uusing
+T154	Isik 4794 4807	Jakob Parmann
+T155	Isik 4849 4861	Josep Kübard
+T156	Isik 4868 4880	Kusta Helfer
+T157	Isik 4897 4911	Josep Üllimson
+T158	Isik 4918 4932	Frits Waaranow
+T159	Isik 4949 4961	Josep Kübard
+T160	Isik 4968 4979	Jaan Parmak
+T161	Isik 4996 5012	Wiido Narrusberk
+T162	Isik 5019 5034	Peter Kiiskmann
+T163	KO_koht 5056 5063	Lewonti
+T164	Isik 5087 5098	Jaan Kübbar
+T165	Isik 5105 5118	Kristo Kübard
+T166	Isik 5135 5148	Kustaw Helfer
+T167	Isik 5187 5200	Jaan Leppikow
+T168	Isik 5226 5238	Wiido Uusing
+T169	Isik 5297 5311	Hindr. Leppisk
+T170	Isik 5340 5352	Widr. Urgard
+T171	Isik 5381 5393	Josep Kübard
+T172	Isik 5422 5436	Peter Kiiskman
+T173	KO_koht 5455 5461	Lepoja
+T174	KO_koht 5474 5482	Leppikow
+T175	Isik 5489 5503	Joosep. Sikkut
+T176	Isik 5527 5539	Peter Urtson
+T177	Isik 5563 5576	Jaan Leppikow
+T178	Isik 5600 5613	Jakob Parmson
+T179	Isik 5662 5674	Widr. Urgard
+T180	Isik 5698 5712	Karel Küttmann
+T181	Isik 5736 5747	Jaan Parmak
+T182	Isik 5771 5784	Josep Wõikson
+T183	KO_koht 5802 5807	Waldi
+T184	Isik 5817 5831	Kustaw Kärresk
+T185	Isik 5838 5853	Willem Siilbaum
+T186	KO_koht 5957 5961	Anso
+T187	Isik 5962 5966	Paap
+T188	Isik 5971 5985	Kustaw Leppund
+T189	Isik 5990 6003	Kustaw Helfer
+T190	Isik 6008 6024	Peter Rämman Lep
+T191	Isik 6029 6042	Jakob Parmann
+T192	Isik 6053 6065	Hind Leppisk
+T193	Isik 6070 6082	Jaak Leppind
+T194	Isik 6087 6099	Jakob Uusing
+T195	Isik 6104 6117	Kusta Wõikson
+T196	KO_koht 6129 6134	Kerdo
+T197	Isik 6135 6140	Kusta
+T198	KO_koht 6202 6206	Anso
+T199	Isik 6207 6211	Jaan
+T200	Isik 6216 6229	Joosep Lepson
+T201	Isik 6234 6247	Gustaw Lepson
+T202	Isik 6252 6264	Peter Rämman
+T203	Isik 6269 6282	Jakob Parmann
+T204	Isik 6293 6307	Karel Küttmann
+T205	Isik 6312 6324	Kusta Lepund
+T206	Isik 6329 6341	Jakob Uusing
+T207	Isik 6346 6359	Josep Wõikson
+T208	KO_koht 6371 6380	Jürgimagi
+T209	Isik 6385 6399	Frits Waaranow
+T210	Isik 6404 6416	Peter Urtson
+T211	Isik 6421 6434	Jaan Leppikow
+T212	Isik 6439 6451	Jaan Oinberg
+T213	Isik 6461 6475	Karel Küttmann
+T214	Isik 6480 6495	Peter Rämman L.
+T215	Isik 6500 6512	Peter Urgard
+T216	Isik 6517 6530	Josep Wõikson
+T217	KO_koht 6544 6549	Kuuse
+T218	Isik 6574 6588	Hindrek Parson
+T219	Isik 6595 6608	Joosep Parson
+T220	Isik 6625 6637	Peter Urtson
+T221	Isik 6644 6657	Kustaw Helfer
+T222	Isik 6674 6687	Jaan Leppikow
+T223	Isik 6694 6707	Jaan Leppikow
+T224	Isik 6724 6736	Jaan Oinberg
+T225	Isik 6743 6756	Jakob Parmann
+T226	Isik 6779 6791	Widr. Urgard
+T227	Isik 6798 6815	Gottlieb Anderson
+T228	Isik 6832 6842	Peter Sepp
+T229	Isik 6849 6861	Jaak Leppind
+T230	Isik 6878 6891	Jakob Laaskar
+T231	Isik 6898 6910	Jakob Uusing
+T232	Isik 6922 6935	Josep Wõikson
+T233	Isik 6940 6953	Jakob Laaskar
+T234	KO_koht 6965 6971	Kübara
+T235	Isik 6972 6977	Peter
+T236	Isik 6982 6996	Kristjan Kübar
+T237	Isik 7001 7014	Gustaw Lepson
+T238	Isik 7019 7032	Jaan Leppikow
+T239	Isik 7037 7050	Jakob Parmann
+T240	Isik 7060 7076	Kusta Kesselmann
+T241	Isik 7081 7097	Peter Rämmann K.
+T242	Isik 7102 7114	Peter Urgard
+T243	Isik 7119 7132	Josep Wõikson
+T244	KO_koht 7144 7149	Parma
+T245	Isik 7150 7155	Frits
+T246	Isik 7160 7177	Gottlieb Anderson
+T247	Isik 7182 7195	Gustaw Lepson
+T248	Isik 7200 7212	Peter Rämman
+T249	Isik 7217 7230	Jakob Parmann
+T250	Isik 7240 7254	Hindr. Leppind
+T251	Isik 7259 7271	Josep Lepson
+T252	Isik 7276 7288	Peter Urgard
+T253	Isik 7293 7307	Peter Kärtmann
+T254	KO_koht 7319 7325	Kübara
+T255	Isik 7326 7332	Kristo
+T256	KO_koht 7964 7971	Sõukese
+T257	Isik 7972 7978	Joosep
+T258	Isik 7983 7993	Peter Wähk
+T259	Isik 7998 8010	Peter Urtson
+T260	Isik 8015 8028	Jaan Leppikow
+T261	Isik 8033 8045	Jaan Oinberg
+T262	Isik 8056 8072	Peter Ramman Lep
+T263	Isik 8078 8087	H. Liiwak
+T264	Isik 8092 8105	Jakob Laaskar
+T265	Isik 8110 8122	Wiido Kübbar
+T266	KO_koht 8137 8141	Pori
+T267	Isik 8142 8146	Jaan
+T268	Isik 8171 8184	Widrik Urgard
+T269	Isik 8191 8204	Jakob Parmann
+T270	Isik 8221 8233	Peter Urtson
+T271	Isik 8240 8253	Kustaw Helfer
+T272	Isik 8270 8283	Jaan Leppikow
+T273	Isik 8290 8303	Jaan Leppikow
+T274	Isik 8320 8333	Jakob Parmann
+T275	Isik 8340 8350	Josep Jõks
+T276	Isik 8393 8405	Kusta Helfer
+T277	Isik 8412 8427	Peter Rämman L.
+T278	Isik 8444 8456	Jaak Leppind
+T279	Isik 8463 8476	Wiido Ritsing
+T280	Isik 8493 8504	Jaan Parmak
+T281	Isik 8511 8523	Peter Urgard
+T282	Isik 8540 8553	Karel Lepland
+T283	Isik 8560 8573	Josep Wõikson
+T284	KO_koht 8595 8604	Anso Pedo
+T285	Isik 8605 8610	Karel
+T286	Isik 8635 8648	Mihkel Hanson
+T287	Isik 8655 8667	Jakob Lepind
+T288	Isik 8684 8697	Kustaw Lepson
+T289	Isik 8704 8717	Kustaw Lepson
+T290	Isik 8734 8750	Peter Rämmann L.
+T291	Isik 8757 8772	Peter Rämman L.
+T292	Isik 8789 8802	Jakob Parmann
+T293	Isik 8809 8822	Jakob Parmann
+T294	Isik 8845 8858	Hind. Leppisk
+T295	Isik 8865 8877	Hind Leppisk
+T296	Isik 8894 8906	Josep Lepson
+T297	Isik 8913 8924	Jaak Lepind
+T298	Isik 8941 8953	Peter Urgard
+T299	Isik 8960 8972	Peter Urgard
+T300	Isik 8989 9003	Peter Kärtmann
+T301	Isik 9010 9023	Jakob Laaskar
+T302	KO_koht 9042 9049	Sõukese
+   
+T303	Isik 9078 9090	Kusta Lepson
+T304	Isik 9050 9055	Kusta
+T305	Isik 9060 9073	Josep Sõukand
+T306	Isik 9095 9107	Jaan Lepikow
+T307	Isik 9112 9125	Jakob Parmann
+T308	Isik 9135 9148	Karel Küttman
+T309	Isik 9153 9165	Josep Lepson
+T310	Isik 9175 9187	Jakob Laakar
+T311	Isik 9199 9210	Wiido Kübar
+T312	KO_koht 9221 9230	Põdrasild
+T313	Isik 9240 9251	Jaan Karsna
+T314	Isik 9258 9269	Jaan Urgard
+T315	Isik 9286 9298	Kusta Lepson
+T316	Isik 9305 9317	Peter Urtson
+T317	Isik 9334 9347	Jaan Leppikow
+T318	Isik 9354 9366	Peter Rämman
+T319	Isik 9383 9396	Jakob Parmann
+T320	Isik 9403 9416	Jakob Parmann
+T321	Isik 9439 9452	Hind. Leppisk
+T322	Isik 9459 9468	H. Liiwak
+T323	Isik 9485 9496	Jaak Lepind
+T324	Isik 9503 9513	H. Leppisk
+T325	Isik 9530 9542	Peter Urgard
+T326	Isik 9549 9561	Peter Urgard
+T327	Isik 9578 9591	Jakob Laaskar
+T328	Isik 9598 9615	Wiido Nerrustrank
+T329	KO_koht 9637 9645	Puustuse
+T330	Isik 9670 9684	Peter Kärtmann
+T331	Isik 9691 9703	Karel Otsing
+T332	KO_koht 9771 9776	Saare
+T333	Isik 9801 9813	Josep Joonas
+T334	Isik 9820 9833	Karel Wõikand
+T335	Isik 9850 9862	Peter Urtson
+T336	Isik 9869 9881	Peter Urtson
+T337	Isik 9898 9911	Jaan Leppikow
+T338	Isik 9918 9931	Jaan Leppikow
+T339	Isik 9948 9961	Jakob Parmann
+T340	Isik 9968 9981	Jakob Parmann
+T341	Isik 10004 10017	Karel Sultson
+T342	Isik 10024 10035	Ants Liiwak
+T343	Isik 10052 10061	H. Liiwak
+T344	Isik 10068 10079	Karel Sults
+T345	Isik 10096 10108	Peter Urgard
+T346	Isik 10115 10128	Josep Oinberg
+T347	Isik 10145 10158	Josep Wõikson
+T348	Isik 10165 10178	Josep Wõikson
+T349	KO_koht 10196 10202	Esanda
+T350	Isik 10207 10219	Wiido Uusing
+T351	Isik 10224 10237	Kustaw Helfer
+T352	Isik 10242 10255	Jaan Leppikow
+T353	Isik 10260 10273	Jakob Parmann
+T354	Isik 10283 10295	Peter Rämman
+T355	Isik 10300 10312	Jaak Leppind
+T356	Isik 10317 10329	Josep Kübard
+T357	Isik 10334 10347	Josep Wõikson
+T358	KO_koht 10358 10363	Tooma
+T359	Isik 10368 10380	Jaak Leppind
+T360	Isik 10385 10398	Kustaw Helfer
+T361	Isik 10403 10417	Peter Rämman L
+T362	Isik 10422 10435	Jakob Parmann
+T363	Isik 10445 10459	Karel Küttmann
+T364	Isik 10464 10478	Kustaw Zernask
+T365	Isik 10483 10495	Peter Urgard
+T366	Isik 10500 10517	Wiido Narrustrank
+T367	KO_koht 10531 10539	Wanapebo
+T368	Isik 10564 10577	Frits Leppisk
+T369	Isik 10584 10595	Peter Ustaw
+T370	Isik 10626 10638	Peter Urtson
+T371	Isik 10669 10682	Widrik Urgard
+T372	Isik 10713 10726	Jakob Parmann
+T373	Isik 10788 10799	Jaan Lepson
+T374	Isik 10830 10843	Karel Sultson
+T375	Isik 10874 10886	Peter Urgard
+T376	Isik 10914 10927	Peter Kärtman
+T377	KO_koht 10946 10951	Tilga
+T378	Isik 10956 10968	Peter Rämman
+T379	Isik 10973 10986	Kustaw Lepson
+T380	Isik 10991 11003	Jaak Leppind
+T381	Isik 11008 11021	Jakob Parmann
+T382	Isik 11031 11045	Kustaw Leppund
+T383	Isik 11050 11064	Karel Küttmann
+T384	Isik 11069 11081	Peter Urgard
+T385	Isik 11086 11103	Wiido Narrustrank
+T386	KO_koht 11115 11119	Anso
+T387	Isik 11120 11124	Jaan
+T388	Isik 11129 11144	Stepan Nitsikow
+T389	Isik 11149 11161	Peter Urtson
+T390	Isik 11166 11179	Jaan Leppikow
+T391	Isik 11184 11197	Jakob Parmann
+T392	Isik 11208 11220	Widr. Urgard
+T393	Isik 11225 11237	Wiido Uusing
+T394	Isik 11242 11254	Peter Urgard
+T395	Isik 11259 11276	Wiido Narrustrank
+T396	KO_koht 11290 11294	Anso
+T397	Isik 11295 11302	Hindrek
+T398	Isik 11327 11340	Juhan Lepland
+T399	Isik 11347 11360	Jakob Lepland
+T400	Isik 11377 11389	Gusta Lepson
+T401	Isik 11413 11426	Peter Rämmann
+T402	Isik 11450 11463	Jakob Parmann
+T403	Isik 11493 11506	Kusta Zernask
+T404	Isik 11530 11541	Jaak Lepind
+T405	Isik 11565 11577	Peter Urgard
+T406	Isik 11601 11615	W. Narrustrank
+T407	KO_koht 11641 11652	Maerastomäe
+T408	Isik 11657 11668	Josep Sults
+T409	Isik 11673 11685	Gusta Lepson
+T410	Isik 11690 11703	Peter Rämmann
+T411	Isik 11708 11721	Jakob Parmann
+T412	Isik 11731 11744	Kusta Zernask
+T413	Isik 11749 11764	Peter Rämman K.
+T414	Isik 11769 11781	Peter Urgard
+T415	Isik 11786 11799	Josep Wõikson
+T416	KO_koht 11810 11819	Kiwisaare
+T417	Isik 11824 11837	Wiido Parmson
+T418	Isik 11847 11859	Peter Urtson
+T419	Isik 11871 11885	Peter Rämman L
+T420	Isik 11890 11903	Josep Oinberg
+T421	Isik 11914 11927	Kusta Zernask
+T422	Isik 11932 11945	Kusta Meening
+T423	Isik 11950 11962	Peter Urgard
+T424	Isik 11967 11984	Wiido Narrustrank
+T425	KO_koht 11998 12004	Sentka
+T426	Isik 12029 12041	Peter Urtson
+T427	Isik 12048 12066	Josep Kiehrhäiding
+T428	Isik 12083 12096	Kusta Zernask
+T429	Isik 12103 12115	Kusta Helfer
+T430	Isik 12132 12145	Jaan Leppikow
+T431	Isik 12152 12165	Jaan Leppikow
+T432	Isik 12182 12195	Jakob Parmann
+T433	Isik 12202 12215	Jakob Parmann
+T434	Isik 12257 12269	Jaak Leppind
+T435	Isik 12276 12289	Hind. Meening
+T436	Isik 12306 12319	Kusta Parmson
+T437	Isik 12326 12337	Wid. Urgard
+T438	Isik 12354 12366	Peter Urgard
+T439	Isik 12373 12385	Peter Urgard
+T440	KO_koht 12456 12463	Rämmani
+T441	Isik 12488 12500	Peter Rämman
+T442	Isik 12507 12521	Joosep otsmann
+T443	Isik 12404 12415	Narrustrank
+T444	Isik 12424 12435	Narrustrank
+T445	Isik 12538 12550	Peter Urtson
+T446	Isik 12557 12569	Peter Urtson
+T447	Isik 12586 12599	Jaan Leppikow
+T448	Isik 12606 12619	Jaan Leppikow
+T449	Isik 12636 12649	Jakob Parmann
+T450	Isik 12656 12669	Jakob Parmann
+T451	Isik 12712 12726	Hindr. Leppisk
+T452	Isik 12733 12746	Gusta Leppson
+T453	Isik 12763 12776	Kusta Zernask
+T454	Isik 12783 12793	Josep Jõks
+T455	Isik 12810 12822	Peter Urgard
+T456	Isik 12829 12841	Peter Urgard
+T457	Isik 12860 12871	Narrustrank
+T458	Isik 12878 12892	Peter Kärtmann
+T459	KO_koht 12911 12919	Karpsepa
+T460	KO_koht 12975 12980	Parma
+T461	Isik 12985 12998	Rein Parmazow
+T462	Isik 13003 13015	Peter Urtson
+T463	Isik 13020 13033	Jaan Leppikow
+T464	Isik 13038 13051	Jakob Parmann
+T465	Isik 13061 13071	Peter Sepp
+T466	Isik 13076 13089	Peter Ramm S.
+T467	Isik 13094 13106	Peter Urgard
+T468	Isik 13111 13123	Wid. Musting
+T469	KO_koht 13135 13140	Saare
+T470	Isik 13141 13146	Peter
+T471	Isik 13151 13163	Jaan Lepmann
+T472	Isik 13168 13180	Peter Urtson
+T473	Isik 13185 13202	Peter Rämman Lep.
+T474	Isik 13207 13219	Jakob Parman
+T475	Isik 13229 13244	Peter Rämman K.
+T476	Isik 13249 13264	Peter Rämm S.W.
+T477	Isik 13269 13281	Peter Urgard
+T478	Isik 13286 13298	Wid. Musting
+T479	KO_koht 13313 13319	Obrami
+T480	Isik 13344 13356	Peep Lepmann
+T481	Isik 13360 13364	Jaan
+T482	Isik 13371 13386	Hindrek Leppisk
+T483	Isik 13403 13415	Peter Urtson
+T484	Isik 13422 13436	Kustaw Leppson
+T485	Isik 13453 13465	Jaak Leppind
+T486	Isik 13472 13487	Peter Rämman L.
+T487	Isik 13504 13516	Jakob Parman
+T488	Isik 13523 13536	Jakob Parmann
+T489	Isik 13558 13573	Peter Rämman K.
+T490	Isik 13580 13597	Peter Rämman S.W.
+T491	Isik 13614 13627	Frits Leppisk
+T492	Isik 13634 13646	Jaak Leppind
+T493	Isik 13663 13675	Peter Urgard
+T494	Isik 13682 13694	Peter Urgard
+T495	Isik 13711 13725	W. Narrustrank
+T496	Isik 13732 13749	Wiido Narrustrank
+T497	KO_koht 13771 13776	Saare
+T498	Isik 13777 13781	Paap
+T499	Isik 13806 13821	Hindrek Meening
+T500	Isik 13828 13841	Kusta Meening
+T501	Isik 13858 13870	Peter Urtson
+T502	Isik 13877 13889	Peter Urtson
+T503	Isik 13906 13921	Peter Ramman L.
+T504	Isik 13928 13943	Peter Rämman L.
+T505	Isik 13960 13973	Jakob Parmann
+T506	Isik 13980 13993	Jakob Parmann
+T507	Isik 14015 14028	Jaan Leppikow
+T508	Isik 14035 14045	K. Zernask
+T509	Isik 14062 14074	Gusta Lepson
+T510	Isik 14081 14093	Jaak Leppind
+T511	Isik 14110 14121	Jaan Parmak
+T512	Isik 14128 14140	Peter Urgard
+T513	Isik 14157 14171	Johan Kärtmann
+T514	Isik 14178 14195	Wiido Narrustrank
+T515	KO_koht 14213 14218	Saare
+T516	Isik 14219 14223	Jaan
+T517	Isik 14228 14240	Kusta Lepson
+T518	Isik 14245 14258	Kustaw Helfer
+T519	Isik 14263 14278	Peter Rämman L.
+T520	Isik 14283 14296	Jakob Parmann
+T521	Isik 14307 14322	Peter Rämmann K
+T522	Isik 14327 14342	Peter Rämman S.
+T523	Isik 14347 14359	Peter Urgard
+T524	Isik 14364 14381	Wiido Narrustrank
+T525	KO_koht 14395 14405	Kruusamägi
+T526	Isik 14430 14442	Jakob Lepson
+T527	Isik 14449 14461	Peter Rämman
+T528	Isik 14478 14490	Kusta Lepson
+T529	Isik 14497 14510	Kustaw Lepson
+T530	Isik 14527 14542	Peter Rämman L.
+T531	Isik 14549 14564	Peter Rämman L.
+T532	Isik 14581 14593	Jako Parmann
+T533	Isik 14600 14613	Jakob Parmann
+T534	Isik 14635 14648	Kustaw Lepund
+T535	Isik 14655 14668	Kusta Zernask
+T536	Isik 14685 14698	Kusta Zernask
+T537	Isik 14705 14718	Hind. Meening
+T538	Isik 14735 14749	Jakob Parmazow
+T539	Isik 14756 14768	Peter Urgard
+T540	Isik 14785 14796	Narrustrakk
+T541	Isik 14803 14817	W. Narrustrank
+T542	KO_koht 15395 15400	Parma
+T543	Isik 15401 15406	Josep
+T544	Isik 15411 15424	Josep Lepmann
+T545	Isik 15429 15442	Gustaw Lepson
+T546	Isik 15447 15462	Peter Rämman L.
+T547	Isik 15467 15479	Jakob Parman
+T548	Isik 15490 15504	Peter Rämman K
+T549	Isik 15509 15526	Peter Rämman S.W.
+T550	Isik 15531 15543	Peter Urgard
+T551	Isik 15548 15565	Wiido Narrustrank
+T552	KO_koht 15576 15581	Saare
+T553	Isik 15582 15587	Kusta
+T554	Isik 15592 15604	Peter Lepson
+T555	Isik 15609 15622	Gustaw Lepson
+T556	Isik 15627 15639	Peter Rämman
+T557	Isik 15644 15657	Jakob Parmann
+T558	Isik 15668 15683	Peter Rämman K.
+T559	Isik 15688 15701	Kusta Zernask
+T560	Isik 15706 15718	Peter Urgard
+T561	Isik 15723 15737	W. Narrustrank
+T562	KO_koht 15751 15759	Warruski
+T563	Isik 15784 15797	Kustaw Rämman
+T564	Isik 15804 15818	Jaan Kiiskmann
+T565	Isik 15835 15847	Gusta Lepson
+T566	Isik 15854 15866	Gusta Lepson
+T567	Isik 15883 15898	Peter Rämman L.
+T568	Isik 15905 15920	Peter Rämman L.
+T569	Isik 15937 15950	Jakob Parmann
+T570	Isik 15957 15970	Jakob Parmann
+T571	Isik 16013 16026	Kusta Zernask
+T572	Isik 16033 16046	Karel Küttman
+T573	Isik 16063 16078	Peter Rämman K.
+T574	Isik 16085 16102	Peter Rämman S.W.
+T575	Isik 16119 16131	Peter Urgard
+T576	Isik 16138 16150	Peter Urgard
+T577	Isik 16167 16181	W. Narrustrank
+T578	Isik 16188 16202	W. Narrustrank
+T579	KO_koht 16221 16226	Kütti
+T580	Isik 16231 16244	Karel Kütmann
+T581	Isik 16249 16261	Gusta Lepson
+T582	Isik 16266 16281	Peter Rämman L.
+T583	Isik 16286 16299	Jakob Parmann
+T584	Isik 16310 16323	Kusta Zernask
+T585	Isik 16328 16345	Peter Ramman S.W.
+T586	Isik 16350 16362	Peter Urgard
+T587	Isik 16367 16381	W. Narrustrank
+T588	KO_koht 16393 16398	Saare
+T589	Isik 16399 16404	Peedo
+T590	Isik 16409 16421	Josep Lepson
+T591	Isik 16426 16438	Gusta Lepson
+T592	Isik 16443 16458	Peter Rämman L.
+T593	Isik 16463 16476	Jakob Parmann
+T594	Isik 16487 16500	Kusta Zernask
+T595	Isik 16505 16517	Kusta Hanson
+T596	Isik 16522 16537	Jakob Parmatsow
+T597	Isik 16542 16557	Jaan Kristomijr
+T598	Isik 16569 16580	Jaan Helfer
+T599	Isik 16585 16596	Jaan Helfer
+T600	Isik 16601 16613	Peter Urtson
+T601	Isik 16618 16633	Peter Rämman L.
+T602	Isik 16638 16651	Jakob Parmann
+T603	Isik 16662 16676	Peter Rämman K
+T604	Isik 16681 16694	Kusta Zernask
+T605	Isik 16699 16711	Peter Urgard
+T606	Isik 16716 16730	W. Narrustrank
+T607	KO_koht 16742 16751	Wiletsaar
+T608	Isik 16756 16769	Kusta Parmson
+T609	Isik 16774 16787	Gustaw Lepson
+T610	Isik 16792 16807	Peter Rämman L.
+T611	Isik 16812 16825	Jakob Parmann
+T612	Isik 16836 16850	Peter Rämman K
+T613	Isik 16855 16868	Kusta Zernask
+T614	Isik 16873 16885	Peter Urgard
+T615	Isik 16890 16904	W. Narrustrank
+T616	KO_koht 16916 16922	Trangi
+T617	Isik 16927 16939	Josep Urgard
+T618	Isik 16944 16957	Gustaw Lepson
+T619	Isik 16962 16977	Peter Rämman L.
+T620	Isik 16982 16995	Jakob Parmann
+T621	Isik 17006 17020	Kustaw Zernask
+T622	Isik 17025 17040	Peter Rämman K.
+T623	Isik 17045 17057	Peter Urgard
+T624	Isik 17062 17076	W. Narrustrank
+T625	KO_koht 17088 17093	Musta
+T626	Isik 17098 17113	Hindrek Musting
+T627	Isik 17118 17131	Gustaw Lepson
+T628	Isik 17136 17150	Peter Rämman L
+T629	Isik 17155 17168	Jakob Parmann
+T630	Isik 17179 17192	Kusta Zernask
+T631	Isik 17197 17212	Peter Rämman K.
+T632	Isik 17217 17229	Peter Urgard
+T633	Isik 17234 17248	w. Narrustrang
+T634	KO_koht 17260 17264	Hani
+T635	Isik 17265 17270	Jakob
+T636	Isik 17275 17287	Kusta Hanson
+T637	Isik 17292 17305	Gustaw Lepson
+T638	Isik 17310 17325	Peter Rämman L.
+T639	Isik 17330 17343	Jakob Parmann
+T640	Isik 17354 17367	Kusta Zernask
+T641	Isik 17372 17388	Peter Rämmann K.
+T642	Isik 17393 17405	Peter Urgard
+T643	Isik 17410 17424	W. Narrustrank
+T644	KO_koht 17436 17440	Hani
+T645	Isik 17441 17446	Peter
+T646	Isik 17451 17464	Wiido Ritsing
+T647	Isik 17469 17481	Gusta Lepson
+T648	Isik 17486 17501	Peter Rämman L.
+T649	Isik 17506 17519	Jakob Parmann
+T650	Isik 17530 17543	Kusta Zernask
+T651	Isik 17548 17562	Peter Rämman K
+T652	Isik 17567 17579	Peter Urgard
+T653	Isik 17584 17598	W. Narrustrank
+T654	KO_koht 17610 17617	Ritsika
+T655	Isik 17622 17635	Wiido Ritsing
+T656	Isik 17640 17653	Gustaw Lepson
+T657	Isik 17658 17673	Peter Rämman L.
+T658	Isik 17678 17691	Jakob Parmann
+T659	Isik 17702 17715	Kusta Zernask
+T660	Isik 17720 17735	Peter Rämmann K
+T661	Isik 17740 17752	Peter Urgard
+T662	Isik 17757 17771	W. Narrustrank
+T663	KO_koht 17782 17792	Herrasaare
+T664	Isik 17797 17810	Jakob Palsing
+T665	Isik 17815 17827	Gusta Lepson
+T666	Isik 17832 17848	Jaan Kierhäiding
+T667	Isik 17853 17866	Jakob Parmann
+T668	Isik 17877 17891	Wiido Ritising
+T669	Isik 17896 17910	Peter Rämman K
+T670	Isik 17915 17927	Peter Urgard
+T671	Isik 17932 17946	W. Narrustrank
+T672	KO_koht 17957 17965	Sawilomp
+T673	Isik 17970 17983	Joosep Hanson
+T674	Isik 17988 18001	Gustaw Lepson
+T675	Isik 18006 18021	Peter Rämman L.
+T676	Isik 18026 18039	Jakob Parmann
+T677	Isik 18050 18063	Kusta Zernask
+T678	Isik 18068 18084	Peter Rämmann K.
+T679	Isik 18089 18101	Peter Urgard
+T680	Isik 18106 18120	W. Narrustrank
+T681	KO_koht 18132 18137	Häide
+T682	Isik 18142 18158	Jaan Kierhäiding
+T683	Isik 18163 18175	Peter Urtson
+T684	Isik 18180 18193	Jaan Leppikow
+T685	Isik 18198 18211	Jakob Parmann
+T686	Isik 18222 18237	Peter Rämman K.
+T687	Isik 18242 18257	Peter Rämman L.
+T688	Isik 18262 18274	Peter Urgard
+T689	Isik 18279 18292	Wiido Musting
+T690	KO_koht 18304 18309	Tooma
+T691	Isik 18314 18328	Gustaw Parmann
+T692	Isik 18333 18345	Peter Urtson
+T693	Isik 18350 18363	Jaan Leppikow
+T694	Isik 18368 18380	Jaan Oinberg
+T695	Isik 18391 18404	Kusta Zernask
+T696	Isik 18409 18424	Peter Rämman K.
+T697	Isik 18429 18441	Peter Urgard
+T698	Isik 18446 18460	W. Narrustrank
+T699	KO_koht 18475 18480	Kürsa
+T700	Isik 18505 18517	Paap parmann
+T701	Isik 18524 18541	Peter Kierhäiding
+T702	Isik 18556 18568	Kusta Hanson
+T703	Isik 18593 18605	Gusta Lepson
+T704	Isik 18629 18642	Karel Sultson
+T705	Isik 18666 18679	Jakob Parmann
+T706	Isik 18729 18742	Kusta Zernask
+T707	Isik 18766 18781	Peter Rämman K.
+T708	Isik 18805 18817	Peter Urgard
+T709	Isik 18841 18854	W. Narrustrak
+T710	KO_koht 18873 18877	Zina
+T711	Isik 18882 18895	Kusta Zirnask
+T712	Isik 18900 18912	Gusta Lepson
+T713	Isik 18917 18932	Peter Rämman L.
+T714	Isik 18937 18950	Jakob Parmann
+T715	Isik 18961 18975	Rein Parmatsow
+T716	Isik 18980 18994	Peter Rämman K
+T717	Isik 18999 19011	Peter Urgard
+T718	Isik 19016 19029	W. Narrustran
+T719	KO_koht 19041 19045	Kisa
+T720	Isik 19050 19063	Adam Suurmann
+T721	KO_koht 19135 19140	Parma
+T722	Isik 19145 19157	Jakob Parmak
+T723	Isik 19162 19174	Gusta Lepson
+T724	Isik 19179 19193	Peter Rämman L
+T725	Isik 19198 19211	Jakob Parmann
+T726	Isik 19222 19235	Kusta Zernask
+T727	Isik 19240 19255	Peter Rämman K.
+T728	Isik 19260 19272	Peter Urgard
+T729	Isik 19277 19291	W. Narrustrank
+T730	Isik 19322 19334	Jakob Parmak
+T731	Koht 19303 19317	S.W. Koolimaea
+T732	Isik 19339 19352	Gustaw Lepson
+T733	Isik 19357 19371	Peter Rämman L
+T734	Isik 19376 19389	Jakob Parmann
+T735	Isik 19400 19413	Kusta Zernask
+T736	Isik 19418 19433	Peter Rämman K.
+T737	Isik 19438 19450	Peter Urgard
+T738	Isik 19455 19469	W. Narrustrank
+T739	KO_koht 19481 19490	Piiriniit
+T740	Isik 19495 19505	Jaan Wosmi
+T741	Isik 19510 19523	Gustaw Lepson
+T742	Isik 19528 19540	Peter Rämman
+T743	Isik 19545 19558	Jakob Parmann
+T744	Isik 19569 19582	Kusta Zernask
+T745	Isik 19587 19599	Peter Rämman
+T746	Isik 19604 19616	Peter Urgard
+T747	Isik 19621 19635	W. Narrustrank
+T748	KO_koht 19647 19654	Nitsiko
+T749	Isik 19659 19676	Kustaw Kesselmann
+T750	Isik 19681 19693	Peter Urtson
+T751	Isik 19698 19711	Jaan Leppikow
+T752	Isik 19716 19729	Jakob Parmann
+T753	Isik 19740 19750	Peter Sepp
+T754	Isik 19755 19769	Joosep Parmson
+T755	Isik 19774 19786	Peter Urgard
+T756	Isik 19791 19800	W. Kübard
+T757	KO_koht 19812 19819	Nitsiko
+T758	Isik 19824 19837	Peter Lepland
+T759	Isik 19850 19862	Peter Urtson
+T760	Isik 19867 19880	Jaan Leppikow
+T761	Isik 19885 19898	Jakob Parmann
+T762	Isik 19909 19924	Peter Rämman K.
+T763	Isik 19929 19942	Kusta Zernask
+T764	Isik 19947 19959	Peter Urgard
+T765	Isik 19964 19976	Wido Musting
+T766	KO_koht 19988 19998	Rebastemae
+T767	Isik 20003 20016	Josep Parmson
+T768	Isik 20021 20034	Kustaw Helfer
+T769	Isik 20039 20052	Peter Rämmann
+T770	Isik 20057 20070	Jakob Parmann
+T771	Isik 20081 20094	Kusta Zernask
+T772	Isik 20099 20109	Peter Sepp
+T773	Isik 20114 20126	Peter Urgard
+T774	Isik 20131 20142	Aleksa Orra
+T775	KO_koht 20154 20164	Rebastemäe
+T776	Isik 20169 20179	Peter Lepp
+T777	Isik 20185 20198	Gustaw Lepson
+T778	Isik 20203 20218	Peter Rämman L.
+T779	Isik 20223 20236	Jakob Parmann
+T780	Isik 20247 20262	Kusta Kesselman
+T781	Isik 20267 20279	Josep Urgard
+T782	Isik 20284 20296	Josep Kübard
+T783	Isik 20301 20315	W. Narrustrank
+T784	KO_koht 20327 20337	Rebastemäe
+T785	Isik 20342 20354	Jaan Lepikow
+T786	Isik 20359 20371	Peter Urtson
+T787	Isik 20376 20389	Kusta Zernask
+T788	Isik 20394 20406	Jaan Oinberg
+T789	Isik 20417 20426	A. Liiwak
+T790	Isik 20431 20442	Karel Sults
+T791	Isik 20447 20458	Jaan Parmak
+T792	Isik 20463 20476	Josep Wõikson
+T793	Isik 20571 20582	Hans Liiwak
+T794	Isik 20589 20604	Wiido Kübardson
+T795	Isik 20621 20633	Peter Urtson
+T796	Isik 20640 20652	Peter Urtson
+T797	Isik 20669 20682	Jaan Leppikow
+T798	Isik 20689 20702	Peter Rämmann
+T799	Isik 20719 20731	Jaan Oinberg
+T800	Isik 20738 20751	Jakob Parmson
+T801	Isik 20794 20807	Karel Sultson
+T802	Isik 20814 20823	H. Liiwak
+T803	Isik 20840 20853	Wiido Ritsing
+T804	Isik 20860 20873	Karel Küttman
+T805	Isik 20890 20902	Peter Urgard
+T806	Isik 20909 20921	Peter Urgard
+T807	Isik 20938 20951	Josep Wõikson
+T808	Isik 20958 20972	W. Narrustrank
+T809	Isik 21503 21515	Josep parmak
+T810	Isik 21520 21532	Peter Urtson
+T811	Isik 21537 21552	Peter Rämman L.
+T812	Isik 21557 21570	Jakob Parmann
+T813	Isik 21581 21595	Peter Rämman K
+T814	Isik 21600 21613	Kusta Zernask
+T815	Isik 21618 21630	Peter Urgard
+T816	Isik 21635 21649	W. Naerustrank
+T817	Isik 21719 21733	Peter Kärtmann
+T818	Isik 21740 21753	Josep Wõikson
+T819	Isik 21770 21782	Kusta Lepson
+T820	Isik 21789 21801	Peter Urtson
+T821	Isik 21818 21830	Peter Rämman
+T822	Isik 21837 21850	Jaan Leppikow
+T823	Isik 21867 21880	Jakob Parmann
+T824	Isik 21887 21900	Jakob Parmann
+T825	Isik 21922 21935	Hind. Leppisk
+T826	Isik 21942 21954	Gusta Helfer
+T827	Isik 21971 21984	Kusta Zermask
+T828	Isik 21991 22000	A. Liiwak
+T829	Isik 22017 22029	Peter Urgard
+T830	Isik 22036 22048	Peter Urgard
+T831	Isik 22065 22082	Wiido Narrustrank
+T832	Isik 22089 22102	Jakob Laaskar
+T833	Isik 22190 22202	Peter Urtson
+T834	Isik 22212 22224	Gusta Lepson
+T835	Isik 22234 22247	Kustaw Helfer
+T836	Isik 22257 22270	Kusta Zernask
+T837	Isik 22289 22301	Jaan Lepikow
+T838	Isik 22312 22325	Peter Rämmann
+T839	Isik 22335 22348	Wiido Ritsing
+T840	Isik 22357 22370	Widrik Urgard
+T841	Isik 22379 22395	Jaan Kierhäiding
+T842	Isik 22404 22417	Karel Sultson
+T843	Isik 22426 22439	Kusta Zernask
+T844	Isik 22458 22471	Jakob Parmann
+T845	Isik 22481 22493	Jaan Oinberg
+T846	Isik 22503 22513	Josep Jõks
+T847	Isik 22522 22533	Wiido Using
+T848	Isik 22542 22556	Mihail Jssakow
+T849	Isik 22565 22578	Josep Oinberg
+T850	Isik 22602 22615	Kusta Zernask
+T851	Isik 22626 22639	Peter Rämmann
+T852	Isik 22649 22662	Hindr. Lepisk
+T853	Isik 22682 22696	Peter Rämman K
+T854	Isik 22706 22718	Peter Rämman
+T855	Isik 22727 22738	Jaak Lepind
+T856	Isik 22748 22761	Kusta Zernask
+T857	Isik 22776 22788	Peter Urgard
+T858	Isik 22801 22817	Wiido Narustrank
+T859	Isik 22827 22840	Josep Wõikson
+T860	Isik 22945 22958	Kustaw Rämman
+T861	Isik 22982 22996	Kirstian Kübar
+T862	Isik 23015 23026	Josep Sults

@@ -1,0 +1,19 @@
+T1	Koht 13 20	Lokkota
+T2	KO_koht 21 30	Wahi koha
+T3	Isik 40 50	Adu Mikker
+T4	Isik 186 199	Jüri Santmann
+T5	Isik 240 253	Jüri Santmann
+T6	Isik 300 313	Jaan Wärtmann
+T8	KO_koht 292 299	Saareni
+T9	KO_koht 359 363	Wahi
+T10	Isik 364 368	Adul
+T11	Isik 419 423	Jüri
+T12	Isik 475 479	Jaan
+T13	Isik 556 569	Jaan Wärtmann
+T14	Isik 629 643	Jüri Santmanni
+T15	KO_koht 663 668	Wahil
+T16	KO_koht 799 803	Wahi
+T17	Isik 1015 1028	Adu Sengbusch
+T18	Isik 1045 1054	Rein Rick
+T19	Isik 1062 1079	Kustas Silbermann
+T7	KO_koht 325 339	Sillaotsa pere
