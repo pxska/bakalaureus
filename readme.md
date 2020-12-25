@@ -1,7 +1,5 @@
 # Bakalaureus
 
----
-
 Antud repositoorium on loodud eesmärgiga hallata Kristjan Pärnmetsa bakalaureusetöös kasutatavaid faile.
 
 **Bakalaureusetöö teema:** Nimeüksuste tuvastamine 19. sajandi vallakohtuprotokollides.
