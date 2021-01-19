@@ -7,4 +7,4 @@ Antud repositoorium on loodud eesmärgiga hallata Kristjan Pärnmetsa bakalaureu
 Bakalaureusetöös kasutatavad tehnoloogiad:
 - Python 3.7
 - Pythoni teek [EstNLTK](https://github.com/estnltk/estnltk/tree/master)
-- Jupyter Notebookid (+ Anaconda)
+- Jupyter Notebook (+ Anaconda)
