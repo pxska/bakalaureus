@@ -207,7 +207,7 @@ class NerMorphNoLemmasFeatureTagger(Retagger):
             LEM = None
             if not LEM:
                 LEM = token.text
-            layer.add_annotation(token, lem=get_lemma(LEM), pos=get_pos(token.partofspeech),
+            layer.add_annotation(token, lem=None, pos=get_pos(token.partofspeech),
                                  prop=b(is_prop(token.partofspeech)),
                                  pref=None,
                                  post=None,
