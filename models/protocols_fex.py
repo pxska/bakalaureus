@@ -58,11 +58,9 @@ class NerLocalFeatureWithoutMorphTagger(Retagger):
     def _change_layer(self, text: Text, layers: MutableMapping[str, Layer], status: dict):
         layer = layers[self.output_layer]
         layer.attributes += tuple(self.output_attributes)
+        morph_layer = self.input_layers[1]
         for token in text.ner_features:
-            LEM = '_'.join(token.root_tokens[0]) + ('+' + token.ending[0] if token.ending[0] else '')
-            if not LEM:
-                LEM = token.text
-
+            LEM = token.text
 
             # Token.
             token.ner_features.w = token.text
@@ -74,16 +72,16 @@ class NerLocalFeatureWithoutMorphTagger(Retagger):
             token.ner_features.shaped = degenerate(get_shape(token.text))
 
             # Prefixes (length between one to four).
-            token.ner_features.p1 = token.text[0] if len(token.text) >= 1 else None
-            token.ner_features.p2 = token.text[:2] if len(token.text) >= 2 else None
-            token.ner_features.p3 = token.text[:3] if len(token.text) >= 3 else None
-            token.ner_features.p4 = token.text[:4] if len(token.text) >= 4 else None
+            token.ner_features.p1 = LEM[0] if len(LEM) >= 1 else None
+            token.ner_features.p2 = LEM[:2] if len(LEM) >= 2 else None
+            token.ner_features.p3 = LEM[:3] if len(LEM) >= 3 else None
+            token.ner_features.p4 = LEM[:4] if len(LEM) >= 4 else None
 
             # Suffixes (length between one to four).
-            token.ner_features.s1 = token.text[-1] if len(token.text) >= 1 else None
-            token.ner_features.s2 = token.text[-2:] if len(token.text) >= 2 else None
-            token.ner_features.s3 = token.text[-3:] if len(token.text) >= 3 else None
-            token.ner_features.s4 = token.text[-4:] if len(token.text) >= 4 else None
+            token.ner_features.s1 = LEM[-1] if len(LEM) >= 1 else None
+            token.ner_features.s2 = LEM[-2:] if len(LEM) >= 2 else None
+            token.ner_features.s3 = LEM[-3:] if len(LEM) >= 3 else None
+            token.ner_features.s4 = LEM[-4:] if len(LEM) >= 4 else None
 
             # Two digits
             token.ner_features.d2 = b(get_2d(token.text))
@@ -131,15 +129,15 @@ class NerLocalFeatureWithoutMorphTagger(Retagger):
             token.ner_features.cs = b(contains_symbol(token.text))
 
             # Before, after dash
-            token.ner_features.bdash = split_char(token.text, '-')[0]
-            token.ner_features.adash = split_char(token.text, '-')[1]
+            token.ner_features.bdash = split_char(LEM, '-')[0]
+            token.ner_features.adash = split_char(LEM, '-')[1]
 
             # Before, after dot
-            token.ner_features.bdot = split_char(token.text, '.')[0]
-            token.ner_features.adot = split_char(token.text, '.')[1]
+            token.ner_features.bdot = split_char(LEM, '.')[0]
+            token.ner_features.adot = split_char(LEM, '.')[1]
 
             # Length
-            token.ner_features.len = str(len(token.text))
+            token.ner_features.len = str(len(LEM))
 
 class NerBasicMorphFeatureTagger(Retagger):
     """"Extracts features provided by the morphological analyser pyvabamorf. """
@@ -179,6 +177,29 @@ class NerBasicMorphFeatureTagger(Retagger):
                                  cd=None, cp=None, cds=None, cdt=None, cs=None, bdash=None, adash=None,
                                  bdot=None, adot=None, len=None, fsnt=None, lsnt=None, gaz=None, prew=None,
                                  next=None, iuoc=None, pprop=None, nprop=None, pgaz=None, ngaz=None, F=None)
+
+            # Prefixes (length between one to four).
+            token.ner_features.p1 = LEM[0] if len(LEM) >= 1 else None
+            token.ner_features.p2 = LEM[:2] if len(LEM) >= 2 else None
+            token.ner_features.p3 = LEM[:3] if len(LEM) >= 3 else None
+            token.ner_features.p4 = LEM[:4] if len(LEM) >= 4 else None
+
+            # Suffixes (length between one to four).
+            token.ner_features.s1 = LEM[-1] if len(LEM) >= 1 else None
+            token.ner_features.s2 = LEM[-2:] if len(LEM) >= 2 else None
+            token.ner_features.s3 = LEM[-3:] if len(LEM) >= 3 else None
+            token.ner_features.s4 = LEM[-4:] if len(LEM) >= 4 else None
+            
+             # Before, after dash
+            token.ner_features.bdash = split_char(LEM, '-')[0]
+            token.ner_features.adash = split_char(LEM, '-')[1]
+
+            # Before, after dot
+            token.ner_features.bdot = split_char(LEM, '.')[0]
+            token.ner_features.adot = split_char(LEM, '.')[1]
+
+            # Length
+            token.ner_features.len = str(len(LEM))
 
         return layer
 

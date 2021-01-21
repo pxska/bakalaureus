@@ -3,10 +3,21 @@ from nervaluate import Evaluator
 import sklearn_crfsuite
 import nereval
 import pandas as pd
+import os
+import json
 from sklearn.metrics import classification_report
 from sklearn_crfsuite import metrics
 
-def extract_results_to_txt_file(files):
+files_not_working = ['J2rva_Tyri_V22tsa_id22177_1911a.json', \
+                     'J2rva_Tyri_V22tsa_id18538_1894a.json', \
+                     'J2rva_Tyri_V22tsa_id22155_1911a.json', \
+                     'Saare_Kihelkonna_Kotlandi_id18845_1865a.json', \
+                     'P2rnu_Halliste_Abja_id257_1844a.json', \
+                     'Saare_Kaarma_Loona_id7575_1899a.json', \
+                     'J2rva_Tyri_V22tsa_id22266_1913a.json', \
+                     'J2rva_Tyri_V22tsa_id22178_1912a.json']
+
+def extract_results_to_txt_file(model_dir, files):
     all_results = {}
     gold_ner = []
     test_ner = []
@@ -19,7 +30,6 @@ def extract_results_to_txt_file(files):
             else:
                 training_subdistributions.append(y)
 
-
         for file in {key: value for key, value in files.items() if int(value) == subdistribution_for_testing}:
             appendable_gold_ner = []
             appendable_test_ner = []
@@ -28,8 +38,8 @@ def extract_results_to_txt_file(files):
                 if file in files_not_working:
                     continue
                 else:
-                    with open("./vallakohtufailid-trained-nertagger/" + str(file), 'r', encoding='UTF-8') as f_test, \
-                        open("./vallakohtufailid-json-flattened/" + str(file), 'r', encoding='UTF-8') as f_gold:
+                    with open(os.path.join('..', 'models', model_dir, 'vallakohtufailid-trained-nertagger', file), 'r', encoding='UTF-8') as f_test, \
+                        open(os.path.join('..', 'data', 'vallakohtufailid-json-flattened', file), 'r', encoding='UTF-8') as f_gold:
                             test_import = json_to_text(f_test.read())
                             gold_import = json_to_text(f_gold.read())
 
@@ -65,7 +75,7 @@ def extract_results_to_txt_file(files):
         all_results[subdistribution_for_testing] = (results, results_per_tag)
     print("Tulemuste ammutamine on lõpetatud.")
     
-    with open("results_new_ver1.txt", "w+") as results_file:
+    with open(os.path.join('..', 'models', model_dir, 'results.txt'), 'w+') as results_file:
         results_file.write(json.dumps(all_results))
     
     return all_results

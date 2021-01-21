@@ -156,7 +156,7 @@ TEMPLATES = [
 
 FEATURE_EXTRACTORS = (
     "models.protocols_fex.NerEmptyFeatureTagger",
-    "models.protocols_fex.NerLocalFeatureWithoutMorphTagger",
+    "models.protocols_fex.NerLocalFeatureWithoutMorphTagger"
 )
 
 '''
