@@ -80,10 +80,7 @@ def extract_results_to_txt_file(model_dir, files):
     
     return all_results
 
-def display_results_by_subdistribution(filename):
-    with open(str(filename), "r") as f:
-        results_json = json.loads(f.read())
-        
+def display_results_by_subdistribution(results_json): 
     correct_all = 0
     actual_all = 0
     possible_all = 0
@@ -111,15 +108,11 @@ def display_results_by_subdistribution(filename):
     recall = correct_all / possible_all
     f1 = 2 * ((precision * recall) / (precision + recall))
     df["Total"] = [precision, recall, f1]
-
     dataframe = pd.DataFrame(df, index=["Precision", "Recall", "F1-score"])
     dataframe.columns.name = "Alamhulk"
-    display(dataframe)
+    return dataframe
 
-def display_results_by_named_entity(filename):
-    with open(str(filename), "r") as f:
-        results_json = json.loads(f.read())
-    
+def display_results_by_named_entity(results_json):
     df = dict()
     totals = dict()
 
@@ -168,7 +161,7 @@ def display_results_by_named_entity(filename):
         totals[key] = value/5
 
     df["Total"] = totals
-    display(pd.DataFrame(df))
+    return df
     
 def display_confusion_matrix(gold_ner, test_ner):
     uus_gold_ner = []
