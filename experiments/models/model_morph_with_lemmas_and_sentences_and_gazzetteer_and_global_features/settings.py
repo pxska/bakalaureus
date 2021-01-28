@@ -157,7 +157,9 @@ TEMPLATES = [
 FEATURE_EXTRACTORS = (
     "models.protocols_fex.NerEmptyFeatureTagger",
     "models.protocols_fex.NerLocalFeatureWithoutMorphTagger",
-    "models.protocols_fex.NerMorphNoLemmasFeatureTagger",
+    "models.protocols_fex.NerBasicMorphFeatureTagger",
+    "estnltk.taggers.estner.fex.NerSentenceFeatureTagger",
+    "estnltk.taggers.estner.fex.NerGazetteerFeatureTagger",
     "estnltk.taggers.estner.fex.NerGlobalContextFeatureTagger"
 )
 

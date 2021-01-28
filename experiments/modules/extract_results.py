@@ -19,10 +19,10 @@ files_not_working = ['J2rva_Tyri_V22tsa_id22177_1911a.json', \
 
 def extract_results_to_txt_file(model_dir, files):
     all_results = {}
-    gold_ner = []
-    test_ner = []
-
+    
     for subdistribution in [1, 2, 3, 4, 5]:
+        gold_ner = []
+        test_ner = []
         training_subdistributions = []
         for y in [1, 2, 3, 4, 5]:
             if y == subdistribution:
@@ -69,7 +69,7 @@ def extract_results_to_txt_file(model_dir, files):
 
                 gold_ner.append(appendable_gold_ner)
                 test_ner.append(appendable_test_ner)
-                
+        print(len(gold_ner), len(test_ner))
         evaluator = Evaluator(gold_ner, test_ner, tags=['ORG', 'PER', 'MISC', 'LOC', 'LOC_ORG'])
         results, results_per_tag = evaluator.evaluate()
         all_results[subdistribution_for_testing] = (results, results_per_tag)
