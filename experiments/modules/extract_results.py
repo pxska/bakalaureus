@@ -23,56 +23,48 @@ def extract_results_to_txt_file(model_dir, files):
     for subdistribution in [1, 2, 3, 4, 5]:
         gold_ner = []
         test_ner = []
-        training_subdistributions = []
-        for y in [1, 2, 3, 4, 5]:
-            if y == subdistribution:
-                subdistribution_for_testing = y
-            else:
-                training_subdistributions.append(y)
 
-        for file in {key: value for key, value in files.items() if int(value) == subdistribution_for_testing}:
+        for file in {key: value for key, value in files.items() if int(value) == subdistribution}:
             appendable_gold_ner = []
             appendable_test_ner = []
 
-            if file.endswith(".json"):
-                if file in files_not_working:
-                    continue
-                else:
-                    with open(os.path.join('models', model_dir, 'vallakohtufailid-trained-nertagger', file), 'r', encoding='UTF-8') as f_test, \
-                        open(os.path.join('..', 'data', 'vallakohtufailid-json-flattened', file), 'r', encoding='UTF-8') as f_gold:
-                            test_import = json_to_text(f_test.read())
-                            gold_import = json_to_text(f_gold.read())
+            if not file.endswith(".json") or file in files_not_working:
+                continue
+            else:
+                with open(os.path.join('models', model_dir, 'vallakohtufailid-trained-nertagger', file), 'r', encoding='UTF-8') as f_test, \
+                     open(os.path.join('..', 'data', 'vallakohtufailid-json-flattened', file), 'r', encoding='UTF-8') as f_gold:
+                        test_import = json_to_text(f_test.read())
+                        gold_import = json_to_text(f_gold.read())
 
-                            # The commented part is needed for word-level-ner.
-                            '''
-                            for i in range(len(gold_import['flat_gold_wordner'])):
-                                tag = gold_import['flat_gold_wordner'][i].nertag[0]
-                                gold.append(tag)
-                            for i in range(len(test_import['flat_wordner'])):
-                                tag = test_import['flat_wordner'][i].nertag[0]
-                                test.append(tag)
-                            '''
+                        # The commented part is needed for word-level-ner.
+                        '''
+                        for i in range(len(gold_import['flat_gold_wordner'])):
+                            tag = gold_import['flat_gold_wordner'][i].nertag[0]
+                            gold.append(tag)
+                        for i in range(len(test_import['flat_wordner'])):
+                            tag = test_import['flat_wordner'][i].nertag[0]
+                            test.append(tag)
+                        '''
 
-                            for i in range(len(gold_import['gold_ner'])):
-                                ner = gold_import['gold_ner'][i]
-                                label = ner.nertag
-                                start = int(ner.start)
-                                end = int(ner.end)
-                                appendable_gold_ner.append({"label": label, "start": start, "end": end})
+                        for i in range(len(gold_import['gold_ner'])):
+                            ner = gold_import['gold_ner'][i]
+                            label = ner.nertag
+                            start = int(ner.start)
+                            end = int(ner.end)
+                            appendable_gold_ner.append({"label": label, "start": start, "end": end})
 
-                            for i in range(len(test_import['flat_ner'])):
-                                ner = test_import['flat_ner'][i]
-                                label = ner.nertag[0]
-                                start = int(ner.start)
-                                end = int(ner.end)
-                                appendable_test_ner.append({"label": label, "start": start, "end": end})
+                        for i in range(len(test_import['flat_ner'])):
+                            ner = test_import['flat_ner'][i]
+                            label = ner.nertag[0]
+                            start = int(ner.start)
+                            end = int(ner.end)
+                            appendable_test_ner.append({"label": label, "start": start, "end": end})
 
-                gold_ner.append(appendable_gold_ner)
-                test_ner.append(appendable_test_ner)
-        print(len(gold_ner), len(test_ner))
+            gold_ner.append(appendable_gold_ner)
+            test_ner.append(appendable_test_ner)
         evaluator = Evaluator(gold_ner, test_ner, tags=['ORG', 'PER', 'MISC', 'LOC', 'LOC_ORG'])
         results, results_per_tag = evaluator.evaluate()
-        all_results[subdistribution_for_testing] = (results, results_per_tag)
+        all_results[subdistribution] = (results, results_per_tag)
     print("Tulemuste ammutamine on lõpetatud.")
     
     with open(os.path.join('models', model_dir, 'results.txt'), 'w+') as results_file:
@@ -80,36 +72,37 @@ def extract_results_to_txt_file(model_dir, files):
     
     return all_results
 
-def display_results_by_subdistribution(results_json): 
+def display_results_by_subdistribution(results_json):
     correct_all = 0
     actual_all = 0
     possible_all = 0
     df = dict()
 
-    for i in ['1', '2', '3', '4', '5']:
-        train = []
-        for j in ['1', '2', '3', '4', '5']:
-            if j == i:
-                subdistribution_for_testing = j
-            else:
-                train.append(j)
+    for i in ['1', '2', '3', '4', '5']:    
         correct = results_json[i][0]['strict']['correct']
         correct_all += correct
+        
         actual = results_json[i][0]['strict']['actual']
         actual_all += actual
+        
         possible = results_json[i][0]['strict']['possible']
         possible_all += possible
+        
         precision = (correct / actual)
         recall = (correct / possible)
         f1 = 2 * ((precision * recall) / (precision + recall))
-        df[str(subdistribution_for_testing)] = [precision, recall, f1]
-
+        
+        df[str(i)] = [precision, recall, f1]
+    
     precision = correct_all / actual_all
     recall = correct_all / possible_all
     f1 = 2 * ((precision * recall) / (precision + recall))
+    
     df["Total"] = [precision, recall, f1]
+    
     dataframe = pd.DataFrame(df, index=["Precision", "Recall", "F1-score"])
     dataframe.columns.name = "Alamhulk"
+    
     return dataframe
 
 def display_results_by_named_entity(results_json):

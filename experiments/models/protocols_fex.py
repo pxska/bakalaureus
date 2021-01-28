@@ -8,7 +8,7 @@ class NerEmptyFeatureTagger(Tagger):
     """Extracts features provided by the morphological analyser pyvabamorf. """
     conf_param = ['settings']
 
-    def __init__(self, settings, input_layers = ('words',), output_layer='ner_features',
+    def __init__(self, settings, input_layers = ['words'], output_layer='ner_features',
                  output_attributes=("lem", "pos", "prop", "pref", "post", "case",
                                     "ending", "pun", "w", "w1", "shape", "shaped", "p1",
                                     "p2", "p3", "p4", "s1", "s2", "s3", "s4", "d2",
@@ -26,9 +26,6 @@ class NerEmptyFeatureTagger(Tagger):
     def _make_layer(self, text: Text, layers: MutableMapping[str, Layer], status: dict):
         layer = Layer(self.output_layer, ambiguous=True, attributes=self.output_attributes, text_object=text)
         for token in text.words:
-            LEM = '_'.join(token.root_tokens[0]) + ('+' + token.ending[0] if token.ending[0] else '')
-            if not LEM:
-                LEM = token.text
             layer.add_annotation(token, lem=None, pos=None,
                                  prop=None,
                                  pref=None,
@@ -59,8 +56,6 @@ class NerLocalFeatureWithoutMorphTagger(Retagger):
         layer = layers[self.output_layer]
         layer.attributes += tuple(self.output_attributes)
         for token in text.ner_features:
-            LEM = token.text
-
             # Token.
             token.ner_features.w = token.text
             # Lowercased token.
@@ -71,16 +66,16 @@ class NerLocalFeatureWithoutMorphTagger(Retagger):
             token.ner_features.shaped = degenerate(get_shape(token.text))
 
             # Prefixes (length between one to four).
-            token.ner_features.p1 = LEM[0] if len(LEM) >= 1 else None
-            token.ner_features.p2 = LEM[:2] if len(LEM) >= 2 else None
-            token.ner_features.p3 = LEM[:3] if len(LEM) >= 3 else None
-            token.ner_features.p4 = LEM[:4] if len(LEM) >= 4 else None
+            token.ner_features.p1 = token.text[0] if len(token.text) >= 1 else None
+            token.ner_features.p2 = token.text[:2] if len(token.text) >= 2 else None
+            token.ner_features.p3 = token.text[:3] if len(token.text) >= 3 else None
+            token.ner_features.p4 = token.text[:4] if len(token.text) >= 4 else None
 
             # Suffixes (length between one to four).
-            token.ner_features.s1 = LEM[-1] if len(LEM) >= 1 else None
-            token.ner_features.s2 = LEM[-2:] if len(LEM) >= 2 else None
-            token.ner_features.s3 = LEM[-3:] if len(LEM) >= 3 else None
-            token.ner_features.s4 = LEM[-4:] if len(LEM) >= 4 else None
+            token.ner_features.s1 = token.text[-1] if len(token.text) >= 1 else None
+            token.ner_features.s2 = token.text[-2:] if len(token.text) >= 2 else None
+            token.ner_features.s3 = token.text[-3:] if len(token.text) >= 3 else None
+            token.ner_features.s4 = token.text[-4:] if len(token.text) >= 4 else None
 
             # Two digits
             token.ner_features.d2 = b(get_2d(token.text))
@@ -128,21 +123,21 @@ class NerLocalFeatureWithoutMorphTagger(Retagger):
             token.ner_features.cs = b(contains_symbol(token.text))
 
             # Before, after dash
-            token.ner_features.bdash = split_char(LEM, '-')[0]
-            token.ner_features.adash = split_char(LEM, '-')[1]
+            token.ner_features.bdash = split_char(token.text, '-')[0]
+            token.ner_features.adash = split_char(token.text, '-')[1]
 
             # Before, after dot
-            token.ner_features.bdot = split_char(LEM, '.')[0]
-            token.ner_features.adot = split_char(LEM, '.')[1]
+            token.ner_features.bdot = split_char(token.text, '.')[0]
+            token.ner_features.adot = split_char(token.text, '.')[1]
 
             # Length
-            token.ner_features.len = str(len(LEM))
+            token.ner_features.len = str(len(token.text))
     
 class NerBasicMorphFeatureTagger(Retagger):
     """Extracts features provided by the morphological analyser pyvabamorf. """
     conf_param = ['settings']
 
-    def __init__(self, settings, input_layers = ('ner_features',), output_layer='ner_features',
+    def __init__(self, settings, input_layers = ['ner_features'], output_layer='ner_features',
                  output_attributes=("lem", "pos", "prop", "pref", "post", "case",
                                     "ending", "pun", "w", "w1", "shape", "shaped", "p1",
                                     "p2", "p3", "p4", "s1", "s2", "s3", "s4", "d2",
@@ -158,7 +153,8 @@ class NerBasicMorphFeatureTagger(Retagger):
         self.input_layers = input_layers
 
     def _change_layer(self, text: Text, layers: MutableMapping[str, Layer], status: dict):
-        layer = Layer(self.output_layer, ambiguous=True, attributes=self.output_attributes, text_object=text)
+        layer = Layer(self.output_layer)
+        layer.attributes += tuple(self.output_attributes)
         for token in text.words:
             LEM = '_'.join(token.root_tokens[0]) + ('+' + token.ending[0] if token.ending[0] else '')
             if not LEM:
@@ -204,7 +200,7 @@ class NerMorphNoLemmasFeatureTagger(Retagger):
     """Extracts features provided by the morphological analyser pyvabamorf. """
     conf_param = ['settings']
 
-    def __init__(self, settings, input_layers = ('ner_features',), output_layer='ner_features',
+    def __init__(self, settings, input_layers = ['ner_features'], output_layer='ner_features',
                  output_attributes=("lem", "pos", "prop", "pref", "post", "case",
                                     "ending", "pun", "w", "w1", "shape", "shaped", "p1",
                                     "p2", "p3", "p4", "s1", "s2", "s3", "s4", "d2",
