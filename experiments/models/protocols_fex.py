@@ -159,7 +159,7 @@ class NerBasicMorphFeatureTagger(Retagger):
             LEM = '_'.join(token.root_tokens[0]) + ('+' + token.ending[0] if token.ending[0] else '')
             if not LEM:
                 LEM = token.text
-            LEM = get_lemma(lem)
+            LEM = get_lemma(LEM)
                 
             ner_features_layer[i].lem = get_lemma(LEM)
             ner_features_layer[i].pos = get_pos(token.partofspeech)
