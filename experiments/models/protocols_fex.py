@@ -46,7 +46,7 @@ class NerLocalFeatureWithoutMorphTagger(Retagger):
     """Generates features for a token based on its character makeup."""
     conf_param = ['settings']
 
-    def __init__(self, settings, output_layer='ner_features', output_attributes=(), input_layers=['ner_features']):
+    def __init__(self, settings, output_layer='ner_features', output_attributes=(), input_layers=('ner_features', 'words')):
         self.settings = settings
         self.output_layer = output_layer
         self.output_attributes = output_attributes
@@ -54,7 +54,7 @@ class NerLocalFeatureWithoutMorphTagger(Retagger):
 
     def _change_layer(self, text: Text, layers: MutableMapping[str, Layer], status: dict):
         ner_features_layer = layers[self.output_layer]
-        words_layer = text.words
+        words_layer = layers['words']
         for i, token in enumerate( words_layer ):
             # Token.
             ner_features_layer[i].w = token.text
@@ -137,7 +137,7 @@ class NerBasicMorphFeatureTagger(Retagger):
     """Extracts features provided by the morphological analyser pyvabamorf. """
     conf_param = ['settings']
 
-    def __init__(self, settings, input_layers = ['ner_features'], output_layer='ner_features',
+    def __init__(self, settings, input_layers = ('ner_features', 'words'), output_layer='ner_features',
                  output_attributes=("lem", "pos", "prop", "pref", "post", "case",
                                     "ending", "pun", "w", "w1", "shape", "shaped", "p1",
                                     "p2", "p3", "p4", "s1", "s2", "s3", "s4", "d2",
@@ -154,11 +154,12 @@ class NerBasicMorphFeatureTagger(Retagger):
 
     def _change_layer(self, text: Text, layers: MutableMapping[str, Layer], status: dict):
         ner_features_layer = layers[self.output_layer]
-        words_layer = text.words
+        words_layer = layers['words']
         for i, token in enumerate( words_layer ):
             LEM = '_'.join(token.root_tokens[0]) + ('+' + token.ending[0] if token.ending[0] else '')
             if not LEM:
                 LEM = token.text
+            LEM = get_lemma(lem)
                 
             ner_features_layer[i].lem = get_lemma(LEM)
             ner_features_layer[i].pos = get_pos(token.partofspeech)
@@ -196,7 +197,7 @@ class NerMorphNoLemmasFeatureTagger(Retagger):
     """Extracts features provided by the morphological analyser pyvabamorf. """
     conf_param = ['settings']
 
-    def __init__(self, settings, input_layers = ['ner_features'], output_layer='ner_features',
+    def __init__(self, settings, input_layers = ('ner_features', 'words'), output_layer='ner_features',
                  output_attributes=("lem", "pos", "prop", "pref", "post", "case",
                                     "ending", "pun", "w", "w1", "shape", "shaped", "p1",
                                     "p2", "p3", "p4", "s1", "s2", "s3", "s4", "d2",
@@ -213,9 +214,8 @@ class NerMorphNoLemmasFeatureTagger(Retagger):
 
     def _change_layer(self, text: Text, layers: MutableMapping[str, Layer], status: dict):
         ner_features_layer = layers[self.output_layer]
-        words_layer = text.words
+        words_layer = layers['words']
         for i, token in enumerate( words_layer ):
-            LEM = token.text
         
             ner_features_layer[i].pos = get_pos(token.partofspeech)
             ner_features_layer[i].prop = b(is_prop(token.partofspeech))
