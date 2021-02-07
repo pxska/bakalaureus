@@ -3,7 +3,6 @@ import re
 from estnltk import Text
 from estnltk.taggers import Retagger
 from estnltk.taggers import CompoundTokenTagger
-from estnltk.taggers import VabamorfCorpusTagger
 
 class TokenSplitter( Retagger ):
     """Splits tokens into smaller tokens based on regular expression patterns.""" 
@@ -99,11 +98,9 @@ token_splitter = TokenSplitter(patterns=[re.compile(r'(?P<end>[A-ZÕÄÖÜ]{1}\w
                                          re.compile(r'(?P<end>talumees)Nikolai')])
 
 c = CompoundTokenTagger(tag_initials = False, tag_abbreviations = False, tag_hyphenations = False)
-vm_corpus_tagger = VabamorfCorpusTagger()
 def preprocess_text(text):
     tagged_text = text.tag_layer(['tokens'])
     token_splitter.retag(tagged_text)
     c.tag(tagged_text)
-    vm_corpus_tagger.tag(tagged_text)
-    #tagged_text.tag_layer(['morph_analysis'])
+    tagged_text.tag_layer(['morph_analysis'])
     return tagged_text
