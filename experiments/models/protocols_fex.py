@@ -3,6 +3,9 @@ from estnltk.taggers.estner.fex import get_shape, get_2d, get_lemma, get_pos, is
 from estnltk.text import Text
 from estnltk.layer.layer import Layer
 from typing import MutableMapping
+from collections import defaultdict
+import codecs
+import os
 
 class NerEmptyFeatureTagger(Tagger):
     """Extracts features provided by the morphological analyser pyvabamorf. """
@@ -222,3 +225,49 @@ class NerMorphNoLemmasFeatureTagger(Retagger):
             ner_features_layer[i].case = get_case(token.form[0])
             ner_features_layer[i].pun = b(get_pos(token.partofspeech)=="_Z_")
 
+class NerGazetteerFeatureTagger(Retagger):
+    """Generates features indicating whether the token is present in a precompiled
+    list of organisations, geographical locations or person names. For instance,
+    if a token t occurs both in the list of person names (PER) and organisations (ORG),
+    assign t['gaz'] = ['PER', 'ORG']. With the parameter look_ahead, it is possible to
+    compose multi-token phrases for dictionary lookup. When look_ahead=N, phrases
+    (t[i], ..., t[i+N]) will be composed. If the phrase matches the dictionary, each
+    token will be assigned the corresponding value.
+    """
+    conf_param = ['settings', 'look_ahead', 'data']
+
+    def __init__(self, settings, look_ahead=3, output_layer='ner_features', output_attributes=(),
+                 input_layers=['ner_features']):
+        self.settings = settings
+        self.look_ahead = look_ahead
+        self.output_layer = output_layer
+        self.output_attributes = output_attributes
+        self.input_layers = input_layers
+
+        self.data = defaultdict(set)
+        with codecs.open(os.path.join('..', 'experiments', 'models', 'gazzetteer.txt'), 'rb', encoding="utf8") as f:
+            for ln in f:
+                word, lbl = ln.strip().rsplit("\t", 1)
+                self.data[word].add(lbl)
+
+    def _change_layer(self, text: Text, layers: MutableMapping[str, Layer], status: dict):
+        layer = layers[self.output_layer]
+        layer.attributes += tuple(self.output_attributes)
+        tokens = list(layer)
+        look_ahead = self.look_ahead
+        for i in range(len(tokens)):
+            if tokens[i].ner_features.iu[0] is not None:  # Only capitalised strings
+                for j in range(i + 1, i + 1 + look_ahead):
+                    lemmas = []
+                    for token in tokens[i:j]:
+                        LEM = '_'.join(token.root_tokens[0]) + (
+                        '+' + token.ending[0] if token.ending[0] else '').lower()
+                        if not LEM:
+                            LEM = token.text
+                        LEM = get_lemma(LEM)
+                        lemmas.append(LEM)
+                    phrase = " ".join(lemmas)
+                    if phrase in self.data:
+                        labels = self.data[phrase]
+                        for tok in tokens[i:j]:
+                            tok.ner_features.gaz = labels

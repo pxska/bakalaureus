@@ -1,3 +1,8 @@
 .DS_Store
 .ipynb_checkpoints/
 __pycache__
+data/vallakohtud.csv
+data/TSV_kasitsi
+data/TSV_automaatne
+experiments/models/gazzetteer_both
+experiments/models/gazzetteer_vallakohtud
