@@ -1,2 +1,0 @@
-- luua "dopinguvaba" gazzetteer vallakohtufailidest
-- 
