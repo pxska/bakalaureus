@@ -245,11 +245,11 @@ class NerGazetteerFeatureTagger(Retagger):
         self.input_layers = input_layers
 
         self.data = defaultdict(set)
-        with codecs.open(os.path.join('..', 'experiments', 'models', 'gazzetteer.txt'), 'rb', encoding="utf8") as f:
+        with codecs.open(settings.GAZETTEER_FILE, 'rb', encoding="utf8") as f:
             for ln in f:
                 word, lbl = ln.strip().rsplit("\t", 1)
                 self.data[word].add(lbl)
-
+    
     def _change_layer(self, text: Text, layers: MutableMapping[str, Layer], status: dict):
         layer = layers[self.output_layer]
         layer.attributes += tuple(self.output_attributes)
@@ -260,14 +260,12 @@ class NerGazetteerFeatureTagger(Retagger):
                 for j in range(i + 1, i + 1 + look_ahead):
                     lemmas = []
                     for token in tokens[i:j]:
-                        LEM = '_'.join(token.root_tokens[0]) + (
-                        '+' + token.ending[0] if token.ending[0] else '').lower()
-                        if not LEM:
-                            LEM = token.text
-                        LEM = get_lemma(LEM)
-                        lemmas.append(LEM)
+                        lemmas.append(token.text)
                     phrase = " ".join(lemmas)
                     if phrase in self.data:
+                        print("phrase in self.data")
                         labels = self.data[phrase]
                         for tok in tokens[i:j]:
                             tok.ner_features.gaz = labels
+                    else:
+                        print('phrase not in self.data')
