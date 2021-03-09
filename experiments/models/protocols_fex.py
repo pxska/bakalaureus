@@ -263,9 +263,6 @@ class NerGazetteerFeatureTagger(Retagger):
                         lemmas.append(token.text)
                     phrase = " ".join(lemmas)
                     if phrase in self.data:
-                        print("phrase in self.data")
                         labels = self.data[phrase]
                         for tok in tokens[i:j]:
                             tok.ner_features.gaz = labels
-                    else:
-                        print('phrase not in self.data')
