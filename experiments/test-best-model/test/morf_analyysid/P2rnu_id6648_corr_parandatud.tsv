@@ -1,0 +1,683 @@
+Lembgi	####	####				
+      	#Lembgi	Lembgi	0		H	sg g
+Herra	####	####				
+     	#härra	härra	0		S	sg n
+     	härra	härra	0		S	sg g
+kutsuss	kuts_uss	kuts_uss	0		S	sg n
+       	£kutsus	kutsu	s		V	s
+kohhust	####	####				
+       	#kohut	kohus	t		S	sg p
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+pärrast	####	####				
+       	pärast	pära	st		S	sg el
+       	pärast	pärane	t		A	sg p
+       	pärast	pärast	0		D	
+       	#pärast	pärast	0		K	
+kokko	####	####				
+     	kokku	kogu	0		S	adt
+     	#kokku	kokku	0		D	
+et	et	et	0		J	
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+juhtunud	juhtunud	juhtunud	0		A	
+        	juhtunud	juhtunud	0		A	sg n
+        	juhtunu	juhtunu	d		S	pl n
+        	@juhtunud	juhtu	nud		V	nud
+        	juhtunud	juhtunud	d		A	pl n
+tähhele	####	####				
+       	#tähele	tähele	0		X	
+pannema	pann_ema	pann_ema	0		S	sg g
+       	pann_ema	pann_ema	0		S	sg n
+       	pann_ema	pann_ema	0		S	sg p
+       	£panema	pane	ma		V	ma
+:	:	:			Z	
+et	et	et	0		J	
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+Konhratti	####	####				
+         	#kontrakti	kontrakt	0		S	sg g
+teggemise	####	####				
+         	#tegemise	tegemine	0		S	sg g
+jures	####	####				
+     	juures	juur	s		S	sg in
+     	juures	juures	0		D	
+     	#juures	juures	0		K	
+mis	mis	mis	0		P	pl n
+   	@mis	mis	0		P	sg n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+Müirisep	####	####				
+        	#müürsepp	müürsepp	0		S	sg n
+Brandt	####	####				
+      	#Brandt	Brandt	0		H	sg n
+ning	ning	ning	0		J	
+se	####	####				
+  	#see	see	0		P	sg n
+Ria	####	####				
+   	#Riia	Riia	0		H	sg g
+Kirjutaja	@kirjutaja	kirjutaja	0		S	sg g
+         	kirjutaja	kirjutaja	0		S	sg n
+Herra	####	####				
+     	#härra	härra	0		S	sg n
+     	härra	härra	0		S	sg g
+Klaksog	####	####				
+       	#Klakson	Klakson	0		H	sg n
+nende	@nende	see	de		P	pl g
+     	tema	tema	de		P	pl g
+telliskiwwi	tellis_kivi	tellis_kivi	0		S	adt
+           	£telliskivi	tellis_kivi	0		S	sg g
+Pordsiga	####	####				
+        	¤					
+wahhel	####	####				
+      	#vahel	vahel	0		D	
+teinud	@teinud	tege	nud		V	nud
+      	tei=nud	tei=nud	0		A	
+      	tei=nud	tei=nud	0		A	sg n
+      	tei=nud	tei=nud	d		A	pl n
+      	teinu	teinu	d		S	pl n
+:	:	:			Z	
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+petta	petta	pet	a		V	da
+sanud	####	####				
+     	#saanud	saa	nud		V	nud
+,	,	,			Z	
+ning	ning	ning	0		J	
+ennam	####	####				
+     	enam	enam	0		C	sg n
+     	#enam	enam	0		D	
+kirja	@kirja	kiri	0		S	adt
+     	kiri	kiri	0		S	sg g
+     	kiri	kiri	0		S	sg p
+     	kirja	kirja	0		A	
+     	kirja	kirja	0		V	o
+pannud	pan=nud	pan=nud	0		A	
+      	pan=nud	pan=nud	0		A	sg n
+      	pan=nu	pan=nu	d		S	pl n
+      	pan=nud	pan=nud	d		A	pl n
+      	@pannud	pane	nud		V	nud
+.	.	.			Z	
+kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+maksnud	maks=nud	maks=nud	0		A	
+       	maks=nud	maks=nud	0		A	sg n
+       	maks=nu	maks=nu	d		S	pl n
+       	maks=nud	maks=nud	d		A	pl n
+       	@maksnud	maks	nud		V	nud
+.	.	.			Z	
+Selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+peäle	####	####				
+     	peale	pea	le		S	sg all
+     	peale	peale	0		D	
+     	#peale	peale	0		K	
+kutsus	kutsu	kutsu	s		S	sg in
+      	@kutsus	kutsu	s		V	s
+kohhus	####	####				
+      	kohus	kohu	s		V	s
+      	#kohus	kohus	0		S	sg n
+neid	neid	neid	0		S	sg n
+    	see	see	d		P	pl p
+    	@neid	tema	d		P	pl p
+ette	esi	esi	tte		S	adt
+    	@ette	ette	0		D	
+    	ette	ette	0		K	
+,	,	,			Z	
+ja	ja	ja	0		J	
+se	####	####				
+  	#see	see	0		P	sg n
+Isa	@isa	isa	0		S	sg g
+   	isa	isa	0		S	sg n
+   	isa	isa	0		S	sg p
+surremusse	####	####				
+          	#suremise	suremine	0		S	sg g
+haigus	@haigus	haigus	0		S	sg n
+      	haik	haik	s		S	sg in
+,	,	,			Z	
+mis	mis	mis	0		P	pl n
+   	@mis	mis	0		P	sg n
+Sawelli	####	####				
+       	#Savelig	Sawelig	0		H	sg n
+Jegorow	####	####				
+       	#Jegorov	Jegorow	0		H	sg n
+,	,	,			Z	
+ja	ja	ja	0		J	
+Poretsig	####	####				
+        	¤					
+Philipp	####	####				
+       	#Philipp	Philipp	0		H	sg n
+Michejew	####	####				
+        	#Michejev	Michejew	0		H	sg n
+,	,	,			Z	
+ja	ja	ja	0		J	
+Temofei	####	####				
+       	#Timofei	Temofei	0		H	sg n
+Philimonow	####	####				
+          	#Philimonov	Philimonow	0		H	sg n
+,	,	,			Z	
+ning	ning	ning	0		J	
+Mikita	Miki	Miki	ta		H	sg ab
+      	£Mikita	Mikita	0		H	sg n
+Kanonow	####	####				
+       	#Kanonov	Kanonow	0		H	sg n
+,	,	,			Z	
+ja	ja	ja	0		J	
+Jagub	jagu	jagu	b		V	b
+     	£Jakob	Jagub	0		H	sg n
+Sawastianow	####	####				
+           	#Savastianov	Sawastianow	0		H	sg n
+,	,	,			Z	
+wastasid	vastasid	vasta	sid		V	sid
+et	et	et	0		J	
+nemmad	####	####				
+      	#nemad	tema	d		P	pl n
+on	ole	ole	0		V	b
+  	@on	ole	0		V	vad
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+Müirisep	####	####				
+        	#müürsepp	müürsepp	0		S	sg n
+Brandiga	####	####				
+        	#Brandtiga	Brandt	ga		H	sg kom
+,	,	,			Z	
+ja	ja	ja	0		J	
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+kirjutaja	@kirjutaja	kirjutaja	0		S	sg g
+         	kirjutaja	kirjutaja	0		S	sg n
+Klaksoniga	####	####				
+          	#Klakson	Klakson	ga		H	sg kom
+suu	@suu	suu	0		S	sg g
+   	suu	suu	0		S	sg n
+sannaga	####	####				
+       	#sõnaga	sõna	ga		S	sg kom
+sedda	####	####				
+     	#seda	see	da		P	sg p
+kaupa	kaup	kaup	0		S	adt
+     	@kaupa	kaup	0		S	sg p
+     	kaupa	kaupa	0		K	
+teinud	@teinud	tege	nud		V	nud
+      	tei=nud	tei=nud	0		A	
+      	tei=nud	tei=nud	0		A	sg n
+      	tei=nud	tei=nud	d		A	pl n
+      	teinu	teinu	d		S	pl n
+,	,	,			Z	
+küme	####	####				
+    	#kümne	kümme	0		N	sg g
+rubla	@rubla	rubla	0		S	sg g
+     	rubla	rubla	0		S	sg n
+     	rubla	rubla	0		S	sg p
+eest	eest	eest	0		D	
+    	@eest	eest	0		K	
+    	esi	esi	st		S	sg el
+tuhhat	####	####				
+      	#tuhat	tuhat	0		N	sg n
+tellis	@tellis	tellis	0		S	sg n
+      	telli	telli	s		V	s
+kiwwi	kivi	kivi	0		S	adt
+     	£kivi	kivi	0		S	sg p
+tehha	####	####				
+     	#teha	tege	a		V	da
+,	,	,			Z	
+ju	ju	ju	0		D	
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+nemmad	####	####				
+      	#nemad	tema	d		P	pl n
+need	need	see	d		P	pl n
+kaupa	kaup	kaup	0		S	adt
+     	kaup	kaup	0		S	sg p
+     	kaupa	kaupa	0		K	
+     	£kauba	kaup	0		S	sg g
+teggijad	####	####				
+        	#tegijad	tegija	d		S	pl n
+Kontrahhise	####	####				
+           	#kontraktisse	kontrakt	se		S	sg ill
+ülles	####	####				
+     	#üles	üles	0		D	
+pannud	pan=nud	pan=nud	0		A	
+      	pan=nud	pan=nud	0		A	sg n
+      	pan=nu	pan=nu	d		S	pl n
+      	pan=nud	pan=nud	d		A	pl n
+      	@pannud	pane	nud		V	nud
+üksteistkummend	####	####				
+               	#üksteistkümmend	üks_teist_kümmend	0		N	sg n
+rubla	rubla	rubla	0		S	sg g
+     	rubla	rubla	0		S	sg n
+     	@rubla	rubla	0		S	sg p
+tuhhande	####	####				
+        	#tuhande	tuhat	0		N	sg g
+eest	eest	eest	0		D	
+    	@eest	eest	0		K	
+    	esi	esi	st		S	sg el
+,	,	,			Z	
+ja	ja	ja	0		J	
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+nende	see	see	de		P	pl g
+     	@nende	tema	de		P	pl g
+käest	@käest	käest	0		K	
+     	käsi	käsi	st		S	sg el
+käe	käe	käsi	0		S	sg g
+rahha	####	####				
+     	raha	raha	0		S	sg g
+     	#raha	raha	0		S	sg p
+andmise	andmise	andmine	0		S	sg g
+jures	####	####				
+     	juures	juur	s		S	sg in
+     	juures	juures	0		D	
+     	#juures	juures	0		K	
+.	.	.			Z	
+Se	####	####				
+  	#see	see	0		P	sg n
+üks	@üks	üks	0		N	sg n
+   	üks	üks	0		P	sg n
+rubla	rubla	rubla	0		S	sg g
+     	@rubla	rubla	0		S	sg n
+     	rubla	rubla	0		S	sg p
+tuhhande	####	####				
+        	#tuhande	tuhat	0		N	sg g
+peält	####	####				
+     	#pealt	pealt	0		K	
+mahha	####	####				
+     	#maha	maha	0		D	
+arwanud	arva=nud	arva=nud	0		A	
+       	arva=nud	arva=nud	0		A	sg n
+       	arva=nu	arva=nu	d		S	pl n
+       	arva=nud	arva=nud	d		A	pl n
+       	@arvanud	arva	nud		V	nud
+.	.	.			Z	
+Sedda	####	####				
+     	#seda	see	da		P	sg p
+wisi	####	####				
+    	#viisi	viisi	0		D	
+et	et	et	0		J	
+nemmad	####	####				
+      	#nemad	tema	d		P	pl n
+,	,	,			Z	
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+Kwitungid	####	####				
+         	#kviitungid	kviitung	d		S	pl n
+kirjutanud	kirjutanud	kirjutanud	0		A	
+          	kirjutanud	kirjutanud	0		A	sg n
+          	kirjutanu	kirjutanu	d		S	pl n
+          	@kirjutanud	kirjuta	nud		V	nud
+          	kirjutanud	kirjutanud	d		A	pl n
+ning	ning	ning	0		J	
+sedda	####	####				
+     	#seda	see	da		P	sg p
+üks	@üks	üks	0		N	sg n
+   	üks	üks	0		P	sg n
+rubla	rubla	rubla	0		S	sg g
+     	@rubla	rubla	0		S	sg n
+     	rubla	rubla	0		S	sg p
+omma	####	####				
+    	#oma	oma	0		P	sg g
+    	on	ole	0		V	vad
+kätte	käsi	käsi	tte		S	adt
+     	@kätte	kätte	0		K	
+sanud	####	####				
+     	#saanud	saa	nud		V	nud
+.	.	.			Z	
+ja	ja	ja	0		J	
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+maksu	maks	maks	0		S	adt
+     	@maksu	maks	0		S	sg g
+     	maks	maks	0		S	sg p
+     	maks	maks	u		S	pl p
+ning	ning	ning	0		J	
+Kontrahti	kontraht	kontraht	0		S	adt
+         	kontraht	kontraht	0		S	sg p
+         	£kontrakti	kontrakt	0		S	sg g
+teggemise	####	####				
+         	#tegemise	tegemine	0		S	sg g
+aeges	####	####				
+     	#aegu	aegu	0		D	
+se	####	####				
+  	#see	see	0		P	sg n
+Müirisep	####	####				
+        	#müürsepp	müürsepp	0		S	sg n
+Brandt	####	####				
+      	#Brandt	Brandt	0		H	sg n
+laua	laua	laud	0		S	sg g
+äres	####	####				
+    	#ääres	ääres	0		K	
+wodis	####	####				
+     	#voodis	voodi	s		S	sg in
+olnud	ol=nud	ol=nud	0		A	
+     	ol=nud	ol=nud	0		A	sg n
+     	ol=nud	ol=nud	d		A	pl n
+     	@olnud	ole	nud		V	nud
+     	olnu	olnu	d		S	pl n
+ning	ning	ning	0		J	
+Kirjutaja	@kirjutaja	kirjutaja	0		S	sg g
+         	kirjutaja	kirjutaja	0		S	sg n
+Herra	####	####				
+     	#härra	härra	0		S	sg n
+     	härra	härra	0		S	sg g
+laua	laua	laud	0		S	sg g
+äres	####	####				
+    	#ääres	ääres	0		K	
+sedda	####	####				
+     	#seda	see	da		P	sg p
+rahha	####	####				
+     	raha	raha	0		S	sg g
+     	#raha	raha	0		S	sg p
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+maksnud	maks=nud	maks=nud	0		A	
+       	maks=nud	maks=nud	0		A	sg n
+       	maks=nu	maks=nu	d		S	pl n
+       	maks=nud	maks=nud	d		A	pl n
+       	@maksnud	maks	nud		V	nud
+,	,	,			Z	
+ja	ja	ja	0		J	
+Kirjutanud	kirjutanud	kirjutanud	0		A	
+          	kirjutanud	kirjutanud	0		A	sg n
+          	kirjutanu	kirjutanu	d		S	pl n
+          	@kirjutanud	kirjuta	nud		V	nud
+          	kirjutanud	kirjutanud	d		A	pl n
+Kontrahtide	kontraht	kontraht	de		S	pl g
+           	£kontraktide	kontrakt	de		S	pl g
+alla	alla	alla	0		D	
+    	@alla	alla	0		K	
+,	,	,			Z	
+ja	ja	ja	0		J	
+üttelnud	####	####				
+        	#ütelnud	ütle	nud		V	nud
+:	:	:			Z	
+se	####	####				
+  	#see	see	0		P	sg n
+Müirisep	####	####				
+        	#müürsepp	müürsepp	0		S	sg n
+Brandt	####	####				
+      	#Brandt	Brandt	0		H	sg n
+köigedele	####	####				
+         	#kõikidele	kõik	dele		P	pl all
+,	,	,			Z	
+:	:	:			Z	
+se	####	####				
+  	#see	see	0		P	sg n
+Kirjutaja	@kirjutaja	kirjutaja	0		S	sg g
+         	kirjutaja	kirjutaja	0		S	sg n
+Herra	####	####				
+     	#härra	härra	0		S	sg n
+     	härra	härra	0		S	sg g
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+üks	üks	üks	0		N	sg n
+   	@üks	üks	0		P	sg n
+waene	@vaene	vaene	0		A	sg n
+     	vaene	vaene	0		S	sg n
+     	vaen	vaen	e		S	pl p
+innienne	####	####				
+        	#inimene	inimene	0		S	sg n
+,	,	,			Z	
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+woib	####	####				
+    	#võib	või	b		V	b
+se	####	####				
+  	#see	see	0		P	sg n
+üks	@üks	üks	0		N	sg n
+   	üks	üks	0		P	sg n
+rubla	rubla	rubla	0		S	sg g
+     	@rubla	rubla	0		S	sg n
+     	rubla	rubla	0		S	sg p
+tuhhande	####	####				
+        	#tuhande	tuhat	0		N	sg g
+pealt	pealt	pealt	0		D	
+     	@pealt	pealt	0		K	
+     	pea	pea	lt		S	sg abl
+kingida	king_ida	king_ida	0		S	sg g
+       	king_ida	king_ida	0		S	sg n
+       	king_ida	king_ida	0		S	sg p
+       	£kinkida	kinki	da		V	da
+,	,	,			Z	
+ja	ja	ja	0		J	
+nende	@nende	see	de		P	pl g
+     	tema	tema	de		P	pl g
+samma	####	####				
+     	#sama	sama	0		P	sg g
+sönnadega	####	####				
+         	#sõnadega	sõna	dega		S	sg kom
+pärrast	####	####				
+       	pärast	pära	st		S	sg el
+       	pärast	pärane	t		A	sg p
+       	#pärast	pärast	0		D	
+       	pärast	pärast	0		K	
+,	,	,			Z	
+se	####	####				
+  	#see	see	0		P	sg n
+Kirjutaja	@kirjutaja	kirjutaja	0		S	sg g
+         	kirjutaja	kirjutaja	0		S	sg n
+Herra	####	####				
+     	#härra	härra	0		S	sg n
+     	härra	härra	0		S	sg g
+et	et	et	0		J	
+se	####	####				
+  	#see	see	0		P	sg n
+Müirisep	####	####				
+        	#müürsepp	müürsepp	0		S	sg n
+Brandt	####	####				
+      	#Brandt	Brandt	0		H	sg n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+üks	üks	üks	0		N	sg n
+   	@üks	üks	0		P	sg n
+waine	####	####				
+     	#vaene	vaene	0		A	sg n
+innimenne	####	####				
+         	#inimene	inimene	0		S	sg n
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+woib	####	####				
+    	#võib	või	b		V	b
+sedda	####	####				
+     	#seda	see	da		P	sg p
+kingida	king_ida	king_ida	0		S	sg g
+       	king_ida	king_ida	0		S	sg n
+       	king_ida	king_ida	0		S	sg p
+       	£kinkida	kinki	da		V	da
+ja	ja	ja	0		J	
+need	need	see	d		P	pl n
+Poretsikud	####	####				
+          	¤					
+:	:	:			Z	
+se	####	####				
+  	#see	see	0		P	sg n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+meite	####	####				
+     	#meie	mina	0		P	pl g
+uks	uks	uks	0		S	sg n
+kõik	kõik	kõik	0		P	pl n
+    	@kõik	kõik	0		P	sg n
+    	kõik	kõik	0		S	sg n
+meite	####	####				
+     	#meie	mina	0		P	pl g
+pärrast	####	####				
+       	pärast	pära	st		S	sg el
+       	pärast	pärane	t		A	sg p
+       	pärast	pärast	0		D	
+       	#pärast	pärast	0		K	
+pange	@pange	pane	ge		V	ge
+     	pang	pang	0		S	adt
+     	pang	pang	0		S	sg g
+     	pang	pang	0		S	sg p
+wiisteistkümmend	viisteist	viis_teist	0		N	sg n
+rubla	rubla	rubla	0		S	sg g
+     	rubla	rubla	0		S	sg n
+     	@rubla	rubla	0		S	sg p
+Kontrahti	kontraht	kontraht	0		S	adt
+         	kontraht	kontraht	0		S	sg p
+         	£kontrakti	kontrakt	0		S	sg g
+seise	seis	seis	e		S	pl p
+     	£sisse	sisse	0		K	
+.	.	.			Z	
+Peäle	####	####				
+     	#peale	peale	0		K	
+sedda	####	####				
+     	#seda	see	da		P	sg p
+pallus	####	####				
+      	#palus	palu	s		V	s
+se	####	####				
+  	#see	see	0		P	sg n
+wägga	####	####				
+     	#väga	väga	0		D	
+haige	haige	haige	0		A	sg g
+     	@haige	haige	0		A	sg n
+     	haige	haige	0		S	sg g
+     	haige	haige	0		S	sg n
+Poretsik	####	####				
+        	¤					
+Sawelig	####	####				
+       	#Savelig	Sawelig	0		H	sg n
+Jegrow	####	####				
+      	#Jegorov	Jegorow	0		H	sg n
+,	,	,			Z	
+sedda	####	####				
+     	#seda	see	da		P	sg p
+kõik	kõik	kõik	0		P	pl n
+    	@kõik	kõik	0		P	sg n
+    	kõik	kõik	0		S	sg n
+mis	mis	mis	0		P	pl n
+   	@mis	mis	0		P	sg n
+teised	teine	teine	d		O	pl n
+      	@teised	teine	d		P	pl n
+ja	ja	ja	0		J	
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+tunnustab	tunnustab	tunnusta	b		V	b
+tõeks	@tõeks	tõde	ks		S	sg tr
+     	tõsi	tõsi	ks		S	sg tr
+wõt	####	####				
+   	#võtta	võt	a		V	da
+.	.	.			Z	
+ka	ka	ka	0		D	
+sesest	####	####				
+      	#sest	sest	0		J	
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+surremishaige	####	####				
+             	#suremishaige	suremine_haige	0		A	sg n
+,	,	,			Z	
+ning	ning	ning	0		J	
+kartab	####	####				
+      	#kardab	kart	b		V	b
+kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+walle	vall	vall	e		S	pl p
+     	£vale	vale	0		S	sg n
+ülles	####	####				
+     	#üles	üles	0		D	
+tulleb	####	####				
+      	#tuleb	tule	b		V	b
+pärrast	####	####				
+       	pärast	pära	st		S	sg el
+       	pärast	pärane	t		A	sg p
+       	pärast	pärast	0		D	
+       	#pärast	pärast	0		K	
+temmasurremist	####	####				
+              	#tema_suremist	tema_suremine	t		S	sg p
+,	,	,			Z	
+temma	####	####				
+     	#tema	tema	0		P	sg g
+     	tema	tema	0		P	sg n
+wenna	venna	vend	0		S	sg g
+,	,	,			Z	
+ja	ja	ja	0		J	
+temma	####	####				
+     	#tema	tema	0		P	sg g
+     	tema	tema	0		P	sg n
+parrijatele	####	####				
+           	#pärijatele	pärija	tele		S	sg all
+kahju	kahi	kahi	0		S	adt
+     	kahi	kahi	0		S	sg g
+     	kahi	kahi	0		S	sg p
+     	kahju	kahju	0		S	sg g
+     	kahju	kahju	0		S	sg n
+     	@kahju	kahju	0		S	sg p
+tehhakse	####	####				
+        	#tehakse	tege	akse		V	takse
+.	.	.			Z	
+XXX	XXX	XXX	0		O	?
+   	@XXX	XXX	0		Y	?
+Mihkel	@Mihkel	Mihkel	0		H	sg n
+      	mihkel	mihkel	0		A	sg n
+      	mihkel	mihkel	0		S	sg n
+Pulss	pulss	pulss	0		S	sg n
+     	£Pulss	Pulss	0		H	sg n
+Kohtu	kohtu	kohtu	0		V	o
+     	@kohtu	kohus	0		S	sg g
+wannem	####	####				
+      	vanem	vanem	0		C	sg n
+      	#vanem	vanem	0		S	sg n
+XXX	XXX	XXX	0		O	?
+   	@XXX	XXX	0		Y	?
+Hans	Hans	Hans	0		H	sg n
+Klasen	####	####				
+      	#Klasen	Klasen	0		H	sg n
+Kohtumees	kohtumees	kohtu_mees	0		S	sg n
+XXX	XXX	XXX	0		O	?
+   	@XXX	XXX	0		Y	?
+Philipp	####	####				
+       	#Philipp	Philipp	0		H	sg n
+MichejewSawelig	####	####				
+               	#Michejev_Savelig	Michejev_Savelig	0		H	sg n
+Jegorow	####	####				
+       	#Jegorov	Jegorow	0		H	sg n
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+haige	haige	haige	0		A	sg g
+     	@haige	haige	0		A	sg n
+     	haige	haige	0		S	sg g
+     	haige	haige	0		S	sg n
+XXX	XXX	XXX	0		O	?
+   	@XXX	XXX	0		Y	?
+Temofei	####	####				
+       	#Timofei	Temofei	0		H	sg n
+Pihlimonow	####	####				
+          	#Philimonov	Philimonow	0		H	sg n
+XXX	XXX	XXX	0		O	?
+   	@XXX	XXX	0		Y	?
+Mikita	Miki	Miki	ta		H	sg ab
+      	£Mikita	Mikita	0		H	sg n
+Kanonow	####	####				
+       	#Kanonov	Kanonow	0		H	sg n
+XXX	XXX	XXX	0		O	?
+   	@XXX	XXX	0		Y	?
+Jagub	jagu	jagu	b		V	b
+     	£Jakob	Jagub	0		H	sg n
+Tawastianow	####	####				
+           	#Tavastianov	Tawastianow	0		H	sg n

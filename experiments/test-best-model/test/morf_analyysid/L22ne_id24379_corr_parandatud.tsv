@@ -1,0 +1,821 @@
+Koos	@koos	koos	0		D	
+    	koos	koos	0		K	
+    	koos	koos	0		S	sg n
+    	kubu	kubu	s		S	sg in
+ollid	####	####				
+     	#olid	ole	id		V	sid
+Tallitaja	####	####				
+         	#talitaja	talitaja	0		S	sg n
+         	talitaja	talitaja	0		S	sg g
+:	:	:			Z	
+N. Mähle	####	####				
+        	#N_._Mähle	N_._Mähle	0		H	sg n
+,	,	,			Z	
+abbimeh	####	####				
+       	#abbimeh	abbimeh	0		Y	?
+:	:	:			Z	
+G. Norwit	####	####				
+         	#G_._Norwit	G_._Norwit	0		H	sg n
+ja	ja	ja	0		J	
+H. Pissa	####	####				
+        	#H_._Pissa	H_._Pissa	0		H	sg n
+kohto	####	####				
+     	kohtu	kohtu	0		V	o
+     	#kohtu	kohus	0		S	sg g
+päwa	####	####				
+    	päeva	päev	0		S	sg g
+    	#päeva	päev	0		S	sg p
+piddamas	####	####				
+        	#pidamas	pida	mas		V	mas
+,	,	,			Z	
+nende	see	see	de		P	pl g
+     	@nende	tema	de		P	pl g
+3	3	3	0		N	?
+ilma	ilm	ilm	0		S	adt
+    	ilm	ilm	0		S	sg g
+    	ilm	ilm	0		S	sg p
+    	ilma	ilma	0		D	
+    	@ilma	ilma	0		K	
+Passita	passita	passita	0		V	o
+       	passi	passi	ta		V	ta
+       	@passita	pass	ta		S	sg ab
+,	,	,			Z	
+Tallinnast	Tallinnast	Tallinn	st		H	sg el
+ärrajooksnud	####	####				
+            	#ära_jooksnud	ära_jooks	nud		V	nud
+madruste	madruste	madrus	te		S	pl g
+ülle	ülle	ülle	0		D	
+    	üle	üle	0		D	
+    	@üle	üle	0		K	
+kes	kes	kes	0		P	pl n
+   	@kes	kes	0		P	sg n
+5	5	5	0		N	?
+-	-	-			Z	
+6	6	6	0		N	?
+Junil	####	####				
+     	#juunil	juuni	l		S	sg ad
+Heltermas	####	####				
+         	#Heltermaas	Helterma	s		H	sg in
+kinni	kinni	kinni	0		D	
+wöetud	####	####				
+      	#võetud	võt	tud		V	tud
+ja	ja	ja	0		J	
+seia	####	####				
+    	#siia	siia	0		D	
+todud	####	####				
+     	#toodud	too	dud		V	tud
+.	.	.			Z	
+Kohtu	kohtu	kohtu	0		V	o
+     	@kohtu	kohus	0		S	sg g
+ette	esi	esi	tte		S	adt
+    	ette	ette	0		D	
+    	@ette	ette	0		K	
+astus	astus	astu	s		V	s
+Liwen	####	####				
+     	#Liwen	Liwen	0		H	sg n
+Dörk	####	####				
+    	#Dörk	Dörk	0		H	sg n
+ja	ja	ja	0		J	
+tunnistab	tunnistab	tunnista	b		V	b
+,	,	,			Z	
+et	et	et	0		J	
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+Belgia	@Belgia	Belgia	0		H	sg g
+      	Belgia	Belgia	0		H	sg n
+      	belgia	belgia	0		G	
+maalt	maalt	maa	lt		S	sg abl
+Gentist	####	####				
+       	#Gentist	Gent	st		H	sg el
+parrit	####	####				
+      	#pärit	pärit	0		X	
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+.	.	.			Z	
+Wimast	####	####				
+      	#viimast	viimane	t		A	sg p
+reisi	reis	reis	0		S	adt
+     	reis	reis	0		S	sg g
+     	@reisi	reis	0		S	sg p
+     	reisi	reisi	0		V	o
+     	reis	reis	i		S	pl p
+ühhe	####	####				
+    	ühe	ühe	0		S	sg n
+    	ühe	üks	0		N	sg g
+    	#ühe	üks	0		P	sg g
+Saksama	####	####				
+       	#Saksamaa	Saksama	0		H	sg g
+sonneri	####	####				
+       	#purjeka	sonner	0		S	sg g
+Theodoriga	Theodoriga	Theodor	ga		H	sg kom
+,	,	,			Z	
+Schieldsist	####	####				
+           	#Schieldsist	Schield	st		H	sg el
+Tallinna	@Tallinna	Tallinn	0		H	adt
+        	Tallinn	Tallinn	0		H	sg g
+        	Tallinn	Tallinn	0		H	sg p
+        	tallinna	tallinna	0		G	
+teinud	@teinud	tege	nud		V	nud
+      	tei=nud	tei=nud	0		A	
+      	tei=nud	tei=nud	0		A	sg n
+      	tei=nud	tei=nud	d		A	pl n
+      	teinu	teinu	d		S	pl n
+,	,	,			Z	
+seal	@seal	seal	0		D	
+    	siga	siga	l		A	sg ad
+    	siga	siga	l		S	sg ad
+laewa	laev	laev	0		S	adt
+     	@laeva	laev	0		S	sg g
+     	laev	laev	0		S	sg p
+mahha	####	####				
+     	#maha	maha	0		D	
+jätnud	jät=nud	jät=nud	0		A	
+      	jät=nud	jät=nud	0		A	sg n
+      	jät=nu	jät=nu	d		S	pl n
+      	jät=nud	jät=nud	d		A	pl n
+      	@jätnud	jät	nud		V	nud
+,	,	,			Z	
+ja	ja	ja	0		J	
+nende	@nende	see	de		P	pl g
+     	tema	tema	de		P	pl g
+teiste	teine	teine	te		O	pl g
+      	@teiste	teine	te		P	pl g
+möllema	möll_ema	möll_ema	0		S	sg g
+       	möll_ema	möll_ema	0		S	sg n
+       	möll_ema	möll_ema	0		S	sg p
+       	£mõlema	mõlema	0		P	sg g
+madrustest	madrustest	madrus	test		S	pl el
+kutstud	####	####				
+       	#kutsutud	kutsu	tud		V	tud
+,	,	,			Z	
+esmaspä	####	####				
+       	#esmaspäev	esmaspä	0		S	sg n
+pl	####	####				
+  	¤					
+31	31	31	0		N	?
+Mayl	####	####				
+    	#mail	mai	l		S	sg ad
+ühhe	####	####				
+    	ühe	ühe	0		S	sg n
+    	ühe	üks	0		N	sg g
+    	#ühe	üks	0		P	sg g
+lootsikoga	lootsik_oga	lootsik_oga	0		S	sg g
+          	lootsik_oga	lootsik_oga	0		S	sg n
+          	lootsik_oga	lootsik_oga	0		S	sg p
+          	£lootsikuga	lootsik	ga		S	sg kom	
+Tallinna	Tallinn	Tallinn	0		H	adt
+        	@Tallinna	Tallinn	0		H	sg g
+        	Tallinn	Tallinn	0		H	sg p
+        	tallinna	tallinna	0		G	
+saddamast	####	####				
+         	#sadamast	sadam	st		S	sg el
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+;	;	;			Z	
+et	et	et	0		J	
+Riga	####	####				
+    	#Riiga	Ria	0		H	adt
+purjetada	purjetada	purjeta	da		V	da
+.	.	.			Z	
+Karl	Karl	Karl	0		H	sg n
+Simonsen	####	####				
+        	#Simonsen	Simonsen	0		H	sg n
+19	19	19	0		N	?
+a	a	a	0		Y	?
+wanna	####	####				
+     	#vana	vana	0		A	sg n
+     	vana	vana	0		A	sg g
+     	vana	vana	0		A	sg p
+     	vana	vana	0		S	sg n
+     	vana	vana	0		S	sg g
+     	vana	vana	0		S	sg p
+,	,	,			Z	
+Norwegi	####	####				
+       	#Norra	Norweg	0		H	sg g
+maalt	maalt	maa	lt		S	sg abl
+,	,	,			Z	
+Sommeni	####	####				
+       	#Sommeni	Sommen	0		H	sg g
+linna	linn	linn	0		S	adt
+     	@linna	linn	0		S	sg g
+     	linn	linn	0		S	sg p
+liggi	####	####				
+     	#ligi	ligi	0		K	
+,	,	,			Z	
+Ekeri	####	####				
+     	#Ekeri	Ekeri	0		H	sg g
+kihhelkonnast	####	####				
+             	#kihelkonnast	kihelkond	st		S	sg el
+pärrit	####	####				
+      	#pärit	pärit	0		X	
+,	,	,			Z	
+ütleb	ütleb	ütle	b		V	b
+ennast	ennast	ise	t		P	sg p
+ühhe	####	####				
+    	ühe	ühe	0		S	sg n
+    	ühe	üks	0		N	sg g
+    	#ühe	üks	0		P	sg g
+Amerika	####	####				
+       	#Ameerika	Amerika	0		H	sg g
+laewa	laev	laev	0		S	adt
+     	@laeva	laev	0		S	sg g
+     	laev	laev	0		S	sg p
+Washingtoniga	Washingtoniga	Washington	ga		H	sg kom
+Savannast	####	####				
+         	#Savannast	Savanna	st		H	sg el
+poomwilla	poom_vill	poom_vill	0		S	adt
+         	poom_vill	poom_vill	0		S	sg g
+         	poom_vill	poom_vill	0		S	sg p
+         	£poomvilla	poom_vill	0		S	sg g
+lastiga	lastiga	last	ga		S	sg kom
+Tallinna	@Tallinna	Tallinn	0		H	adt
+        	Tallinn	Tallinn	0		H	sg g
+        	Tallinn	Tallinn	0		H	sg p
+        	tallinna	tallinna	0		G	
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+.	.	.			Z	
+Neljapääw	####	####				
+         	#neljapäev	neljapäev	0		S	sg n
+27	27	27	0		N	?
+Mayl	####	####				
+    	#mail	mai	l		S	sg ad
+sel	@sel	see	l		P	sg ad
+   	sel	sel	0		Y	?
+Kapteini	####	####				
+        	#kapteni	kapten	0		S	sg g
+loaga	@loaga	luba	ga		S	sg kom
+     	luga	luga	ga		S	sg kom
+laewa	laev	laev	0		S	adt
+     	@laeva	laev	0		S	sg g
+     	laev	laev	0		S	sg p
+mahha	####	####				
+     	#maha	maha	0		D	
+jätnud	jät=nud	jät=nud	0		A	
+      	jät=nud	jät=nud	0		A	sg n
+      	jät=nu	jät=nu	d		S	pl n
+      	jät=nud	jät=nud	d		A	pl n
+      	@jätnud	jät	nud		V	nud
+,	,	,			Z	
+ja	ja	ja	0		J	
+ühhe	####	####				
+    	ühe	ühe	0		S	sg n
+    	ühe	üks	0		N	sg g
+    	#ühe	üks	0		P	sg g
+tundFsa	####	####				
+         	#tundmata	tund	matta		V	mata
+wennelasse	####	####				
+          	#venelase	venelane	0		S	sg g
+käest	@käest	käest	0		K	
+     	käsi	käsi	st		S	sg el
+kes	kes	kes	0		P	pl n
+   	@kes	kes	0		P	sg n
+Norwegi	####	####				
+       	#norra	norwegi	0		G	
+keelt	kee	kee	lt		S	sg abl
+     	@keelt	keel	t		S	sg p
+ka	ka	ka	0		D	
+oskanud	####	####				
+       	#osanud	oska	nud		V	nud
+,	,	,			Z	
+6	6	6	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+.	.	.			Z	
+Höb	####	####				
+   	#höb	höb	0		Y	?
+eest	eest	eest	0		D	
+    	@eest	eest	0		K	
+    	esi	esi	st		S	sg el
+lootsiko	####	####				
+        	#lootsiku	lootsik	0		S	sg g
+ostnud	ost=nud	ost=nud	0		A	
+      	ost=nud	ost=nud	0		A	sg n
+      	ost=nu	ost=nu	d		S	pl n
+      	ost=nud	ost=nud	d		A	pl n
+      	@ostnud	ost	nud		V	nud
+.	.	.			Z	
+Praego	####	####				
+      	#praegu	praegu	0		D	
+nimmetud	nimme=tu	nimme=tu	d		A	pl n
+        	@nimetatud	nimeta	tud		V	tud
+Liwen	####	####				
+     	#Liwen	Liwen	0		H	sg n
+Dörk	####	####				
+    	#Dörk	Dörk	0		H	sg n
+olle	####	####				
+    	#ole	ole	0		V	o
+tedda	####	####				
+     	#teda	tema	da		P	sg p
+saggesti	####	####				
+        	#sagedasti	sagedasti	0		D	
+temma	####	####				
+     	#tema	tema	0		P	sg g
+     	tema	tema	0		P	sg n
+laewa	laev	laev	0		S	adt
+     	@laeva	laev	0		S	sg g
+     	laev	laev	0		S	sg p
+peal	peal	peal	0		D	
+    	@peal	peal	0		K	
+    	pea	pea	l		S	sg ad
+watamas	####	####				
+       	#vaatamas	vaata	mas		V	mas
+käinud	käi=nud	käi=nud	0		A	
+      	käi=nud	käi=nud	0		A	sg n
+      	käi=nud	käi=nud	d		A	pl n
+      	käinu	käinu	d		S	pl n
+      	@käinud	käi	nud		V	nud
+,	,	,			Z	
+ja	ja	ja	0		J	
+Ria	####	####				
+   	#Riia	Ria	0		H	sg g
+reisi	reis	reis	0		S	adt
+     	@reisi	reis	0		S	sg g
+     	reis	reis	0		S	sg p
+     	reisi	reisi	0		V	o
+     	reis	reis	i		S	pl p
+nöu	####	####				
+   	#nõu	nõu	0		S	sg g
+annud	####	####				
+     	#andnud	and	nud		V	nud
+.	.	.			Z	
+Andres	@Andres	Andres	0		H	sg n
+      	Andre	Andre	s		H	sg in
+Scheblum	####	####				
+        	#Scheblum	Scheblum	0		H	sg n
+18	18	18	0		N	?
+a	a	a	0		Y	?
+wanna	####	####				
+     	#vana	vana	0		A	sg n
+     	vana	vana	0		A	sg g
+     	vana	vana	0		A	sg p
+     	vana	vana	0		S	sg n
+     	vana	vana	0		S	sg g
+     	vana	vana	0		S	sg p
+,	,	,			Z	
+Cantlanksa	####	####				
+          	#Cantlanksa	Cantlanksa	0		H	sg g
+küllast	küllane	küllane	t		A	sg p
+       	küll	küll	st		S	sg el
+       	£külast	küla	st		S	sg el
+Monsülle	####	####				
+        	#Monsülle	Monsülle	0		H	sg g
+kihhelkonnast	####	####				
+             	#kihelkonnast	kihelkond	st		S	sg el
+,	,	,			Z	
+Ny	####	####				
+  	#Ny	Ny	0		H	sg n
+Carleby	####	####				
+       	#Carleby	Carleby	0		H	sg g
+jurest	####	####				
+      	#juurest	juurest	0		D	
+pärrit	####	####				
+      	#pärit	pärit	0		X	
+,	,	,			Z	
+ütleb	ütleb	ütle	b		V	b
+et	et	et	0		J	
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+minnewal	####	####				
+        	#mineval	mine	val		V	v sg ad
+aastal	aastal	aasta	l		S	sg ad
+Christinestadti	####	####				
+               	#Christinestadti	Christinestadt	0		H	sg g
+linnast	linnast	linn	st		S	sg el
+ühhe	####	####				
+    	ühe	ühe	0		S	sg n
+    	ühe	üks	0		N	sg g
+    	#ühe	üks	0		P	sg g
+pargaga	####	####				
+       	#paadiga	pargas	ga		S	sg kom
+Dubois	####	####				
+      	#Dubois	Dubois	0		H	sg n
+Inglismale	####	####				
+          	#Inglismaale	Inglisma	le		H	sg all
+,	,	,			Z	
+sealt	@sealt	sealt	0		D	
+     	siga	siga	lt		A	sg abl
+     	siga	siga	lt		S	sg abl
+ühhe	####	####				
+    	ühe	ühe	0		S	sg n
+    	ühe	üks	0		N	sg g
+    	#ühe	üks	0		P	sg g
+Inglis	ingel	ingel	s		S	sg in
+      	£Inglise	Inglis	0		G	
+laewaga	laevaga	laev	ga		S	sg kom
+Savannah	####	####				
+        	#Savanna	Savanna	0		H	sg n
+linna	@linna	linn	0		S	adt
+     	linn	linn	0		S	sg g
+     	linn	linn	0		S	sg p
+purjetanud	purjeta=nud	purjeta=nud	0		A	
+          	purjeta=nud	purjeta=nud	0		A	sg n
+          	purjeta=nu	purjeta=nu	d		S	pl n
+          	purjeta=nud	purjeta=nud	d		A	pl n
+          	@purjetanud	purjeta	nud		V	nud
+.	.	.			Z	
+Seal	@seal	seal	0		D	
+    	siga	siga	l		A	sg ad
+    	siga	siga	l		S	sg ad
+olla	olla	ole	a		V	da
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+ühhe	####	####				
+    	ühe	ühe	0		S	sg n
+    	ühe	üks	0		N	sg g
+    	#ühe	üks	0		P	sg g
+Amerika	####	####				
+       	#Ameerika	Amerika	0		H	sg g
+laewa	laev	laev	0		S	adt
+     	@laeva	laev	0		S	sg g
+     	laev	laev	0		S	sg p
+Washingtoni	Washington	Washington	0		H	adt
+           	@Washingtoni	Washington	0		H	sg g
+           	Washington	Washington	0		H	sg p
+peal	peal	peal	0		D	
+    	@peal	peal	0		K	
+    	pea	pea	l		S	sg ad
+tenistust	####	####				
+         	#teenistust	teenistus	t		S	sg p
+wötnud	####	####				
+      	#võtnud	võt	nud		V	nud
+,	,	,			Z	
+kel	kel	kes	l		P	sg ad
+poomwilla	poom_vill	poom_vill	0		S	adt
+         	poom_vill	poom_vill	0		S	sg g
+         	poom_vill	poom_vill	0		S	sg p
+         	£poomvilla	poom_vill	0		S	sg g
+last	laps	laps	t		S	sg p
+    	@last	last	0		S	sg n
+sees	@sees	sees	0		D	
+    	sees	sees	0		K	
+olnud	ol=nud	ol=nud	0		A	
+     	ol=nud	ol=nud	0		A	sg n
+     	ol=nud	ol=nud	d		A	pl n
+     	@olnud	ole	nud		V	nud
+     	olnu	olnu	d		S	pl n
+ja	ja	ja	0		J	
+nenda	####	####				
+     	#nõnda	nõnda	0		D	
+omma	####	####				
+    	#oma	oma	0		P	sg g
+    	on	ole	0		V	vad
+essimest	ess_ime	ess_ime	st		S	sg el
+        	£esimest	esimene	t		O	sg p
+reisi	reis	reis	0		S	adt
+     	reis	reis	0		S	sg g
+     	@reisi	reis	0		S	sg p
+     	reisi	reisi	0		V	o
+     	reis	reis	i		S	pl p
+Tallinna	@Tallinna	Tallinn	0		H	adt
+        	Tallinn	Tallinn	0		H	sg g
+        	Tallinn	Tallinn	0		H	sg p
+        	tallinna	tallinna	0		G	
+teinud	@teinud	tege	nud		V	nud
+      	tei=nud	tei=nud	0		A	
+      	tei=nud	tei=nud	0		A	sg n
+      	tei=nud	tei=nud	d		A	pl n
+      	teinu	teinu	d		S	pl n
+.	.	.			Z	
+Temma	####	####				
+     	#tema	tema	0		P	sg n
+     	tema	tema	0		P	sg g
+tunnistab	tunnistab	tunnista	b		V	b
+ennast	ennast	ise	t		P	sg p
+mitte	mitte	mitte	0		D	
+Karl	Karl	Karl	0		H	sg n
+Simonsoniga	####	####				
+           	#Simonseniga	Simonsen	ga		H	sg kom
+seltsis	@seltsis	seltsis	0		D	
+       	seltsis	seltsis	0		K	
+       	seltsi	seltsi	s		V	s
+       	selts	selts	s		S	sg in
+ühhe	####	####				
+    	ühe	ühe	0		S	sg n
+    	ühe	üks	0		N	sg g
+    	#ühe	üks	0		P	sg g
+laewa	laev	laev	0		S	adt
+     	@laeva	laev	0		S	sg g
+     	laev	laev	0		S	sg p
+peal	peal	peal	0		D	
+    	@peal	peal	0		K	
+    	pea	pea	l		S	sg ad
+Savannast	####	####				
+         	#Savannast	Savanna	st		H	sg el
+walja	####	####				
+     	#välja	välja	0		D	
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+ollewad	####	####				
+       	#olevat	ole	vad		V	vat
+,	,	,			Z	
+waid	vaid	vaid	0		D	
+    	@vaid	vaid	0		J	
+tedda	####	####				
+     	#teda	tema	da		P	sg p
+essite	####	####				
+      	#esiti	esiti	0		D	
+Tallinna	Tallinn	Tallinn	0		H	adt
+        	@Tallinna	Tallinn	0		H	sg g
+        	Tallinn	Tallinn	0		H	sg p
+        	tallinna	tallinna	0		G	
+ulitsa	####	####				
+      	#uulitsa	uulits	0		S	sg g
+peal	peal	peal	0		D	
+    	@peal	peal	0		K	
+    	pea	pea	l		S	sg ad
+näinud	@näinud	näge	nud		V	nud
+      	näi=nud	näi=nud	0		A	
+      	näi=nud	näi=nud	0		A	sg n
+      	näi=nud	näi=nud	d		A	pl n
+      	näinu	näinu	d		S	pl n
+      	näi	näi	nud		V	nud
+ja	ja	ja	0		J	
+temmast	####	####				
+       	#temast	tema	st		P	sg el
+Ria	####	####				
+   	#Riia	Ria	0		H	sg g
+reisi	reis	reis	0		S	adt
+     	@reisi	reis	0		S	sg g
+     	reis	reis	0		S	sg p
+     	reisi	reisi	0		V	o
+     	reis	reis	i		S	pl p
+peale	peale	peale	0		D	
+     	@peale	peale	0		K	
+     	pea	pea	le		S	sg all
+kutstud	####	####				
+       	#kutsutud	kutsu	tud		V	tud
+sanud	####	####				
+     	#saanud	saa	nud		V	nud
+.	.	.			Z	
+Se	####	####				
+  	#see	see	0		P	sg n
+Wennelane	####	####				
+         	#venelane	venelane	0		S	sg n
+kes	kes	kes	0		P	pl n
+   	@kes	kes	0		P	sg n
+Karl	Karl	Karl	0		H	sg n
+Simonsile	####	####				
+         	#Simonsenile	Simonsen	le		H	sg all
+lootsiko	####	####				
+        	#lootsiku	lootsik	0		S	sg g
+münud	####	####				
+     	#müünud	müü	nud		V	nud
+,	,	,			Z	
+olla	olla	ole	a		V	da
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+Amerika	####	####				
+       	#Ameerika	Amerika	0		H	sg g
+laewa	laev	laev	0		S	adt
+     	@laeva	laev	0		S	sg g
+     	laev	laev	0		S	sg p
+peale	peale	peale	0		D	
+     	@peale	peale	0		K	
+     	pea	pea	le		S	sg all
+läinud	läinud	läinud	0		A	
+      	läinud	läinud	0		A	sg n
+      	läinu	läinu	d		S	pl n
+      	läinud	läinud	d		A	pl n
+      	@läinud	mine	nud		V	nud
+;	;	;			Z	
+agga	####	####				
+    	#aga	aga	0		J	
+kuida	####	####				
+     	#kuidas	kuidas	0		D	
+se	####	####				
+  	#see	see	0		P	sg n
+teine	teine	teine	0		O	sg n
+     	@teine	teine	0		P	sg n
+lootsiko	####	####				
+        	#lootsiku	lootsik	0		S	sg g
+peale	peale	peale	0		D	
+     	@peale	peale	0		K	
+     	pea	pea	le		S	sg all
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+temmal	####	####				
+      	#temal	tema	l		P	sg ad
+teadmatta	####	####				
+         	#teadmata	tead	matta		V	mata
+.	.	.			Z	
+Tallinnas	Tallinnas	Tallinn	s		H	sg in
+,	,	,			Z	
+temmaga	####	####				
+       	#temaga	tema	ga		P	sg kom
+seltsis	@seltsis	seltsis	0		D	
+       	seltsis	seltsis	0		K	
+       	seltsi	seltsi	s		V	s
+       	selts	selts	s		S	sg in
+,	,	,			Z	
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+weel	@veel	veel	0		D	
+    	vesi	vesi	l		S	sg ad
+    	veel	vesi	l		S	sg ad
+2	2	2	0		N	?
+madrust	madrust	madrus	t		S	sg p
+sedda	####	####				
+     	#seda	see	da		P	sg p
+laewa	laev	laev	0		S	adt
+     	laev	laev	0		S	sg g
+     	@laeva	laev	0		S	sg p
+mahha	####	####				
+     	#maha	maha	0		D	
+jätnud	jät=nud	jät=nud	0		A	
+      	jät=nud	jät=nud	0		A	sg n
+      	jät=nu	jät=nu	d		S	pl n
+      	jät=nud	jät=nud	d		A	pl n
+      	@jätnud	jät	nud		V	nud
+.	.	.			Z	
+Üks	üks	üks	0		N	sg n
+   	@üks	üks	0		P	sg n
+ühhe	####	####				
+    	ühe	ühe	0		S	sg n
+    	ühe	üks	0		N	sg g
+    	#ühe	üks	0		P	sg g
+Amerika	####	####				
+       	#Ameerika	Amerika	0		H	sg g
+laewa	laev	laev	0		S	adt
+     	@laeva	laev	0		S	sg g
+     	laev	laev	0		S	sg p
+peal	peal	peal	0		D	
+    	@peal	peal	0		K	
+    	pea	pea	l		S	sg ad
+tenistust	####	####				
+         	#teenistust	teenistus	t		S	sg p
+wötnud	####	####				
+      	#võtnud	võt	nud		V	nud
+ja	ja	ja	0		J	
+teine	teine	teine	0		O	sg n
+     	@teine	teine	0		P	sg n
+Talinna	####	####				
+       	#Tallinna	Tallinn	0		H	adt
+jänud	####	####				
+     	#jäänud	jää	nud		V	nud
+.	.	.			Z	
+Liwen	####	####				
+     	#Liwen	Liwen	0		H	sg n
+Dörk	####	####				
+    	#Dörk	Dörk	0		H	sg n
+olla	olla	ole	a		V	da
+temmal	####	####				
+      	#temal	tema	l		P	sg ad
+üsna	üsna	üsna	0		D	
+tundmatta	####	####				
+         	#tundmata	tund	matta		V	mata
+,	,	,			Z	
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+olla	olla	ole	a		V	da
+agga	####	####				
+    	#aga	aga	0		J	
+temmal	####	####				
+      	#temal	tema	l		P	sg ad
+juttustanud	####	####				
+           	#jutustanud	jutusta	nud		V	nud
+,	,	,			Z	
+et	et	et	0		J	
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+ühhe	####	####				
+    	ühe	ühe	0		S	sg n
+    	ühe	üks	0		N	sg g
+    	#ühe	üks	0		P	sg g
+Saksama	####	####				
+       	#Saksamaa	Saksama	0		H	sg g
+sonneri	####	####				
+       	#purjeka	sonner	0		S	sg g
+peal	peal	peal	0		D	
+    	@peal	peal	0		K	
+    	pea	pea	l		S	sg ad
+teninud	####	####				
+       	#teeninud	teeni	nud		V	nud
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+.	.	.			Z	
+Kesknäddalsel	####	####				
+             	#kesknädalasel	kesknädalane	l		A	sg ad
+(	(	(			Z	
+?	?	?			Z	
+)	)	)			Z	
+öhto	####	####				
+    	#õhtu	õhtu	0		S	sg g
+kel	kes	kes	l		P	sg ad
+   	£kell	kell	0		S	sg n
+10	10	10	0		N	?
+,	,	,			Z	
+olla	olla	ole	a		V	da
+naad	####	####				
+    	#nad	tema	d		P	pl n
+Tallinnast	Tallinnast	Tallinn	st		H	sg el
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+.	.	.			Z	
+Omma	####	####				
+    	#oma	oma	0		P	sg g
+Kapteinile	####	####				
+          	#kaptenile	kapten	le		S	sg all
+olla	olla	ole	a		V	da
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+tenistust	####	####				
+         	#teenistust	teenistus	t		S	sg p
+ülles	####	####				
+     	#üles	üles	0		D	
+öölnud	####	####				
+      	#öelnud	ütle	nud		V	nud
+,	,	,			Z	
+et	et	et	0		J	
+se	####	####				
+  	#see	see	0		P	sg n
+agga	####	####				
+    	#aga	aga	0		J	
+middagi	####	####				
+       	#midagi	miski	da	gi	P	sg p
+temmale	####	####				
+       	#temale	tema	le		P	sg all
+polle	####	####				
+     	#pole	ole	0		V	neg o
+wastanud	vasta=nud	vasta=nud	0		A	
+        	vasta=nud	vasta=nud	0		A	sg n
+        	vasta=nud	vasta=nud	d		A	pl n
+        	vastanu	vastanu	d		S	pl n
+        	@vastanud	vasta	nud		V	nud
+,	,	,			Z	
+olla	olla	ole	a		V	da
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+sallaja	sall_aeg	sall_aeg	0		S	sg g
+       	£salaja	salaja	0		D	
+laewa	laev	laev	0		S	adt
+     	@laeva	laev	0		S	sg g
+     	laev	laev	0		S	sg p
+mahha	####	####				
+     	#maha	maha	0		D	
+jätnud	jät=nud	jät=nud	0		A	
+      	jät=nud	jät=nud	0		A	sg n
+      	jät=nu	jät=nu	d		S	pl n
+      	jät=nud	jät=nud	d		A	pl n
+      	@jätnud	jät	nud		V	nud
+.	.	.			Z	
+Et	et	et	0		J	
+muud	muu	muu	d		P	pl n
+    	@muud	muu	d		P	sg p
+    	muu	muu	d		S	pl n
+    	muu	muu	d		S	sg p
+    	muu	muu	d		V	d
+toimetust	toimetu	toimetu	st		A	sg el
+         	@toimetust	toimetus	t		S	sg p
+polle	####	####				
+     	#pole	ole	0		V	neg o
+olnud	ol=nud	ol=nud	0		A	
+     	ol=nud	ol=nud	0		A	sg n
+     	ol=nud	ol=nud	d		A	pl n
+     	@olnud	ole	nud		V	nud
+     	olnu	olnu	d		S	pl n
+,	,	,			Z	
+löppes	####	####				
+      	#lõppes	lõppe	s		V	s
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+päwa	####	####				
+    	#päeva	päev	0		S	sg g
+istuminne	####	####				
+         	#istumine	istumine	0		S	sg n
+.	.	.			Z	

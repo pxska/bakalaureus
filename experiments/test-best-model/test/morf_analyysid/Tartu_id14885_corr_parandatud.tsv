@@ -1,0 +1,569 @@
+Sel	@sel	see	l		P	sg ad
+   	sel	sel	0		Y	?
+3mal	####	####				
+    	#3ndal	3=s	l		O	sg ad
+Maij	####	####				
+    	#mai	mai	0		S	sg n
+1830.	1830.	1830.	0		O	?
+Kohtomehhed	####	####				
+           	#kohtumehed	kohtu_mees	d		S	pl n
+ollid	####	####				
+     	#olid	ole	id		V	sid
+man	@man	man	0		D	
+   	man	man	0		K	
+.	.	.			Z	
+Päkohtomees	####	####				
+           	#peakohtumees	pea_kohtu_mees	0		S	sg n
+Peter	Peter	Peter	0		H	sg n
+Jonas	Jonas	Jonas	0		H	sg n
+,	,	,			Z	
+Abbikohtomehhed	####	####				
+               	#abikohtumehed	abi_kohtu_mees	d		S	pl n
+Michel	####	####				
+      	#Mihkel	Michel	0		H	sg n
+Lacks	####	####				
+     	#Laks	Lacks	0		H	sg n
+,	,	,			Z	
+Jahn	####	####				
+    	#Jaan	Jahn	0		H	sg n
+Suck	####	####				
+    	#Sukk	Sukk	0		H	sg n
+.	.	.			Z	
+Sai	@sai	saa	i		V	s
+   	sai	sai	0		S	sg n
+Jülsi	####	####				
+     	#Jülsi	Jülsi	0		H	sg g
+Jürrij	####	####				
+      	#Jüri	Jürrij	0		H	sg n
+Subbe	####	####				
+     	#Sube	Subbe	0		H	sg g
+selletust	####	####				
+        	#seletust	seletus	t		S	sg p
+tettu	####	####				
+     	#tehtud	tege	ttu		V	tud
+;	;	;			Z	
+-	-	-			Z	
+ni	####	####				
+  	#nii	nii	0		D	
+kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+sien	####	####				
+    	#siin	siin	0		D	
+nimmetakse	nimme_taks	nimme_taks	e		S	pl p
+          	£nimetatakse	nimeta	takse		V	takse
+:	:	:			Z	
+Jülsi	####	####				
+     	#Jülsi	Jülsi	0		H	sg g
+Jürrij	####	####				
+      	#Jüri	Jürrij	0		H	sg g
+wöllad	####	####				
+      	#võlad	võlg	d		S	pl n
+om	####	####				
+  	on	ole	0		V	b
+  	#on	ole	0		V	vad
+:	:	:			Z	
+Moisale	####	####				
+       	#mõisale	mõis	le		S	sg all
+6	6	6	0		N	?
+Töpra	####	####				
+     	#tõpra	tõbras	0		S	sg g
+Teopeiwad	####	####				
+         	#teopäevad	teo_päev	d		S	pl n
+a	a	a	0		Y	?
+`	’	’			Z	
+40kop	####	####				
+     	#40_kop	40_kop	0		Y	?
+.	.	.			Z	
+7½Töpra	####	####				
+       	#7½_tõpra	7½_tõbras	0		S	sg g
+Wohripeiwad	####	####				
+           	#vooripäevad	voori_päev	d		S	pl n
+a	a	a	0		Y	?
+`	’	’			Z	
+40kop	####	####				
+     	#40_kop	40_kop	0		Y	?
+.	.	.			Z	
+5rbl	####	####				
+    	#5_rbl	5_rbl	0		Y	?
+.	.	.			Z	
+40kop	####	####				
+     	#40_kop	40_kop	0		Y	?
+.	.	.			Z	
+3	3	3	0		N	?
+Töpra	####	####				
+     	#tõpra	tõbras	0		S	sg g
+Löa	####	####				
+   	¤					
+a	a	a	0		Y	?
+`	’	’			Z	
+15kop	####	####				
+     	#15_kop	15_kop	0		Y	?
+.	.	.			Z	
+45kop	####	####				
+     	#45_kop	45_kop	0		Y	?
+.	.	.			Z	
+50	50	50	0		N	?
+Kuse	kuse	kuse	0		V	o
+    	kusi	kusi	0		S	sg g
+    	£kuuse	kuusk	0		S	sg g
+Puud	puud	puud	0		S	sg n
+    	puu	puu	d		S	pl n
+    	@puud	puu	d		S	sg p
+Kopli	Kopli	Kopli	0		H	sg g
+     	Kopli	Kopli	0		H	sg n
+     	@kopli	koppel	0		S	sg g
+all	all	all	0		D	
+   	@all	all	0		K	
+raggunu	####	####				
+       	#raiunud	ragu	nu		V	nud
+a	a	a	0		Y	?
+`	’	’			Z	
+25kop	####	####				
+     	#25_kop	25_kop	0		Y	?
+.	.	.			Z	
+12rbl	####	####				
+     	#12_rbl	12_rbl	0		Y	?
+.	.	.			Z	
+50kop	####	####				
+     	#50_kop	50_kop	0		Y	?
+.	.	.			Z	
+Rahha	####	####				
+     	raha	raha	0		S	sg n
+     	raha	raha	0		S	sg g
+     	#raha	raha	0		S	sg p
+wötnud	####	####				
+      	#võtnud	võt	nud		V	nud
+Moisa	####	####				
+     	#mõisa	mõis	0		S	sg g
+     	mõisa	mõis	0		S	adt
+     	mõisa	mõis	0		S	sg p
+Körzinaise	####	####				
+          	#kõrtsinaise	kõrtsi_naine	0		S	sg g
+käest	@käest	käest	0		K	
+     	käsi	käsi	st		S	sg el
+2rbl	####	####				
+    	#2_rbl	2_rbl	0		Y	?
+.	.	.			Z	
+50kop	####	####				
+     	#50_kop	50_kop	0		Y	?
+.	.	.			Z	
+20	20	20	0		N	?
+Punda	pund	pund	0		S	adt
+     	@punda	pund	0		S	sg p
+Oelgi	####	####				
+     	¤					
+,	,	,			Z	
+Kattusse	katt_uss	katt_uss	e		S	pl p
+        	£katuse	katus	0		S	sg g
+parrandamisse	####	####				
+             	#parandamise	parandamine	0		S	sg g
+tarwis	tarvis	tarvis	0		D	
+      	@tarvis	tarvis	0		K	
+2rbl	####	####				
+    	#2_rbl	2_rbl	0		Y	?
+.	.	.			Z	
+-	-	-			Z	
+Aijaparrandamisse	####	####				
+                 	#aiaparandamise	aia_parandamise	0		S	sg g
+tarwis	tarvis	tarvis	0		D	
+      	@tarvis	tarvis	0		K	
+Kodlid	####	####				
+      	¤					
+2	2	2	0		N	?
+Kohrmat	####	####				
+       	#koormat	koorem	t		S	sg p
+2rbl	####	####				
+    	#2_rbl	2_rbl	0		Y	?
+.	.	.			Z	
+-	-	-			Z	
+24rbl	####	####				
+     	#24_rbl	24_rbl	0		Y	?
+.	.	.			Z	
+85kop	####	####				
+     	#85_kop	85_kop	0		Y	?
+.	.	.			Z	
+Wallaladiko	####	####				
+          	#vallalaadiku	valla_laadik	0		S	sg g
+,	,	,			Z	
+mis	mis	mis	0		P	pl n
+   	@mis	mis	0		P	sg n
+ette	esi	esi	tte		S	adt
+    	@ette	ette	0		D	
+    	ette	ette	0		K	
+üts	####	####				
+   	#üks	üks	0		N	sg n
+   	üks	üks	0		P	sg n
+Höbbe	####	####				
+     	#hõbe	hõbe	0		S	sg n
+Selg	selg	selg	0		S	sg n
+    	£sõlg	sõlg	0		S	sg n
+pandis	pant	pant	s		S	sg in
+      	£pandiks	pant	s		S	sg tr
+pandtu	####	####				
+      	#pandud	pane	dtu		V	tud
+14rbl	####	####				
+     	#14_rbl	14_rbl	0		Y	?
+.	.	.			Z	
+75kop	####	####				
+     	#75_kop	75_kop	0		Y	?
+.	.	.			Z	
+Maggasi	####	####				
+       	#magasi	magas	0		S	sg g
+Aida	aida	ait	0		S	sg g
+,	,	,			Z	
+3	3	3	0		N	?
+1	1	1	0		N	?
+/	/	/			Z	
+6	6	6	0		N	?
+wakka	vakk	vakk	0		S	adt
+     	vakk	vakk	0		S	sg p
+     	vakka	vakka	0		D	
+     	vakka	vakk	0		S	adt
+     	@vakka	vakk	0		S	sg p
+Kaaro	####	####				
+     	#kaeru	kaer	o		S	pl p
+a	a	a	0		Y	?
+`	’	’			Z	
+2rbl	####	####				
+    	#2_rbl	2_rbl	0		Y	?
+.	.	.			Z	
+6rbl	####	####				
+    	#6_rbl	6_rbl	0		Y	?
+.	.	.			Z	
+34kop	####	####				
+     	#34_kop	34_kop	0		Y	?
+.	.	.			Z	
+Jahn	####	####				
+    	#Jaan	Jahn	0		H	sg n
+Kampus	####	####				
+      	#Kampus	Kampus	0		H	sg n
+Sullase	####	####				
+       	#sulase	sulane	0		S	sg g
+Palgk	####	####				
+     	#palk	palk	0		S	sg n
+4rbl	####	####				
+    	#4_rbl	4_rbl	0		Y	?
+.	.	.			Z	
+30kop	####	####				
+     	#30_kop	30_kop	0		Y	?
+.	.	.			Z	
+Jahn	####	####				
+     	#Jaan	Jahn	0		H	sg n
+Tolmats	####	####				
+       	#Tolmats	Tolmats	0		H	sg n
+Karjuse	karjuse	karjus	0		S	sg g
+Palgk	####	####				
+     	#palk	palk	0		S	sg n
+3rbl	####	####				
+    	#3_rbl	3_rbl	0		Y	?
+.	.	.			Z	
+25kop	####	####				
+     	#25_kop	25_kop	0		Y	?
+.	.	.			Z	
+Jahn	####	####				
+    	#Jaan	Jahn	0		H	sg n
+Reitzdorf	####	####				
+         	#Reitsdorf	Reitzdorf	0		H	sg n
+Sullase	####	####				
+       	#sulase	sulane	0		S	sg g
+Palgk	####	####				
+     	#palk	palk	0		S	sg n
+7rbl	####	####				
+    	#7_rbl	7_rbl	0		Y	?
+.	.	.			Z	
+90kop	####	####				
+     	#90_kop	90_kop	0		Y	?
+.	.	.			Z	
+15rbl	####	####				
+     	#15_rbl	15_rbl	0		Y	?
+.	.	.			Z	
+45kop	####	####				
+     	#45_kop	45_kop	0		Y	?
+.	.	.			Z	
+Wölgu	####	####				
+     	#võlgu	võlg	u		S	pl p
+wötnu	####	####				
+     	#võtnud	võt	nu		V	nud
+:	:	:			Z	
+Ohna	####	####				
+    	#Oona	Ohna	0		H	sg g
+Kristian	####	####				
+        	#Kristjan	Kristian	0		H	sg n
+Ohn	####	####				
+   	#Oon	Ohn	0		H	sg n
+18rbl	####	####				
+     	#18_rbl	18_rbl	0		Y	?
+.	.	.			Z	
+-	-	-			Z	
+Indrik	####	####				
+      	#Indrek	Indrik	0		H	sg n
+Lessingk	####	####				
+        	#Lessing	Lessingk	0		H	sg n
+16rbl	####	####				
+     	#16_rbl	16_rbl	0		Y	?
+.	.	.			Z	
+-	-	-			Z	
+Ans	####	####				
+   	#Hans	Ans	0		H	sg n
+Pechk	####	####				
+     	#Pähk	Pechk	0		H	sg n
+Jürrij	####	####				
+      	#Jüri	Jürrij	0		H	sg n
+Tiedeberg	####	####				
+        	#Tiedeberg	Tiedeberg	0		H	sg n
+5rbl	####	####				
+    	#5_rbl	5_rbl	0		Y	?
+.	.	.			Z	
+-	-	-			Z	
+Pukka	Puka	Puka	0		H	adt
+     	£Puka	Pukka	0		H	sg g
+körtzimees	####	####				
+          	#kõrtsimees	kõrtsi_mees	0		S	sg n
+Helmers	####	####				
+       	#Helmers	Helmers	0		H	sg n
+8rbl	####	####				
+    	#8_rbl	8_rbl	0		Y	?
+.	.	.			Z	
+75kop	####	####				
+     	#75_kop	75_kop	0		Y	?
+.	.	.			Z	
+Kilter	kilter	kilter	0		S	sg n
+      	£Kilter	Kilter	0		H	sg n
+Ado	Ado	Ado	0		H	sg g
+   	@Ado	Ado	0		H	sg n
+Reingart	####	####				
+        	#Reingart	Reingart	0		H	sg n
+23rbl	####	####				
+     	#23_rbl	23_rbl	0		Y	?
+.	.	.			Z	
+-	-	-			Z	
+70rbl	####	####				
+     	#70_rbl	70_rbl	0		Y	?
+.	.	.			Z	
+75kop	####	####				
+     	#75_kop	75_kop	0		Y	?
+.	.	.			Z	
+Jürrij	####	####				
+      	#Jüri	Jürrij	0		H	sg n
+Subbe	####	####				
+     	#Sube	Subbe	0		H	sg n
+wölgu	####	####				
+     	#võlgu	võlg	u		S	pl p
+Summa	summ	summ	0		S	adt
+     	summ	summ	0		S	sg g
+     	summ	summ	0		S	sg p
+     	summa	summa	0		S	sg g
+     	@summa	summa	0		S	sg n
+132rbl	####	####				
+      	#132_rbl	132_rbl	0		Y	?
+.	.	.			Z	
+14kop	####	####				
+     	#14_kop	14_kop	0		Y	?
+.	.	.			Z	
+Auksioni	####	####				
+        	#oksjoni	oksjon	0		S	sg g
+pält	####	####				
+    	#pealt	pealt	0		K	
+müdu	####	####				
+    	#müüdud	müü	du		V	tud
+Jürrij	####	####				
+      	#Jüri	Jürrij	0		H	sg n
+Subbe	####	####				
+     	#Sube	Subbe	0		H	sg g
+asjade	asjade	asi	de		S	pl g
+eest	eest	eest	0		D	
+    	@eest	eest	0		K	
+    	esi	esi	st		S	sg el
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+sisse	@sisse	sisse	0		D	
+     	sisse	sisse	0		K	
+     	siss	siss	e		S	pl p
+tulnu	tulnu	tulnu	0		S	sg g
+     	tulnu	tulnu	0		S	sg n
+     	£tulnud	tule	nu		V	nud
+38rbl	####	####				
+     	#38_rbl	38_rbl	0		Y	?
+.	.	.			Z	
+30kop	####	####				
+     	#30_kop	30_kop	0		Y	?
+.	.	.			Z	
+jäie	####	####				
+    	#jäi	jää	ie		V	s
+Jürrij	####	####				
+      	#Jüri	Jürrij	0		H	sg n
+Subbe	####	####				
+     	#Sube	Subbe	0		H	sg n
+weel	@veel	veel	0		D	
+    	vesi	vesi	l		S	sg ad
+    	veel	vesi	l		S	sg ad
+wölga	####	####				
+     	#võlga	võlg	0		S	sg p
+93rbl	####	####				
+     	#93_rbl	93_rbl	0		Y	?
+.	.	.			Z	
+84kop	####	####				
+     	#84_kop	84_kop	0		Y	?
+.	.	.			Z	
+Jürrij	####	####				
+      	#Jüri	Jürrij	0		H	sg n
+Subbe	####	####				
+     	#Sube	Subbe	0		H	sg n
+Auksjoni	####	####				
+        	#oksjoni	oksjon	0		S	sg g
+päle	####	####				
+    	#peale	peale	0		K	
+    	peale	peale	0		D	
+sisse	@sisse	sisse	0		D	
+     	sisse	sisse	0		K	
+     	siss	siss	e		S	pl p
+tulnu	tulnu	tulnu	0		S	sg g
+     	tulnu	tulnu	0		S	sg n
+     	£tulnud	tule	nu		V	nud
+Rahha	####	####				
+     	#raha	raha	0		S	sg n
+     	raha	raha	0		S	sg g
+     	raha	raha	0		S	sg p
+sai	@sai	saa	i		V	s
+   	sai	sai	0		S	sg n
+nenda	####	####				
+     	#nõnda	nõnda	0		D	
+jautedus	####	####				
+        	#jaotatud	jaota	dus		V	tud tr
+,	,	,			Z	
+et	et	et	0		J	
+Moisa	####	####				
+     	mõisa	mõis	0		S	sg g
+     	mõisa	mõis	0		S	adt
+     	mõisa	mõis	0		S	sg p
+     	#mõis	mõis	0		S	sg n
+wötnu	####	####				
+     	#võtnud	võt	nu		V	nud
+omma	####	####				
+    	#oma	oma	0		P	sg g
+    	on	ole	0		V	vad
+wölgu	####	####				
+     	#võlgu	võlg	u		S	pl p
+24rbl	####	####				
+     	#24_rbl	24_rbl	0		Y	?
+.	.	.			Z	
+85kop	####	####				
+     	#85_kop	85_kop	0		Y	?
+.	.	.			Z	
+Magasi	magasi	magas	0		S	sg g
+wölgu	####	####				
+     	#võlgu	võlg	u		S	pl p
+eest	@eest	eest	0		D	
+    	eest	eest	0		K	
+    	esi	esi	st		S	sg el
+6rbl	####	####				
+    	#6_rbl	6_rbl	0		Y	?
+.	.	.			Z	
+34kop	####	####				
+     	#34_kop	34_kop	0		Y	?
+.	.	.			Z	
+(	(	(			Z	
+maha	maha	maha	0		D	
+tõmmatud	@tõmmatud	tõmba	tud		V	tud
+        	tõmma=tud	tõmma=tud	0		A	
+        	tõmma=tud	tõmma=tud	0		A	sg n
+        	tõmma=tu	tõmma=tu	d		S	pl n
+        	tõmma=tud	tõmma=tud	d		A	pl n
+)	)	)			Z	
+Jääp	####	####				
+    	#jääb	jää	p		V	b
+sis	####	####				
+   	#siis	siis	0		D	
+   	siis	siis	0		J	
+weel	@veel	veel	0		D	
+    	vesi	vesi	l		S	sg ad
+    	veel	vesi	l		S	sg ad
+Sullastel	####	####				
+         	#sulastel	sulane	tel		S	pl ad
+jaggada	####	####				
+       	#jagada	jaga	da		V	da
+15rbl	####	####				
+     	#15_rbl	15_rbl	0		Y	?
+.	.	.			Z	
+45kop	####	####				
+     	#45_kop	45_kop	0		Y	?
+.	.	.			Z	
+Summa	summ	summ	0		S	adt
+     	summ	summ	0		S	sg g
+     	summ	summ	0		S	sg p
+     	summa	summa	0		S	sg g
+     	@summa	summa	0		S	sg n
+38rbl	####	####				
+     	#38_rbl	38_rbl	0		Y	?
+.	.	.			Z	
+30kop	####	####				
+     	#30_kop	30_kop	0		Y	?
+.	.	.			Z	
+Et	et	et	0		J	
+meie	mina	mina	0		P	pl g
+    	@meie	mina	0		P	pl n
+alla	@alla	alla	0		D	
+    	alla	alla	0		K	
+nimmetedu	####	####				
+         	#nimetatud	nimeta	du		V	tud
+Kohtomehhed	####	####				
+           	#kohtumehed	kohtu_mees	d		S	pl n
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+Rahha	####	####				
+     	raha	raha	0		S	sg n
+     	#raha	raha	0		S	sg g
+     	raha	raha	0		S	sg p
+selletamise	####	####				
+           	#seletamise	seletamine	0		S	sg g
+man	man	man	0		D	
+   	@man	man	0		K	
+ollnu	####	####				
+     	#olnud	ole	nu		V	nud
+,	,	,			Z	
+anname	anname	and	me		V	me
+meie	mina	mina	0		P	pl g
+    	@meie	mina	0		P	pl n
+sedda	####	####				
+     	#seda	see	da		P	sg p
+tunnistus	tunnistus	tunnistus	0		S	sg n
+,	,	,			Z	
+omma	####	####				
+    	#oma	oma	0		P	sg g
+    	on	ole	0		V	vad
+alla	@alla	alla	0		D	
+    	alla	alla	0		K	
+kirjutedu	####	####				
+         	#kirjutatud	kiruta	du		V	tud
+Nimmega	nimme	nimme	ga		S	sg kom
+       	£nimega	nimi	ga		S	sg kom
+.	.	.			Z	
+Päkohtomees	####	####				
+           	#peakohtumees	pea_kohtu_mees	0		S	sg n
+Peter	Peter	Peter	0		H	sg n
+Johnas	####	####				
+      	#Jonas	Johnas	0		H	sg n
+XXX	XXX	XXX	0		O	?
+   	@XXX	XXX	0		Y	?
+Abbikohtomees	####	####				
+             	#abikohtumees	abi_kohtu_mees	0		S	sg n
+Michel	####	####				
+      	#Mihkel	Michel	0		H	sg n
+Lacks	####	####				
+     	#Laks	Lacks	0		H	sg n
+XXX	XXX	XXX	0		O	?
+   	@XXX	XXX	0		Y	?
+Jahn	####	####				
+    	#Jaan	Jahn	0		H	sg n
+Suck	####	####				
+    	#Sukk	Sukk	0		H	sg n
+XXX	XXX	XXX	0		O	?
+   	@XXX	XXX	0		Y	?
+Wallawölmelder	####	####				
+              	#vallavöörmünder	valla_vöörmünder	0		S	sg n
+Indrik	####	####				
+      	#Indrek	Indrik	0		H	sg n
+Lessingk	####	####				
+        	#Lessing	Lessingk	0		H	sg n
+XXX	XXX	XXX	0		O	?
+   	@XXX	XXX	0		Y	?

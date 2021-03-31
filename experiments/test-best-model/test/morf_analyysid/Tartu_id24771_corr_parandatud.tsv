@@ -1,0 +1,1204 @@
+Tulli	tull	tull	0		S	adt
+     	tull	tull	0		S	sg g
+     	tull	tull	0		S	sg p
+     	@tuli	tule	i		V	s
+     	tuli	tuli	0		S	sg n
+Kohto	####	####				
+     	kohtu	kohtu	0		V	o
+     	#kohtu	kohus	0		S	sg g
+ette	esi	esi	tte		S	adt
+    	ette	ette	0		D	
+    	@ette	ette	0		K	
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Konsi	####	####				
+     	#Kontsi	Konts	0		H	sg g
+Rentnik	rentnik	rentnik	0		S	sg n
+Jaan	@Jaan	Jaan	0		H	sg n
+    	jaan	jaan	0		S	sg n
+    	jaan	jaan	0		Y	?
+Wisk	####	####				
+    	#Visk	Wisk	0		H	sg n
+nink	####	####				
+    	#ning	ning	0		J	
+Kaiwas	####	####				
+      	#kaebas	kaeba	s		V	s
+Rendipaale	rendi_paal	rendi_paal	e		S	pl p
+          	£rendi_peale	rent_peale	0		K	
+andja	andja	andja	0		S	sg g
+     	@andja	andja	0		S	sg n
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Konsi	####	####				
+     	#Kontsi	Konts	0		H	sg g
+pääl	####	####				
+    	#peal	peal	0		K	
+,	,	,			Z	
+Kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+minna	mine	mine	a		V	da
+     	£mina	mina	0		P	sg n
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Konsi	####	####				
+     	#Kontsi	Konts	0		H	sg g
+Käest	@käest	käest	0		K	
+     	käsi	käsi	st		S	sg el
+se	####	####				
+  	#selle	see	0		P	sg g
+Mäe	mägi	mägi	0		S	sg g
+   	£Mäe	Mäe	0		H	sg g
+Lea	@Lea	Lea	0		H	sg g
+   	Lea	Lea	0		H	sg n
+Tallo	####	####				
+     	#talu	talu	0		S	sg g
+Rentse	####	####				
+      	#rentisin	renti	se		V	sin
+,	,	,			Z	
+es	es	es			H	?
+  	@ei	ei	s		V	neg s
+olle	####	####				
+    	#ole	ole	0		V	o
+sääl	####	####				
+    	#seal	seal	0		D	
+Korwmaisti	####	####				
+          	¤					
+Honit	####	####				
+     	#hooneid	hoone	it		S	pl p
+pääl	####	####				
+    	#peal	peal	0		K	
+nink	####	####				
+    	#ning	ning	0		J	
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Konsi	####	####				
+     	#Konts	Konts	0		H	sg n
+käskse	####	####				
+      	#käskis	käski	se		V	s
+minno	####	####				
+     	#mind	mina	0		P	sg p
+     	minu	mina	0		P	sg g
+Ehhidada	####	####				
+        	#ehitada	ehita	da		V	da
+nink	####	####				
+    	#ning	ning	0		J	
+lubbas	####	####				
+      	#lubas	luba	s		V	s
+minnole	####	####				
+       	#minule	mina	le		P	sg all
+Ehhidamisse	####	####				
+           	#ehitamise	ehitamine	0		S	sg g
+Kullo	####	####				
+     	#kulu	kulu	0		S	sg g
+täwwest	####	####				
+       	#täieks	täis	st		A	sg tr
+ni	####	####				
+  	#nii	nii	0		D	
+et	et	et	0		J	
+ma	ma	mina	0		P	sg n
+(	(	(			Z	
+Jaan	@Jaan	Jaan	0		H	sg n
+    	jaan	jaan	0		S	sg n
+    	jaan	jaan	0		Y	?
+Wisk	####	####				
+    	#Visk	Wisk	0		H	sg n
+)	)	)			Z	
+rahhul	####	####				
+      	rahul	rahu	l		S	sg ad
+      	#rahul	rahul	0		D	
+ja	ja	ja	0		J	
+ollema	####	####				
+      	#olema	ole	ma		V	ma
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+massa	####	####				
+     	maksa	maks	0		V	o
+     	#maksta	maks	a		V	da
+.	.	.			Z	
+Selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+lubbamisse	####	####				
+          	#lubamise	lubamine	0		S	sg g
+paale	paa	paa	le		A	sg all
+     	paal	paal	e		S	pl p
+     	paa	paa	le		S	sg all
+     	£peale	peale	0		K	
+ehhiti	####	####				
+      	#ehitasin	ehita	i		V	sin
+nink	####	####				
+    	#ning	ning	0		J	
+weddasi	####	####				
+       	#vedasin	veda	si		V	sin
+minna	mine	mine	a		V	da
+     	£mina	mina	0		P	sg n
+ommi	####	####				
+    	#omade	oma	i		P	pl g
+Obbessiega	####	####				
+          	#hobustega	hobune	iega		S	pl kom
+palgi	palk	palk	0		S	sg g
+     	£palgid	palk	0		S	pl n
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+1	1	1	0		N	?
+,	,	,			Z	
+üts	####	####				
+   	#üks	üks	0		N	sg n
+   	üks	üks	0		P	sg n
+Kodda	####	####				
+     	#koda	koda	0		S	sg n
+sannaga	####	####				
+       	#saunaga	saun	ga		S	sg kom
+ütte	üte	üte	0		S	sg g
+    	£ühte	üks	tte		P	sg p
+Kokko	####	####				
+     	#kokku	kokku	0		D	
+4	4	4	0		N	?
+Süld	süld	süld	0		S	sg n
+pik	####	####				
+   	#pikk	pikk	0		A	sg n
+3	3	3	0		N	?
+süld	süld	süld	0		S	sg n
+lagga	####	####				
+     	#lai	lagja	0		A	sg n
+,	,	,			Z	
+mis	mis	mis	0		P	pl n
+   	@mis	mis	0		P	sg n
+ülle	ülle	ülle	0		D	
+    	üle	üle	0		D	
+    	@üle	üle	0		K	
+palgi	palgi	palk	0		S	sg g
+weddu	####	####				
+     	#vedu	vedu	0		S	sg n
+40	40	40	0		N	?
+Rbl	####	####				
+   	#rbl	rbl	0		Y	?
+.	.	.			Z	
+minnol	####	####				
+      	#minul	mina	l		P	sg ad
+masma	####	####				
+     	#maksma	maks	ma		V	ma
+tulli	tull	tull	0		S	adt
+     	tull	tull	0		S	sg g
+     	tull	tull	0		S	sg p
+     	@tuli	tule	i		V	s
+     	tuli	tuli	0		S	sg n
+.	.	.			Z	
+2	2	2	0		N	?
+,	,	,			Z	
+uts	####	####				
+   	#üks	üks	0		N	sg n
+Laut	laut	laut	0		S	sg n
+6	6	6	0		N	?
+Suld	####	####				
+    	#süld	süld	0		S	sg n
+pik	####	####				
+   	#pikk	pikk	0		A	sg n
+ja	ja	ja	0		J	
+3	3	3	0		N	?
+1	1	1	0		N	?
+/	/	/			Z	
+2	2	2	0		N	?
+Süld	süld	süld	0		S	sg n
+lagga	####	####				
+     	#lai	lagja	0		A	sg n
+nink	####	####				
+    	#ning	ning	0		J	
+uts	####	####				
+   	#üks	üks	0		N	sg n
+wahhe	####	####				
+     	¤					
+sain	sain	saa	in		V	sin
+waijel	####	####				
+      	¤					
+ja	ja	ja	0		J	
+Kattus	kattu	kattu	s		V	s
+      	£katus	katus	0		S	sg n
+pääle	####	####				
+     	peale	peale	0		K	
+     	#peale	peale	0		D	
+,	,	,			Z	
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+Hone	####	####				
+    	#hoone	hoone	0		S	sg g
+man	man	man	0		D	
+   	@man	man	0		K	
+olle	####	####				
+    	ole	ole	0		V	o
+    	#oli	ole	0		V	s
+pool	pool	pool	0		K	
+    	@pool	pool	0		N	sg n
+    	pool	pool	0		S	sg n
+töteggijit	####	####				
+          	#töötegijaid	töö_tegija	it		S	pl p
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Konsil	####	####				
+      	#Kontsil	Konts	l		H	sg ad
+nink	####	####				
+    	#ning	ning	0		J	
+pool	pool	pool	0		K	
+    	@pool	pool	0		N	sg n
+    	pool	pool	0		S	sg n
+minnol	####	####				
+      	#minul	mina	l		P	sg ad
+,	,	,			Z	
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+man	man	man	0		D	
+   	@man	man	0		K	
+olle	####	####				
+    	ole	ole	0		V	o
+    	#oli	ole	0		V	s
+minnol	####	####				
+      	#minul	mina	l		P	sg ad
+Kullo	####	####				
+     	#kulu	kulu	0		S	sg n
+20	20	20	0		N	?
+Rubla	rubla	rubla	0		S	sg g
+     	rubla	rubla	0		S	sg n
+     	@rubla	rubla	0		S	sg p
+3	3	3	0		N	?
+,	,	,			Z	
+üts	####	####				
+   	#üks	üks	0		N	sg n
+   	üks	üks	0		P	sg n
+Pohhu	####	####				
+     	#põhu	põhk	0		S	sg g
+Küün	küün	küün	0		S	sg n
+6	6	6	0		N	?
+süld	süld	süld	0		S	sg n
+pik	####	####				
+   	#pikk	pikk	0		A	sg n
+ja	ja	ja	0		J	
+3	3	3	0		N	?
+1	1	1	0		N	?
+/	/	/			Z	
+2	2	2	0		N	?
+Süld	süld	süld	0		S	sg n
+lagga	####	####				
+     	#lai	lagja	0		A	sg n
+Ka	ka	ka	0		D	
+poolete	####	####				
+       	#pooleldi	pooleldi	0		D	
+Kunni	####	####				
+     	#kuni	kuni	0		J	
+üsna	üsna	üsna	0		D	
+walmis	valmis	valmis	0		A	
+      	@valmis	valmis	0		A	sg n
+      	valmis	valmis	0		D	
+      	valmi	valmi	s		V	s
+      	valmis	valmis	s		A	sg in
+      	valm	valm	s		S	sg in
+,	,	,			Z	
+Kelle	kes	kes	0		P	pl g
+     	@kelle	kes	0		P	sg g
+ehhidaminne	####	####				
+           	#ehitamine	ehitamine	0		S	sg n
+15	15	15	0		N	?
+Rbl	####	####				
+   	#rbl	rbl	0		Y	?
+minnol	####	####				
+      	#minul	mina	l		P	sg ad
+tulli	tull	tull	0		S	adt
+     	tull	tull	0		S	sg g
+     	tull	tull	0		S	sg p
+     	@tuli	tule	i		V	s
+     	tuli	tuli	0		S	sg n
+4	4	4	0		N	?
+,	,	,			Z	
+Ehhidime	####	####				
+        	#ehitasime	ehita	ime		V	sime
+nink	####	####				
+    	#ning	ning	0		J	
+weddessime	####	####				
+          	#vedasime	veda	ssime		V	sime
+palgi	palk	palk	0		S	sg g
+     	£palgid	palk	0		S	pl n
+pooli	pool	pool	0		S	adt
+     	pool	pool	0		S	sg g
+     	pool	pool	0		S	sg p
+     	pooli	pooli	0		V	o
+     	pool	pool	i		N	pl p
+     	pool	pool	i		S	pl p
+     	£poole	pool	0		N	sg g
+te	sina	sina	0		P	pl g
+  	sina	sina	0		P	pl n
+  	£tee	tee	0		S	sg g
+Kats	####	####				
+    	#kaks	kaks	0		N	sg n
+Haina	hai	hai	na		S	sg es
+     	£heina	hein	0		S	sg g
+Kuini	kuu	kuu	ini		S	pl ter
+     	£küüni	küün	0		S	sg p
+,	,	,			Z	
+Kumgi	####	####				
+     	#kumbki	kumbki	0		P	sg n
+3	3	3	0		N	?
+Süld	süld	süld	0		S	sg n
+pik	####	####				
+   	#pikk	pikk	0		A	sg n
+ja	ja	ja	0		J	
+2	2	2	0		N	?
+1	1	1	0		N	?
+/	/	/			Z	
+2	2	2	0		N	?
+Suld	####	####				
+    	#süld	süld	0		S	sg n
+lagga	####	####				
+     	#lai	lagja	0		A	sg n
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+Katte	kate	kate	0		S	sg g
+     	katt	katt	e		S	pl p
+     	£kahe	kaks	0		N	sg g
+Küini	####	####				
+     	#küüni	küün	0		S	sg g
+ehhidaminne	####	####				
+           	#ehitamine	ehitamine	0		S	sg n
+nink	####	####				
+    	#ning	ning	0		J	
+Palgi	palgi	palk	0		S	sg g
+weddo	####	####				
+     	#vedu	vedu	0		S	sg n
+tulli	tull	tull	0		S	adt
+     	tull	tull	0		S	sg g
+     	tull	tull	0		S	sg p
+     	@tuli	tule	i		V	s
+     	tuli	tuli	0		S	sg n
+minnol	####	####				
+      	#minul	mina	l		P	sg ad
+27	27	27	0		N	?
+Rubla	rubla	rubla	0		S	sg g
+     	rubla	rubla	0		S	sg n
+     	@rubla	rubla	0		S	sg p
+se	####	####				
+  	#see	see	0		P	sg n
+teep	####	####				
+    	#teeb	tege	p		V	b
+ülle	ülle	ülle	0		D	
+    	üle	üle	0		D	
+    	@üle	üle	0		K	
+Kiege	####	####				
+     	#kõige	kõik	0		P	sg g
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+102	102	102	0		N	?
+Rbl	####	####				
+   	#rbl	rbl	0		Y	?
+.	.	.			Z	
+Selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+et	et	et	0		J	
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Konts	konts	konts	0		S	sg n
+     	£Konts	Konts	0		H	sg n
+minnole	####	####				
+       	#minule	mina	le		P	sg all
+sedda	####	####				
+     	#seda	see	da		P	sg p
+ehhidamisse	####	####				
+           	#ehitamise	ehitamine	0		S	sg g
+Rahha	####	####				
+     	raha	raha	0		S	sg n
+     	raha	raha	0		S	sg g
+     	#raha	raha	0		S	sg p
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+massa	####	####				
+     	#maksa	maks	0		V	o
+     	maksta	maks	a		V	da
+,	,	,			Z	
+palle	pall	pall	e		S	pl p
+     	£palun	palu	0		V	n
+minna	mine	mine	a		V	da
+     	£mina	mina	0		P	sg n
+et	et	et	0		J	
+Kohhus	####	####				
+      	kohus	kohu	s		V	s
+      	#kohus	kohus	0		S	sg n
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Konsi	####	####				
+     	#Kontsi	Konts	0		H	sg p
+sunnis	sund	sund	s		S	sg in
+      	£sunniks	sundi	s		V	ks
+minnole	####	####				
+       	#minule	mina	le		P	sg all
+sedda	####	####				
+     	#seda	see	da		P	sg p
+üllesan	####	####				
+       	#üleval	üleval	0		D	
+nimmededu	####	####				
+         	#nimetatud	nimeta	du		V	tud
+rahha	####	####				
+     	raha	raha	0		S	sg g
+     	#raha	raha	0		S	sg p
+ärra	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+massa	####	####				
+     	maksa	maks	0		V	o
+     	#maksta	maks	a		V	da
+.	.	.			Z	
+5	5	5	0		N	?
+,	,	,			Z	
+Om	####	####				
+  	#on	ole	0		V	b
+minnol	####	####				
+      	#minul	mina	l		P	sg ad
+weel	@veel	veel	0		D	
+    	vesi	vesi	l		S	sg ad
+    	veel	vesi	l		S	sg ad
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Konsi	####	####				
+     	#Kontsi	Konts	0		H	sg g
+pääle	####	####				
+     	#peale	peale	0		K	
+     	peale	peale	0		D	
+Kaewata	kaeba	kaeba	ta		V	da
+       	@kaevata	kaeba	ta		V	ta
+       	kaeva	kaeva	ta		V	da
+       	kaeva	kaeva	ta		V	ta
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Kons	####	####				
+    	#Konts	Konts	0		H	sg n
+Kaubel	####	####				
+      	#kauples	kauple	0		V	s
+minno	####	####				
+     	mind	mina	0		P	sg p
+     	#minu	mina	0		P	sg g
+Käest	@käest	käest	0		K	
+     	käsi	käsi	st		S	sg el
+uts	####	####				
+   	#üks	üks	0		N	sg n
+Obbese	####	####				
+      	#hobuse	hobune	0		S	sg g
+latsenk	####	####				
+       	#lapseke	lapseke	0		S	sg n
+hendäle	####	####				
+       	#endale	ise	le		P	sg all
+mis	mis	mis	0		P	pl n
+   	@mis	mis	0		P	sg n
+minno	####	####				
+     	mind	mina	0		P	sg p
+     	#minu	mina	0		P	sg g
+Tadre	####	####				
+     	#taadri	taader	0		S	sg g
+wai	vai	vai	0		S	sg n
+   	£või	või	0		J	
+wakko	####	####				
+     	#vaka	vakk	0		S	sg g
+arwo	####	####				
+    	#arvu	arv	0		S	sg g
+sehhen	####	####				
+      	#sees	sees	0		K	
+om	####	####				
+  	#on	ole	0		V	b
+,	,	,			Z	
+kelle	kes	kes	0		P	pl g
+     	@kelle	kes	0		P	sg g
+eest	eest	eest	0		D	
+    	@eest	eest	0		K	
+    	esi	esi	st		S	sg el
+minna	mine	mine	a		V	da
+     	£mina	mina	0		P	sg n
+Rendi	@rendi	rent	0		S	sg g
+     	renti	renti	0		V	o
+piddi	####	####				
+     	pidi	pida	i		V	s
+     	pidi	pidi	0		K	
+     	#pidin	pida	i		V	sin
+masma	####	####				
+     	#maksma	maks	ma		V	ma
+,	,	,			Z	
+nink	####	####				
+    	#ning	ning	0		J	
+lubbas	####	####				
+      	#lubas	luba	s		V	s
+eggä	####	####				
+    	#iga	iga	0		P	sg g
+aijasta	####	####				
+       	#aasta	ajastaig	0		S	sg g
+eest	eest	eest	0		D	
+    	@eest	eest	0		K	
+    	esi	esi	st		S	sg el
+minnol	####	####				
+      	#minul	mina	l		P	sg ad
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+piddämisse	####	####				
+          	#pidamise	pidamine	0		S	sg g
+eest	eest	eest	0		D	
+    	@eest	eest	0		K	
+    	esi	esi	st		S	sg el
+3	3	3	0		N	?
+Rbl	####	####				
+   	#rbl	rbl	0		Y	?
+.	.	.			Z	
+massa	####	####				
+     	maksa	maks	0		V	o
+     	#maksta	maks	a		V	da
+se	####	####				
+  	#see	see	0		P	sg n
+teep	####	####				
+    	#teeb	tege	p		V	b
+18	18	18	0		N	?
+Rbl	####	####				
+   	#rbl	rbl	0		Y	?
+.	.	.			Z	
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+nink	####	####				
+    	#ning	ning	0		J	
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+olle	####	####				
+    	#ole	ole	0		V	o
+ärra	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+masnu	####	####				
+     	#maksnud	maks	nu		V	nud
+,	,	,			Z	
+ma	ma	mina	0		P	sg n
+palle	pall	pall	e		S	pl p
+     	£palun	palu	0		V	n
+et	et	et	0		J	
+Kohhus	####	####				
+      	kohus	kohu	s		V	s
+      	#kohus	kohus	0		S	sg n
+Ka	ka	ka	0		D	
+seddä	####	####				
+     	#seda	see	ddä		P	sg p
+Rahha	####	####				
+     	raha	raha	0		S	sg n
+     	raha	raha	0		S	sg g
+     	#raha	raha	0		S	sg p
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Konsil	####	####				
+      	#Kontsil	Konts	l		H	sg ad
+sunnu	####	####				
+     	#sunniks	sundi	0		V	ks
+minnole	####	####				
+       	#minule	mina	le		P	sg all
+ärra	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+massa	####	####				
+     	maksa	maks	0		V	o
+     	#maksta	maks	a		V	da
+.	.	.			Z	
+Kutsuti	kutsuti	kutsu	ti		V	ti
+Kohto	####	####				
+     	kohtu	kohtu	0		V	o
+     	#kohtu	kohus	0		S	sg g
+ette	esi	esi	tte		S	adt
+    	ette	ette	0		D	
+    	@ette	ette	0		K	
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Konts	konts	konts	0		S	sg n
+     	£Konts	Konts	0		H	sg n
+nink	####	####				
+    	#ning	ning	0		J	
+se	####	####				
+  	#see	see	0		P	sg n
+Rentnik	rentnik	rentnik	0		S	sg n
+Jaan	@Jaan	Jaan	0		H	sg n
+    	jaan	jaan	0		S	sg n
+    	jaan	jaan	0		Y	?
+Wisk	####	####				
+    	#Visk	Wisk	0		H	sg n
+Kaibus	####	####				
+      	#kaebus	kaebus	0		S	sg n
+ette	esi	esi	tte		S	adt
+    	@ette	ette	0		D	
+    	ette	ette	0		K	
+loetus	loetud	loetud	s		A	sg in
+      	loetus	loetus	0		S	sg n
+      	loetu	loetu	s		S	sg in
+      	£loetud	luge	tus		V	tud tr
+Kelle	kes	kes	0		P	pl g
+     	@kelle	kes	0		P	sg g
+pääle	####	####				
+     	#peale	peale	0		K	
+     	peale	peale	0		D	
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Konts	konts	konts	0		S	sg n
+     	£Konts	Konts	0		H	sg n
+punkt	punkt	punkt	0		S	sg n
+1	1	1	0		N	?
+,	,	,			Z	
+2	2	2	0		N	?
+,	,	,			Z	
+3	3	3	0		N	?
+nink	####	####				
+    	#ning	ning	0		J	
+4	4	4	0		N	?
+wastut	####	####				
+      	#vastas	vasta	0		V	s
+,	,	,			Z	
+se	####	####				
+  	#see	see	0		P	sg n
+om	####	####				
+  	#on	ole	0		V	b
+kül	####	####				
+   	#küll	küll	0		D	
+oige	oie	oie	0		S	sg g
+    	£õige	õige	0		A	sg n
+et	et	et	0		J	
+Jaan	@Jaan	Jaan	0		H	sg n
+    	jaan	jaan	0		S	sg n
+    	jaan	jaan	0		Y	?
+Wisk	####	####				
+    	#Visk	Wisk	0		H	sg n
+nida	####	####				
+    	#nõnda	nõnda	0		D	
+ehhidanu	####	####				
+        	#ehitanud	ehita	nu		V	nud
+om	####	####				
+  	#on	ole	0		V	b
+,	,	,			Z	
+Massa	####	####				
+     	#maksta	maks	a		V	da
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+olle	####	####				
+    	#ole	ole	0		V	o
+minno	####	####				
+     	mind	mina	0		P	sg p
+     	#minu	mina	0		P	sg g
+Rentnik	rentnik	rentnik	0		S	sg n
+Jaan	@Jaan	Jaan	0		H	sg n
+    	jaan	jaan	0		S	sg n
+    	jaan	jaan	0		Y	?
+Wiskile	viski	viski	le		S	sg all
+       	£Viskile	Wisk	le		H	sg all
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+Ehhidamisse	####	####				
+           	#ehitamise	ehitamine	0		S	sg g
+eest	eest	eest	0		D	
+    	@eest	eest	0		K	
+    	esi	esi	st		S	sg el
+mitte	mitte	mitte	0		D	
+üts	####	####				
+   	#üks	üks	0		N	sg n
+   	üks	üks	0		P	sg n
+Koppik	####	####				
+      	#kopikas	kopikas	0		S	sg n
+,	,	,			Z	
+sest	see	see	st		P	sg el
+    	@sest	sest	0		J	
+meil	meil	meil	0		S	sg n
+    	@meil	mina	l		P	pl ad
+olle	####	####				
+    	ole	ole	0		V	o
+    	#oli	ole	0		V	s
+Kaup	kaup	kaup	0		S	sg n
+et	et	et	0		J	
+Jaan	@Jaan	Jaan	0		H	sg n
+    	jaan	jaan	0		S	sg n
+    	jaan	jaan	0		Y	?
+Wisk	####	####				
+    	#Visk	Wisk	0		H	sg n
+ilma	ilm	ilm	0		S	adt
+    	ilm	ilm	0		S	sg g
+    	ilm	ilm	0		S	sg p
+    	ilma	ilma	0		D	
+    	@ilma	ilma	0		K	
+massota	####	####				
+       	#maksuta	maks	ta		S	sg ab
+ne	####	####				
+  	#need	see	0		P	pl n
+nimmededu	####	####				
+         	#nimetatud	nimeta	du		V	tud
+Hone	####	####				
+    	#hooned	hoone	0		S	pl n
+piddi	####	####				
+     	#pidi	pida	i		V	s
+     	pidi	pidi	0		K	
+ehhidama	####	####				
+        	#ehitama	ehita	ma		V	ma
+nink	####	####				
+    	#ning	ning	0		J	
+punkt	punkt	punkt	0		S	sg n
+5	5	5	0		N	?
+pääl	####	####				
+    	#peal	peal	0		K	
+Kostse	####	####				
+      	#kostis	kost	se		V	s
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Konts	konts	konts	0		S	sg n
+     	£Konts	Konts	0		H	sg n
+minna	mine	mine	a		V	da
+     	£mina	mina	0		P	sg n
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+olle	####	####				
+    	#ole	ole	0		V	o
+middagi	####	####				
+       	midagi	miski	da	gi	P	sg p
+       	#midagi	miski	dagi		P	sg p
+lubbanu	####	####				
+       	#lubanud	luba	nu		V	nud
+massa	####	####				
+     	maksa	maks	0		V	o
+     	#maksta	maks	a		V	da
+se	####	####				
+  	#see	see	0		P	sg n
+Obbese	####	####				
+      	#hobuse	hobune	0		S	sg g
+lassekko	####	####				
+        	#lapsekese	lapseke	0		S	sg g
+eest	eest	eest	0		D	
+    	@eest	eest	0		K	
+    	esi	esi	st		S	sg el
+,	,	,			Z	
+se	####	####				
+  	#see	see	0		P	sg n
+olle	####	####				
+    	ole	ole	0		V	o
+    	#oli	ole	0		V	s
+kaup	kaup	kaup	0		S	sg n
+,	,	,			Z	
+nink	####	####				
+    	#ning	ning	0		J	
+minna	mine	mine	a		V	da
+     	£mina	mina	0		P	sg n
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+olle	####	####				
+    	#ole	ole	0		V	o
+sinnole	####	####				
+       	#sinule	sina	le		P	sg all
+seddä	####	####				
+     	#seda	see	ddä		P	sg p
+Obbese	####	####				
+      	#hobuse	hobune	0		S	sg g
+laisenkust	####	####				
+          	#lapsekest	lapseke	t		S	sg p
+ärra	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+Rentnu	####	####				
+      	#rentinud	renti	nu		V	nud
+.	.	.			Z	
+Kohhus	####	####				
+      	kohus	kohu	s		V	s
+      	#kohus	kohus	0		S	sg n
+noudse	####	####				
+      	#nõudis	nõud	se		V	s
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Konsi	####	####				
+     	#Kontsi	Konts	0		H	sg g
+Kaest	kae	kae	st		S	sg el
+     	£käest	käest	0		K	
+punkt	punkt	punkt	0		S	sg n
+1	1	1	0		N	?
+,	,	,			Z	
+2,3	2,3	2,3	0		N	?
+nink	####	####				
+    	#ning	ning	0		J	
+4	4	4	0		N	?
+pääle	####	####				
+     	#peale	peale	0		K	
+     	peale	peale	0		D	
+Tunnustust	tunnustus	tunnustus	t		S	sg p
+          	£tunnistust	tunnistus	t		S	sg p
+et	et	et	0		J	
+se	####	####				
+  	#see	see	0		P	sg n
+lepping	####	####				
+       	#leping	leping	0		S	sg n
+olle	####	####				
+    	ole	ole	0		V	o
+    	#oli	ole	0		V	s
+,	,	,			Z	
+et	et	et	0		J	
+Jaan	@Jaan	Jaan	0		H	sg n
+    	jaan	jaan	0		S	sg n
+    	jaan	jaan	0		Y	?
+Wisk	####	####				
+    	#Visk	Wisk	0		H	sg n
+ne	####	####				
+  	#need	see	0		P	pl n
+Hone	####	####				
+    	#hooned	hoone	0		S	pl n
+piddi	####	####				
+     	#pidi	pida	i		V	s
+     	pidi	pidi	0		K	
+ilma	ilm	ilm	0		S	adt
+    	ilm	ilm	0		S	sg g
+    	ilm	ilm	0		S	sg p
+    	ilma	ilma	0		D	
+    	@ilma	ilma	0		K	
+Rahhata	####	####				
+       	#rahata	raha	ta		S	sg ab
+ulles	####	####				
+     	#üles	üles	0		D	
+ehhidämä	####	####				
+        	#ehitama	ehita	mä		V	ma
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Konts	konts	konts	0		S	sg n
+     	£Konts	Konts	0		H	sg n
+es	es	es			H	?
+  	@ei	ei	s		V	neg s
+ütle	ütle	ütle	0		V	o
+tunnistust	tunnistust	tunnistus	t		S	sg p
+ollewat	####	####				
+       	#olevat	ole	vat		V	vat
+.	.	.			Z	
+Kohhus	####	####				
+      	kohus	kohu	s		V	s
+      	#kohus	kohus	0		S	sg n
+Moistse	####	####				
+       	#mõistis	mõist	se		V	s
+Selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+et	et	et	0		J	
+Jaan	@Jaan	Jaan	0		H	sg n
+    	jaan	jaan	0		S	sg n
+    	jaan	jaan	0		Y	?
+Wisk	####	####				
+    	#Visk	Wisk	0		H	sg n
+Kontrakt	####	####				
+        	#kontraht	kontraht	0		S	sg n
+Kongi	kong	kong	0		S	adt
+     	kong	kong	0		S	sg g
+     	kong	kong	0		S	sg p
+     	£Kontsi	Konts	0		H	sg p
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+sunni	sund	sund	0		S	sg g
+     	@sunni	sundi	0		V	o
+et	et	et	0		J	
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+peäp	####	####				
+    	#peab	pida	p		V	b
+Hone	####	####				
+    	#hooned	hoone	0		S	pl n
+ehhitama	####	####				
+        	#ehitama	ehita	ma		V	ma
+Massap	####	####				
+      	#maksab	maks	p		V	b
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Konts	konts	konts	0		S	sg n
+     	£Konts	Konts	0		H	sg n
+Jaan	@Jaan	Jaan	0		H	sg n
+    	jaan	jaan	0		S	sg n
+    	jaan	jaan	0		Y	?
+Wiskile	viski	viski	le		S	sg all
+       	£Viskile	Wisk	le		H	sg all
+Koa	####	####				
+   	#koja	koda	0		S	sg g
+nink	####	####				
+    	#ning	ning	0		J	
+Sanna	####	####				
+     	#sauna	saun	0		S	sg g
+Palgi	palgi	palk	0		S	sg g
+weddo	####	####				
+     	#vedu	vedu	0		S	sg p
+ja	ja	ja	0		J	
+Ehhidaminne	####	####				
+           	#ehitamine	ehitamine	0		S	sg n
+15	15	15	0		N	?
+Rbl	####	####				
+   	#rbl	rbl	0		Y	?
+Lauda	laud	laud	0		S	adt
+     	laud	laud	0		S	sg p
+     	@lauda	laut	0		S	sg g
+Ehhidaminne	####	####				
+           	#ehitamine	ehitamine	0		S	sg n
+nink	####	####				
+    	#ning	ning	0		J	
+Katminne	####	####				
+        	#katmine	katmine	0		S	sg n
+12	12	12	0		N	?
+Rbl	####	####				
+   	#rbl	rbl	0		Y	?
+.	.	.			Z	
+50	50	50	0		N	?
+Kop	####	####				
+   	#kop	kop	0		Y	?
+.	.	.			Z	
+Küini	####	####				
+     	#küüni	küün	0		S	sg g
+Ehhidaminne	####	####				
+           	#ehitamine	ehitamine	0		S	sg n
+nink	####	####				
+    	#ning	ning	0		J	
+Katminne	####	####				
+        	#katmine	katmine	0		S	sg n
+12	12	12	0		N	?
+Rbl	####	####				
+   	#rbl	rbl	0		Y	?
+.	.	.			Z	
+,	,	,			Z	
+Katte	@katte	kate	0		S	sg g
+     	katt	katt	e		S	pl p
+Haina	hai	hai	na		S	sg es
+     	£heina	hein	0		S	sg g
+Küni	####	####				
+    	#küüni	küün	0		S	sg g
+palgi	palgi	palk	0		S	sg g
+weddo	####	####				
+     	#vedu	vedu	0		S	sg n
+nink	####	####				
+    	#ning	ning	0		J	
+Ehhidaminne	####	####				
+           	#ehitamine	ehitamine	0		S	sg n
+14	14	14	0		N	?
+Rubla	rubla	rubla	0		S	sg g
+     	rubla	rubla	0		S	sg n
+     	@rubla	rubla	0		S	sg p
+se	####	####				
+  	#see	see	0		P	sg n
+teep	####	####				
+    	#teeb	tege	p		V	b
+üllegige	####	####				
+        	#üle_kõige	üle_kõik	0		P	sg g
+59	59	59	0		N	?
+Rubla	rubla	rubla	0		S	sg g
+     	rubla	rubla	0		S	sg n
+     	@rubla	rubla	0		S	sg p
+nink	####	####				
+    	#ning	ning	0		J	
+50	50	50	0		N	?
+kop	kop	kop	0		Y	?
+.	.	.			Z	
+ökwa	####	####				
+    	#õkva	õkva	0		D	
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+masma	####	####				
+     	#maksma	maks	ma		V	ma
+.	.	.			Z	
+Punkt	punkt	punkt	0		S	sg n
+5	5	5	0		N	?
+pääle	####	####				
+     	#peale	peale	0		K	
+     	peale	peale	0		D	
+Moistse	####	####				
+       	#mõistis	mõist	se		V	s
+Kohhus	####	####				
+      	kohus	kohu	s		V	s
+      	#kohus	kohus	0		S	sg n
+et	et	et	0		J	
+Jaan	@Jaan	Jaan	0		H	sg n
+    	jaan	jaan	0		S	sg n
+    	jaan	jaan	0		Y	?
+Wisk	####	####				
+    	#Visk	Wisk	0		H	sg n
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+woi	####	####				
+   	või	või	0		S	sg n
+   	või	või	0		S	sg g
+   	või	või	0		J	
+   	või	või	0		D	
+   	#või	või	0		V	o
+middagi	####	####				
+       	midagi	miski	da	gi	P	sg p
+       	#midagi	miski	dagi		P	sg p
+nõuda	nõuda	nõud	a		V	da
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Konsi	####	####				
+     	#Kontsi	Konts	0		H	sg g
+kaest	kae	kae	st		S	sg el
+     	käest	käsi	st		S	sg el
+     	@käest	käest	0		K	
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+Obbese	####	####				
+      	#hobuse	hobune	0		S	sg g
+larsenko	####	####				
+        	#lapsekese	lapsekene	0		S	sg g
+eest	eest	eest	0		D	
+    	@eest	eest	0		K	
+    	esi	esi	st		S	sg el
+.	.	.			Z	
+Sedda	####	####				
+     	#seda	see	dda		P	sg p
+moistust	####	####				
+        	#mõistust	mõistus	t		S	sg p
+sai	@sai	saa	i		V	s
+   	sai	sai	0		S	sg n
+Jaan	@Jaan	Jaan	0		H	sg n
+    	jaan	jaan	0		S	sg n
+    	jaan	jaan	0		Y	?
+Wisk	####	####				
+    	#Visk	Wisk	0		H	sg n
+nink	####	####				
+    	#ning	ning	0		J	
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Kosnile	####	####				
+       	#Kontsile	Konts	le		H	sg all
+ette	esi	esi	tte		S	adt
+    	@ette	ette	0		D	
+    	ette	ette	0		K	
+loetus	loetud	loetud	s		A	sg in
+      	loetus	loetus	0		S	sg n
+      	loetu	loetu	s		S	sg in
+      	£loetud	luge	tus		V	tud tr
+Jaan	@Jaan	Jaan	0		H	sg n
+    	jaan	jaan	0		S	sg n
+    	jaan	jaan	0		Y	?
+Wisk	####	####				
+    	#Visk	Wisk	0		H	sg n
+nink	####	####				
+    	#ning	ning	0		J	
+Jakkop	####	####				
+      	#Jakob	Jakkop	0		H	sg n
+Kons	####	####				
+    	#Konts	Konts	0		H	sg n
+es	es	es			H	?
+  	@ei	ei	s		V	neg s
+ollewa	####	####				
+      	#olevat	ole	va		V	vat
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+Moistussega	####	####				
+           	#mõistusega	mõistus	ga		S	sg kom
+rahhul	####	####				
+      	rahul	rahu	l		S	sg ad
+      	#rahul	rahul	0		D	
+enge	####	####				
+    	#vaid	enge	0		J	
+lubbasiwa	####	####				
+         	#lubasid	luba	siva		V	sid
+surempat	####	####				
+        	#suuremat	suurem	t		C	sg p
+Kohhut	####	####				
+      	#kohut	kohus	t		S	sg p
+Käwwa	####	####				
+     	#käia	käi	a		V	da
+,	,	,			Z	
+nink	####	####				
+    	#ning	ning	0		J	
+Jaan	@Jaan	Jaan	0		H	sg n
+    	jaan	jaan	0		S	sg n
+    	jaan	jaan	0		Y	?
+Wisk	####	####				
+    	#Visk	Wisk	0		H	sg n
+es	es	es			H	?
+  	@ei	ei	s		V	neg s
+olle	####	####				
+    	#ole	ole	0		V	o
+Punkt	punkt	punkt	0		S	sg n
+5	5	5	0		N	?
+Moistussega	####	####				
+           	#mõistusega	mõistus	ga		S	sg kom
+sukkuki	####	####				
+       	#sugugi	sugugi	0		D	
+rahhul	####	####				
+      	rahul	rahu	l		S	sg ad
+      	#rahul	rahul	0		D	
+nink	####	####				
+    	#ning	ning	0		J	
+pallelsiwa	####	####				
+          	#palusid	palu	siva		V	sid
+Mollemp	####	####				
+       	#mõlemad	mõlema	0		P	pl n
+Prottokolli	####	####				
+           	#protokolli	protokoll	0		S	sg p
+nink	####	####				
+    	#ning	ning	0		J	
+Kohhus	####	####				
+      	kohus	kohu	s		V	s
+      	#kohus	kohus	0		S	sg n
+lubbas	####	####				
+      	#lubas	luba	s		V	s
+tullewa	####	####				
+       	#tuleva	tule	va		V	v
+Redi	####	####				
+    	#reede	reede	0		S	sg n
+Prottokolli	####	####				
+           	#protokolli	protokoll	0		S	sg g
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+anda	anda	and	a		V	da
+.	.	.			Z	
+PaKohtomees	####	####				
+           	#peakohtumees	pea_kohtu_mees	0		S	sg n
+P. Tarrask	####	####				
+          	#P._Tarask	P._Tarrask	0		H	sg n
+<allkiri>	allkiri	all_kiri	0		S	sg n
+Abbi	####	####				
+    	#abi	abi	0		S	sg n
+    	abi	abi	0		S	sg g
+    	abi	abi	0		S	sg p
+Jaan	@Jaan	Jaan	0		H	sg n
+    	jaan	jaan	0		S	sg n
+    	jaan	jaan	0		Y	?
+Luk	####	####				
+   	#Lukk	Luk	0		H	sg n
+<allkiri>	allkiri	all_kiri	0		S	sg n
+Abbi	####	####				
+    	#abi	abi	0		S	sg n
+    	abi	abi	0		S	sg g
+    	abi	abi	0		S	sg p
+Jaan	@Jaan	Jaan	0		H	sg n
+    	jaan	jaan	0		S	sg n
+    	jaan	jaan	0		Y	?
+Petso	####	####				
+     	#Peetsu	Petso	0		H	sg n
+XXX	XXX	XXX	0		O	?
+   	@XXX	XXX	0		Y	?

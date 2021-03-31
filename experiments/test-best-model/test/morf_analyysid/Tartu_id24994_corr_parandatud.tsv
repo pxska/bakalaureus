@@ -1,0 +1,675 @@
+Tulli	tull	tull	0		S	adt
+     	tull	tull	0		S	sg g
+     	tull	tull	0		S	sg p
+     	@tuli	tule	i		V	s
+     	tuli	tuli	0		S	sg n
+kohtu	kohtu	kohtu	0		V	o
+     	@kohtu	kohus	0		S	sg g
+ette	esi	esi	tte		S	adt
+    	ette	ette	0		D	
+    	@ette	ette	0		K	
+Wallawannemb	####	####				
+            	#vallavanem	valla_vanem	0		S	sg n
+Juhhan	####	####				
+      	#Juhan	Juhhan	0		H	sg n
+Lük	####	####				
+   	#Lük	Lük	0		H	sg n
+nink	####	####				
+    	#ning	ning	0		J	
+kaiwas	####	####				
+      	#kaebas	kaeba	s		V	s
+sullase	####	####				
+       	#sulase	sulane	0		S	sg g
+Hindrik	####	####				
+       	#Hendrik	Hendrik	0		H	sg n
+Tik	####	####				
+   	#Tikk	Tik	0		H	sg n
+päle	####	####				
+    	#peale	peale	0		K	
+    	peale	peale	0		D	
+,	,	,			Z	
+et	et	et	0		J	
+nimmetidu	####	####				
+         	#nimetatud	nimeta	du		V	tud
+sullane	####	####				
+       	#sulane	sulane	0		S	sg n
+om	####	####				
+  	#on	ole	0		V	b
+minno	####	####				
+     	mind	mina	0		P	sg p
+     	#minu	mina	0		P	sg g
+puud	puud	puud	0		S	sg n
+    	@puud	puu	d		S	pl n
+    	puu	puu	d		S	sg p
+warrastanu	varrasta=nu	varrasta=nu	0		S	sg g
+          	varrasta=nu	varrasta=nu	0		S	sg n
+          	£varastanud	varasta	nu		V	nud
+,	,	,			Z	
+pool	pool	pool	0		K	
+    	@pool	pool	0		N	sg n
+    	pool	pool	0		S	sg n
+sülda	süld	süld	0		S	adt
+     	@sülda	süld	0		S	sg p
+nink	####	####				
+    	#ning	ning	0		J	
+ne	####	####				
+  	#need	see	0		P	sg n
+warrastedu	####	####				
+          	#varastatud	varasta	du		V	tud
+puu	puu	puu	0		S	sg g
+   	@puud	puu	0		S	sg n
+om	####	####				
+  	#on	ole	0		V	b
+Hendrik	Hendrik	Hendrik	0		H	sg n
+Tik	####	####				
+   	#Tikk	Tik	0		H	sg n
+omma	####	####				
+    	#oma	oma	0		P	sg g
+    	on	ole	0		V	vad
+puurita	puuri	puuri	ta		V	ta
+       	puur	puur	ta		S	sg ab
+       	£puuriita	puu_riit	0		S	adt
+pandnu	####	####				
+      	#pannud	pane	nu		V	nud
+,	,	,			Z	
+minno	####	####				
+     	mind	mina	0		P	sg p
+     	#minu	mina	0		P	sg g
+puu	puu	puu	0		S	sg g
+   	puu	puu	0		S	sg n
+   	£puud	puu	0		S	pl n
+mis	mis	mis	0		P	pl n
+   	@mis	mis	0		P	sg n
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+om	####	####				
+  	#on	ole	0		V	b
+warrastanu	varrasta=nu	varrasta=nu	0		S	sg g
+          	varrasta=nu	varrasta=nu	0		S	sg n
+          	£varastanud	varasta	nu		V	nud
+om	####	####				
+  	#on	ole	0		V	b
+sest	@sest	see	st		P	sg el
+    	sest	sest	0		J	
+tulla	tulla	tule	a		V	da
+et	et	et	0		J	
+minno	####	####				
+     	mind	mina	0		P	sg p
+     	#minu	mina	0		P	sg g
+kirwe	kirve	kirves	0		S	sg g
+sehhen	####	####				
+      	#sees	sees	0		K	
+olle	####	####				
+    	ole	ole	0		V	o
+    	#oli	ole	0		V	s
+kats	####	####				
+    	#kaks	kaks	0		N	sg n
+wäikest	väikene	väikene	t		A	sg p
+       	@väikest	väike	t		A	sg p
+Zälka	####	####				
+     	#sälku	sälk	0		S	sg p
+nink	####	####				
+    	#ning	ning	0		J	
+selleperrast	####	####				
+            	#sellepärast	selle_pärast	0		D	
+om	####	####				
+  	#on	ole	0		V	b
+puije	####	####				
+     	#puude	puu	ije		S	pl g
+,	,	,			Z	
+raotuden	####	####				
+        	#raiudes	ragu	den		V	des
+otsen	####	####				
+     	#otsas	otsas	0		K	
+kats	####	####				
+    	#kaks	kaks	0		N	sg n
+wäikest	väikene	väikene	t		A	sg p
+       	@väikest	väike	t		A	sg p
+krammi	kramm	kramm	0		S	adt
+      	kramm	kramm	0		S	sg g
+      	@krammi	kramm	0		S	sg p
+,	,	,			Z	
+nink	####	####				
+    	#ning	ning	0		J	
+weel	@veel	veel	0		D	
+    	vesi	vesi	l		S	sg ad
+    	veel	vesi	l		S	sg ad
+om	####	####				
+  	#on	ole	0		V	b
+nännu	####	####				
+     	#näinud	näge	nu		V	nud
+Jürri	####	####				
+     	#Jüri	Jürri	0		H	sg n
+Lük	####	####				
+   	#Lük	Lük	0		H	sg n
+kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+Hendrik	Hendrik	Hendrik	0		H	sg n
+Tik	####	####				
+   	#Tikk	Tik	0		H	sg n
+neid	neid	neid	0		S	sg n
+    	@neid	see	d		P	pl p
+    	tema	tema	d		P	pl p
+puid	puid	puu	id		S	pl p
+om	####	####				
+  	#on	ole	0		V	b
+minno	####	####				
+     	mind	mina	0		P	sg p
+     	#minu	mina	0		P	sg g
+unnikust	####	####				
+        	#hunnikust	hunnik	st		S	sg el
+päle	####	####				
+    	peale	peale	0		K	
+    	#peale	peale	0		D	
+pandnu	####	####				
+      	#pannud	pane	nu		V	nud
+.	.	.			Z	
+Nink	####	####				
+    	#ning	ning	0		J	
+kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+minna	mine	mine	a		V	da
+     	£mina	mina	0		P	sg n
+sedda	####	####				
+     	#seda	see	da		P	sg p
+Hendrik	Hendrik	Hendrik	0		H	sg n
+Tikkule	####	####				
+       	#Tikule	Tik	le		H	sg all
+ette	esi	esi	tte		S	adt
+    	@ette	ette	0		D	
+    	ette	ette	0		K	
+pandse	####	####				
+      	#panin	pane	dse		V	sin
+nink	####	####				
+    	#ning	ning	0		J	
+üttelsi	####	####				
+       	#ütlesin	ütle	si		V	sin
+sinna	sinna	sinna	0		D	
+     	£sina	sina	0		P	sg n
+widat	####	####				
+     	#viid	vii	dat		V	d
+perremehhe	####	####				
+          	#peremehe	pere_mees	0		S	sg g
+aiga	####	####				
+    	#aega	aeg	0		S	sg p
+ärrä	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+,	,	,			Z	
+nink	####	####				
+    	#ning	ning	0		J	
+warrastat	####	####				
+         	#varastad	varasta	t		V	d
+minno	####	####				
+     	mind	mina	0		P	sg p
+     	#minu	mina	0		P	sg g
+walmis	valmis	valmis	0		A	
+      	valmis	valmis	0		A	sg n
+      	@valmis	valmis	0		D	
+      	valmi	valmi	s		V	s
+      	valmis	valmis	s		A	sg in
+      	valm	valm	s		S	sg in
+raotud	raotu	raotu	d		A	pl n
+      	£raiutud	ragu	tud		V	tud
+puu	puu	puu	0		S	sg g
+   	puu	puu	0		S	sg n
+   	£puud	puu	0		S	pl n
+ärrä	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+,	,	,			Z	
+kae	kae	kae	0		I	
+   	kae	kae	0		S	sg g
+   	kae	kae	0		S	sg n
+   	@kae	kae	0		V	o
+siin	@siin	siin	0		D	
+    	siin	siin	0		S	sg n
+omma	####	####				
+    	oma	oma	0		P	sg g
+    	#on	ole	0		V	vad
+minno	####	####				
+     	mind	mina	0		P	sg p
+     	#minu	mina	0		P	sg g
+katskisse	####	####				
+         	#katkise	katkine	0		A	sg g
+kirwega	kirvega	kirves	ga		S	sg kom
+raotu	raotu	raotu	0		A	sg g
+     	raotu	raotu	0		A	sg n
+     	£raiutud	ragu	tu		V	tud
+puu	puu	puu	0		S	sg g
+   	puu	puu	0		S	sg n
+   	£puud	puu	0		S	pl n
+sinno	####	####				
+     	#sinu	sina	0		P	sg g
+süllen	####	####				
+      	#süles	süli	s		S	sg in
+,	,	,			Z	
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+päle	####	####				
+    	#peale	peale	0		K	
+    	peale	peale	0		D	
+hakks	####	####				
+     	#hakkas	hakka	s		V	s
+Hendrik	Hendrik	Hendrik	0		H	sg n
+Tik	####	####				
+   	#Tikk	Tik	0		H	sg n
+minno	####	####				
+     	#mind	mina	0		P	sg p
+     	minu	mina	0		P	sg g
+wandma	####	####				
+      	#vanduma	vandu	ma		V	ma
+,	,	,			Z	
+nida	####	####				
+    	#nõnda	nõnda	0		D	
+,	,	,			Z	
+sinna	sinna	sinna	0		D	
+     	£sina	sina	0		P	sg n
+purrask	####	####				
+       	#purask	purask	0		S	sg n
+ollet	####	####				
+     	#oled	ole	t		V	d
+minnole	####	####				
+       	#minule	mina	le		P	sg all
+middagi	####	####				
+       	#midagi	miski	da	gi	P	sg p
+ütleja	ütleja	ütleja	0		S	sg g
+      	@ütleja	ütleja	0		S	sg n
+.	.	.			Z	
+Kutsuti	kutsuti	kutsu	ti		V	ti
+kohtu	kohtu	kohtu	0		V	o
+     	@kohtu	kohus	0		S	sg g
+ette	esi	esi	tte		S	adt
+    	ette	ette	0		D	
+    	@ette	ette	0		K	
+Hendrik	Hendrik	Hendrik	0		H	sg n
+Tik	####	####				
+   	#Tikk	Tik	0		H	sg n
+nink	####	####				
+    	#ning	ning	0		J	
+se	####	####				
+  	#see	see	0		P	sg n
+wallawannemba	####	####				
+               	#vallavanema	valla_vanem	0		S	sg g
+kaibus	####	####				
+      	#kaebus	kaebus	0		S	sg n
+ette	esi	esi	tte		S	adt
+    	@ette	ette	0		D	
+    	ette	ette	0		K	
+pantus	####	####				
+      	#pandud	pane	tus		V	tud tr
+,	,	,			Z	
+kelle	kes	kes	0		P	pl g
+     	@kelle	kes	0		P	sg g
+päle	####	####				
+    	#peale	peale	0		K	
+    	peale	peale	0		D	
+Hendrik	Hendrik	Hendrik	0		H	sg n
+Tik	####	####				
+   	#Tikk	Tik	0		H	sg n
+wasatut	####	####				
+      	#vastanud	vasta	ut		V	nud
+:	:	:			Z	
+Minna	Minna	Minna	0		H	sg g
+     	Minna	Minna	0		H	sg n
+     	mine	mine	a		V	da
+     	£mina	mina	0		P	sg n
+es	es	es			H	?
+  	@ei	ei	s		V	neg s
+warrasta	varrasta	varrasta	0		V	o
+        	£varasta	varasta	0		V	o
+neid	neid	neid	0		S	sg n
+    	@neid	see	d		P	pl p
+    	tema	tema	d		P	pl p
+puid	puid	puu	id		S	pl p
+.	.	.			Z	
+Kohhus	####	####				
+      	kohus	kohu	s		V	s
+      	#kohus	kohus	0		S	sg n
+kutse	kutse	kutse	0		S	sg g
+     	kutse	kutse	0		S	sg n
+     	kuts	kuts	e		S	pl p
+     	£kutsus	kutsu	e		V	s
+ette	esi	esi	tte		S	adt
+    	@ette	ette	0		D	
+    	ette	ette	0		K	
+tunnistaja	@tunnistaja	tunnistaja	0		S	sg g
+          	tunnistaja	tunnistaja	0		S	sg n
+Jürri	####	####				
+     	#Jüri	Jürri	0		H	sg n
+Lük	####	####				
+   	#Lük	Lük	0		H	sg n
+nink	####	####				
+    	#ning	ning	0		J	
+nöudse	####	####				
+      	#nõudis	nõud	se		V	s
+kas	kas	kas	0		D	
+sinna	sinna	sinna	0		D	
+     	£sina	sina	0		P	sg n
+näit	näit	näit	0		S	sg n
+    	£nägid	näge	it		V	sid
+et	et	et	0		J	
+Hendrik	Hendrik	Hendrik	0		H	sg n
+Tik	####	####				
+   	#Tikk	Tik	0		H	sg n
+wallawannemba	####	####				
+             	#vallavanema	valla_vanem	0		S	sg g
+unnikust	####	####				
+        	#hunnikust	hunnik	st		S	sg el
+puid	puid	puu	id		S	pl p
+obbesega	####	####				
+        	#hobusega	hobune	ga		S	sg kom
+weije	####	####				
+     	#viis	vii	ije		V	s
+,	,	,			Z	
+Minna	Minna	Minna	0		H	sg g
+     	Minna	Minna	0		H	sg n
+     	mine	mine	a		V	da
+     	£mina	mina	0		P	sg n
+näise	####	####				
+     	#nägin	näge	ise		V	sin
+nink	####	####				
+    	#ning	ning	0		J	
+näitasi	näit_asi	näit_asi	0		S	sg n
+       	£näitasin	näita	si		V	sin
+se	####	####				
+  	#see	see	0		P	sg n
+unnik	####	####				
+     	#hunnik	hunnik	0		S	sg n
+wallawannemle	####	####				
+             	#vallavanemale	valla_vanem	le		S	sg all
+nink	####	####				
+    	#ning	ning	0		J	
+Mötsawahhile	####	####				
+            	#metsavahile	metsa_vaht	le		S	sg all
+,	,	,			Z	
+nink	####	####				
+    	#ning	ning	0		J	
+Mötsawaht	####	####				
+         	#metsavaht	metsa_vaht	0		S	sg n
+ütles	ütles	ütle	s		V	s
+et	et	et	0		J	
+ne	####	####				
+  	#need	see	0		P	pl n
+Wallawannemba	####	####				
+             	#vallavanema	valla_vanem	0		S	sg g
+puu	puu	puu	0		S	sg g
+   	puu	puu	0		S	sg n
+   	£puud	puu	0		S	pl n
+omma	####	####				
+    	oma	oma	0		P	sg g
+    	#on	ole	0		V	vad
+olnu	olnu	olnu	0		S	sg g
+    	olnu	olnu	0		S	sg n
+    	@olnud	ole	nu		V	nud
+.	.	.			Z	
+Kutsuti	kutsuti	kutsu	ti		V	ti
+ette	esi	esi	tte		S	adt
+    	@ette	ette	0		D	
+    	ette	ette	0		K	
+Mötsawaht	####	####				
+         	#metsavaht	metsa_vaht	0		S	sg n
+Karel	####	####				
+     	#Kaarel	Karel	0		H	sg n
+Teerman	####	####				
+       	#Teerman	Teerman	0		H	sg n
+nink	####	####				
+    	#ning	ning	0		J	
+nõuti	nõuti	nõud	ti		V	ti
+kas	kas	kas	0		D	
+se	####	####				
+  	#see	see	0		P	sg n
+unnik	####	####				
+     	#hunnik	hunnik	0		S	sg n
+olli	####	####				
+    	#oli	ole	i		V	s
+wallawannembal	####	####				
+              	#vallavanemal	valla_vanem	l		S	sg ad
+,	,	,			Z	
+kost	kost	kost	0		S	sg n
+    	£kust	kust	0		D	
+Hendrik	Hendrik	Hendrik	0		H	sg n
+Tik	####	####				
+   	#Tikk	Tik	0		H	sg n
+neid	neid	neid	0		S	sg n
+    	@neid	see	d		P	pl p
+    	tema	tema	d		P	pl p
+puid	puid	puu	id		S	pl p
+om	####	####				
+  	#on	ole	0		V	b
+winu	vinu	vinu	0		S	sg g
+    	vinu	vinu	0		S	sg n
+    	vinu	vinu	0		S	sg p
+    	£viinud	vii	nu		V	nud
+,	,	,			Z	
+olli	####	####				
+    	#oli	ole	i		V	s
+lüll	####	####				
+    	#küll	küll	0		D	
+kostse	####	####				
+      	#kostis	kost	se		V	s
+mösawaht	####	####				
+        	#metsavaht	metsa_vaht	0		S	sg n
+,	,	,			Z	
+nink	####	####				
+    	#ning	ning	0		J	
+puu	puu	puu	0		S	sg g
+   	puu	puu	0		S	sg n
+   	£puud	puu	0		S	pl n
+om	####	####				
+  	#on	ole	0		V	b
+kirwe	kirve	kirves	0		S	sg g
+jällist	####	####				
+       	#jälgedest	jälg	ist		S	pl el
+selgest	selge	selge	st		A	sg el
+       	£selgesti	selgesti	0		D	
+nätta	####	####				
+     	#näha	näge	tta		V	da
+et	et	et	0		J	
+wallawannemba	####	####				
+             	#vallavanema	valla_vanem	0		S	sg g
+puu	puu	puu	0		S	sg g
+   	puu	puu	0		S	sg n
+   	£puud	puu	0		S	pl n
+omma	####	####				
+    	oma	oma	0		P	sg g
+    	#on	ole	0		V	vad
+;	;	;			Z	
+Nidasammute	####	####				
+           	#nõndasamuti	nõnda_samuti	0		D	
+ka	ka	ka	0		D	
+ütlep	####	####				
+     	#ütleb	ütle	p		V	b
+weel	@veel	veel	0		D	
+    	vesi	vesi	l		S	sg ad
+    	veel	vesi	l		S	sg ad
+wallawannemb	####	####				
+            	#vallavanem	valla_vanem	0		S	sg n
+,	,	,			Z	
+neid	neid	neid	0		S	sg n
+    	@neid	see	d		P	pl p
+    	tema	tema	d		P	pl p
+Ree	ree	regi	0		S	sg g
+jälgi	jälgi	jälgi	0		V	o
+     	@jälgi	jälg	i		S	pl p
+     	jälk	jälk	0		A	sg g
+mõõtnu	mõõt=nu	mõõt=nu	0		S	sg g
+      	mõõt=nu	mõõt=nu	0		S	sg n
+      	@mõõtnud	mõõt	nu		V	nud
+ollewat	####	####				
+       	#olevat	ole	vat		V	vat
+nink	####	####				
+    	#ning	ning	0		J	
+omma	####	####				
+    	oma	oma	0		P	sg g
+    	#on	ole	0		V	vad
+Hendrik	Hendrik	Hendrik	0		H	sg n
+Tik	####	####				
+   	#Tikk	Tik	0		H	sg n
+Ree	ree	regi	0		S	sg g
+jälgiga	jälk	jälk	ga		A	sg kom
+       	£jälgedega	jälg	iga		S	pl kom
+ütte	üte	üte	0		S	sg g
+    	£ühte	ühte	0		D	
+sündinuwa	####	####				
+         	#sündinud	sündi	nuva		V	nud
+nink	####	####				
+    	#ning	ning	0		J	
+kirwe	kirve	kirves	0		S	sg g
+jällist	####	####				
+       	#jälgedest	jälg	ist		S	pl el
+om	####	####				
+  	#on	ole	0		V	b
+selkehhe	####	####				
+        	#selgesti	selgesti	0		D	
+nätta	####	####				
+     	#näha	näge	tta		V	da
+,	,	,			Z	
+et	et	et	0		J	
+minno	####	####				
+     	mind	mina	0		P	sg p
+     	#minu	mina	0		P	sg g
+puu	puu	puu	0		S	sg g
+   	puu	puu	0		S	sg n
+   	£puud	puu	0		S	pl n
+omma	####	####				
+    	oma	oma	0		P	sg g
+    	#on	ole	0		V	vad
+Hendrik	Hendrik	Hendrik	0		H	sg n
+Tikku	tikk	tikk	0		S	adt
+     	tikk	tikk	0		S	sg p
+     	tikk	tikk	u		S	pl p
+     	£Tiku	Tik	0		H	sg n
+Ridan	####	####				
+     	#riidas	riit	n		S	sg in
+.	.	.			Z	
+Kohhus	####	####				
+      	kohus	kohu	s		V	s
+      	#kohus	kohus	0		S	sg n
+Moistse	####	####				
+       	#mõistis	mõist	se		V	s
+.	.	.			Z	
+Jürri	####	####				
+     	#Jüri	Jürri	0		H	sg n
+Lük	####	####				
+   	#Lük	Lük	0		H	sg n
+tunnistusse	tunnistus	tunnistus	se		S	adt
+           	£tunnistuse	tunnistus	0		S	sg g
+päle	####	####				
+    	#peale	peale	0		K	
+    	peale	peale	0		D	
+,	,	,			Z	
+nink	####	####				
+    	#ning	ning	0		J	
+Mötsawahhi	####	####				
+          	#metsavahi	metsa_vaht	0		S	sg g
+tunnistusse	tunnistus	tunnistus	se		S	adt
+           	£tunnistuse	tunnistus	0		S	sg g
+päle	####	####				
+    	#peale	peale	0		K	
+    	peale	peale	0		D	
+,	,	,			Z	
+et	et	et	0		J	
+ne	####	####				
+  	#need	see	0		P	pl n
+puu	puu	puu	0		S	sg g
+   	puu	puu	0		S	sg n
+   	£puud	puu	0		S	pl n
+selgeste	####	####				
+        	#selgesti	selgesti	0		D	
+tutta	####	####				
+     	¤					
+omma	####	####				
+    	oma	oma	0		P	sg g
+    	#on	ole	0		V	vad
+kirwe	kirve	kirves	0		S	sg g
+jällist	####	####				
+       	#jälgedest	jälg	ist		S	pl el
+et	et	et	0		J	
+wallawannemba	####	####				
+             	#vallavanema	valla_vanem	0		S	sg g
+puu	puu	puu	0		S	sg g
+   	puu	puu	0		S	sg n
+   	£puud	puu	0		S	pl n
+omma	####	####				
+    	oma	oma	0		P	sg g
+    	#on	ole	0		V	vad
+Nink	####	####				
+    	#ning	ning	0		J	
+weel	@veel	veel	0		D	
+    	vesi	vesi	l		S	sg ad
+    	veel	vesi	l		S	sg ad
+selleperrast	####	####				
+            	#sellepärast	selle_pärast	0		D	
+,	,	,			Z	
+et	et	et	0		J	
+Hendrik	Hendrik	Hendrik	0		H	sg n
+Tik	####	####				
+   	#Tikk	Tik	0		H	sg n
+wallawannemba	####	####				
+             	#vallavanema	valla_vanem	0		S	sg g
+wasta	vasta	vasta	0		V	o
+     	vastu	vastu	0		D	
+     	@vastu	vastu	0		K	
+krop	####	####				
+    	#ropp	ropp	0		A	sg n
+om	####	####				
+  	#on	ole	0		V	b
+olnu	olnu	olnu	0		S	sg g
+    	olnu	olnu	0		S	sg n
+    	@olnud	ole	nu		V	nud
+,	,	,			Z	
+saap	####	####				
+    	#saab	saa	p		V	b
+Hendrik	Hendrik	Hendrik	0		H	sg n
+Tik	####	####				
+   	#Tikk	Tik	0		H	sg n
+15	15	15	0		N	?
+witsa	vits	vits	0		S	adt
+     	@vitsa	vits	0		S	sg g
+     	vits	vits	0		S	sg p
+Lööki	löök	löök	0		S	adt
+     	@lööki	löök	0		S	sg p
+.	.	.			Z	
+Hindrik	####	####				
+       	#Hendrik	Hendrik	0		H	sg n
+Tik	####	####				
+   	#Tikk	Tik	0		H	sg n
+pallus	####	####				
+      	#palus	palu	s		V	s
+Protokol	####	####				
+        	#protokoll	protokoll	0		S	sg n
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+mis	mis	mis	0		P	pl n
+   	@mis	mis	0		P	sg n
+sai	@sai	saa	i		V	s
+   	sai	sai	0		S	sg n
+ka	ka	ka	0		D	
+antus	antud	antud	s		A	sg in
+     	£antud	and	tus		V	tud tr
+.	.	.			Z	
+Päkohtumees	####	####				
+           	#peakohtumees	pea_kohtu_mees	0		S	sg n
+Jakop	####	####				
+     	#Jaakob	Jakop	0		H	sg n
+Konts	konts	konts	0		S	sg n
+     	£Konts	Konts	0		H	sg n
+Jaan	@Jaan	Jaan	0		H	sg n
+    	jaan	jaan	0		S	sg n
+    	jaan	jaan	0		Y	?
+Petso	####	####				
+     	#Peetsu	Petso	0		H	sg n
+XXX	XXX	XXX	0		O	?
+   	@XXX	XXX	0		Y	?
+Peter	Peeter	Peter	0		H	sg n
+Konsi	####	####				
+     	#Konsi	Konsi	0		H	sg n
+XXX	XXX	XXX	0		O	?
+   	@XXX	XXX	0		Y	?

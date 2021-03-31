@@ -1,0 +1,82 @@
+T1	Org 4 35	Karrola walla Koggokonna Kohhus
+T2	Isik 101 116	Tõmmis Tõllasep
+T3	Isik 189 200	Tõnnis Taar
+T5	Koht 299 309	Tallinamaa
+T6	Isik 315 326	Mihkel Ibis
+T7	KO_koht 328 338;339 340;341 346	Arrokülla
+ 
+ moisast
+T8	KO_koht 349 368	Koero Kihhelkonnast
+T9	Muu 439 445;446 447;448 451	Paide
+ 
+ lada
+T10	Koht 659 667	Arrosare
+T11	KO_koht 668 682	Wõhma kõrtsist
+T12	Koht 987 994	Wiratsi
+T13	KO_koht 995 1010	Kanni ka körtsi
+T14	KO_koht 1083 1096	Kannia körtsi
+T15	Koht 1193 1200	Karrola
+T16	Isik 1210 1224	Jürri Jürrison
+T17	Koht 1279 1285	Karola
+T18	Isik 2707 2718	Mihkel Ibis
+T19	Koht 2664 2671	Karrola
+T20	Isik 1295 1309	Jürri Jürrison
+T21	KO_koht 1481 1494;1495 1496;1497 1498	Jürri Jürri-
+ 
+ son
+T22	Isik 1481 1494;1495 1496;1497 1498	Jürri Jürri-
+ 
+ son
+T23	Koht 1511 1519	Tarwasto
+T24	KO_koht 1526 1536	Pallopeedi
+T25	Isik 1537 1542	Hansu
+T4	Isik 269 282	Hans Köhnberg
+T26	Koht 1622 1630	tarwasto
+T27	KO_koht 1639 1649	Pallopeedi
+T28	Koht 1728 1735	Karrola
+T29	Isik 1650 1654	hans
+T30	KO_koht 1744 1748	Alli
+T31	Isik 1749 1755	Mihkel
+T32	Isik 1822 1836	Jürri Jürrison
+T33	KO_koht 1876 1884;1885 1886;1887 1893	Kannika
+ 
+ körtsist
+T34	Koht 1941 1949	Willandi
+T35	KO_koht 1955 1962	Sammuli
+T36	Isik 1963 1971	Andresse
+T37	KO_koht 2677 2681	Alli
+T38	Isik 2682 2688	Mihkel
+T39	Isik 3029 3044	Tõnnis Tõllasep
+T40	Isik 1983 1991	Jaan Erm
+T41	KO_koht 1993 2002	karemanni
+T42	Isik 2003 2007	Jaan
+T43	Koht 2009 2017	Seasaare
+T44	Koht 2032 2040	Tarwasto
+T45	KO_koht 2041 2050	Pallopedi
+T46	Isik 2051 2055	hans
+T47	Koht 2145 2153	Tarwasto
+T48	KO_koht 2163 2172	Pallopedi
+T49	Isik 2173 2178	Hansu
+T50	Muu 2201 2213	Wandra ladal
+T51	Isik 2261 2272	Mihkel Ibis
+T52	KO_koht 2298 2307	Pallopedi
+T53	Isik 2308 2312	Hans
+T54	Koht 2345 2352	Karrola
+T55	KO_koht 2358 2362	Alli
+T56	Isik 2363 2369	Mihkel
+T57	KO_koht 2405 2419	Willandi moisa
+T58	KO_koht 2420 2428;2429 2430;2431 2435	Seasaar
+ 
+ Körtsi
+T59	KO_koht 2420 2428;2429 2430;2431 2435	Seasaar
+ 
+ Körtsi
+T60	KO_koht 2447 2457	Pallopeedi
+T61	Isik 2458 2465	Hansuga
+T62	Muu 2529 2542	Wändra ladalt
+T63	Muu 439 445;446 447;448 453	Paide
+ 
+ ladal
+T64	Muu 439 445;446 447;448 453	Paide
+ 
+ ladal

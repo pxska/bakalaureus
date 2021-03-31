@@ -250,19 +250,19 @@ class NerGazetteerFeatureTagger(Retagger):
                 word, lbl = ln.strip().rsplit("\t", 1)
                 self.data[word].add(lbl)
 
-def _change_layer(self, text: Text, layers: MutableMapping[str, Layer], status: dict):
-        layer = layers[self.output_layer]
-        layer.attributes += tuple(self.output_attributes)
-        tokens = list(layer)
-        look_ahead = self.look_ahead
-        for i in range(len(tokens)):
-            if tokens[i].ner_features.iu[0] is not None: # Only capitalised strings
-                for j in range(i + 1, i + 1 + look_ahead):
-                    lemmas = []
-                    for token in tokens[i:j]:
-                        lemmas.append(token.text)
-                    phrase = " ".join(lemmas)
-                    if phrase.lower() in self.data:
-                        labels = self.data[phrase.lower()]
-                        for tok in tokens[i:j]:
-                            tok.ner_features.gaz = labels
+    def _change_layer(self, text: Text, layers: MutableMapping[str, Layer], status: dict):
+            layer = layers[self.output_layer]
+            layer.attributes += tuple(self.output_attributes)
+            tokens = list(layer)
+            look_ahead = self.look_ahead
+            for i in range(len(tokens)):
+                if tokens[i].ner_features.iu[0] is not None: # Only capitalised strings
+                    for j in range(i + 1, i + 1 + look_ahead):
+                        lemmas = []
+                        for token in tokens[i:j]:
+                            lemmas.append(token.text)
+                        phrase = " ".join(lemmas)
+                        if phrase.lower() in self.data:
+                            labels = self.data[phrase.lower()]
+                            for tok in tokens[i:j]:
+                                tok.ner_features.gaz = labels

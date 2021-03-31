@@ -1,0 +1,878 @@
+Tulli	tull	tull	0		S	adt
+     	tull	tull	0		S	sg g
+     	tull	tull	0		S	sg p
+     	@tuli	tule	i		V	s
+     	tuli	tuli	0		S	sg n
+kohto	####	####				
+     	kohtu	kohtu	0		V	o
+     	#kohtu	kohus	0		S	sg g
+ette	esi	esi	tte		S	adt
+    	ette	ette	0		D	
+    	@ette	ette	0		K	
+Jurrimatzi	####	####				
+          	#Jürimatsi	Jurrimatzi	0		H	sg g
+Jaak	@Jaak	Jaak	0		H	sg n
+    	jaak	jaak	0		S	sg n
+Pertma	####	####				
+      	#Pertma	Pertma	0		H	sg g
+naine	naine	naine	0		S	sg n
+Marri	####	####				
+     	#Mari	Marri	0		H	sg n
+raegis	####	####				
+      	#rääkis	rääki	s		V	s
+et	et	et	0		J	
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+8	8	8	0		N	?
+asta	####	####				
+    	#aasta	aasta	0		S	sg g
+est	####	####				
+   	#eest	eest	0		K	
+erra	####	####				
+    	#ära	ära	0		D	
+surnud	@surnud	sure	nud		V	nud
+      	surnud	surnud	0		A	
+      	surnud	surnud	0		A	sg n
+      	surnu	surnu	d		S	pl n
+      	surnud	surnud	d		A	pl n
+Issa	####	####				
+    	#isa	isa	0		S	sg n
+Andres	@Andres	Andres	0		H	sg n
+      	Andre	Andre	s		H	sg in
+Leo	Leo	Leo	0		H	sg g
+   	@Leo	Leo	0		H	sg n
+   	ligu	ligu	0		S	sg g
+   	ligu	ligu	0		V	o
+,	,	,			Z	
+Leo	@Leo	Leo	0		H	sg g
+   	Leo	Leo	0		H	sg n
+   	ligu	ligu	0		S	sg g
+   	ligu	ligu	0		V	o
+tallose	####	####				
+       	#talusse	talu	se		S	sg ill
+üks	@üks	üks	0		N	sg n
+   	üks	üks	0		P	sg n
+weike	####	####				
+     	#väike	väike	0		A	sg n
+tarre	tare	tare	0		S	adt
+     	tarre	tarre	0		S	sg n
+     	£tare	tare	0		S	sg g
+Luiga	####	####				
+     	#Luiga	Luiga	0		H	sg g
+tallost	tall_ost	tall_ost	0		S	sg n
+       	£talust	talu	st		S	sg el
+Karro	####	####				
+     	#Karu	Karro	0		H	sg g
+Hanso	####	####				
+     	#Hansu	Hans	0		H	sg g
+kaest	kae	kae	st		S	sg el
+     	käest	käsi	st		S	sg el
+     	@käest	käest	0		K	
+ostnud	ost=nud	ost=nud	0		A	
+      	ost=nud	ost=nud	0		A	sg n
+      	ost=nu	ost=nu	d		S	pl n
+      	ost=nud	ost=nud	d		A	pl n
+      	@ostnud	ost	nud		V	nud
+.	.	.			Z	
+Üks	@üks	üks	0		N	sg n
+   	üks	üks	0		P	sg n
+Ait	ait	ait	0		S	sg n
+ja	ja	ja	0		J	
+Laut	laut	laut	0		S	sg n
+on	ole	ole	0		V	b
+  	@on	ole	0		V	vad
+ka	ka	ka	0		D	
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+Issa	####	####				
+    	#isa	isa	0		S	sg n
+omma	####	####				
+    	#oma	oma	0		P	sg g
+    	on	ole	0		V	vad
+Issa	####	####				
+    	#isa	isa	0		S	sg g
+kaest	kae	kae	st		S	sg el
+     	käest	käsi	st		S	sg el
+     	@käest	käest	0		K	
+kes	kes	kes	0		P	pl n
+   	@kes	kes	0		P	sg n
+wannast	vannas	vannas	t		S	sg p
+        	£vanasti	vanasti	0		D	
+Leo	@Leo	Leo	0		H	sg g
+   	Leo	Leo	0		H	sg n
+   	ligu	ligu	0		S	sg g
+   	ligu	ligu	0		V	o
+tallus	tallus	tallus	0		S	sg n
+      	£talus	talu	s		S	sg in
+perremees	perre_mees	perre_mees	0		S	sg n
+         	@peremees	pere_mees	0		S	sg n
+olnud	ol=nud	ol=nud	0		A	
+     	ol=nud	ol=nud	0		A	sg n
+     	ol=nud	ol=nud	d		A	pl n
+     	@olnud	ole	nud		V	nud
+     	olnu	olnu	d		S	pl n
+perrinud	####	####				
+        	#pärinud	päri	nud		V	nud
+.	.	.			Z	
+Nüd	####	####				
+   	#nüüd	nüüd	0		D	
+perrib	####	####				
+      	#pärib	päri	b		V	b
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+Tarre	tare	tare	0		S	adt
+     	tarre	tarre	0		S	sg n
+     	£tare	tare	0		S	sg g
+,	,	,			Z	
+Lauda	laud	laud	0		S	adt
+     	@lauda	laud	0		S	sg p
+     	laut	laut	0		S	sg g
+ja	ja	ja	0		J	
+Aita	Aita	Aita	0		H	sg g
+    	Aita	Aita	0		H	sg n
+    	ait	ait	0		S	adt
+    	@aita	ait	0		S	sg p
+    	aita	aita	0		V	o
+Aita	Aita	Aita	0		H	sg g
+    	Aita	Aita	0		H	sg n
+    	ait	ait	0		S	adt
+    	@aita	ait	0		S	sg p
+    	aita	aita	0		V	o
+ommale	####	####				
+      	#omale	oma	le		P	sg all
+ja	ja	ja	0		J	
+enda	enda	ise	0		P	sg g
+wennade	####	####				
+       	#vendade	vend	de		S	pl g
+ja	ja	ja	0		J	
+Sõsaritelle	####	####				
+           	#sõsaratele	sõsar	telle		S	pl all
+Se	####	####				
+  	#see	see	0		P	sg n
+terre	####	####				
+     	#tare	tare	0		S	sg n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+peale	@peale	peale	0		D	
+     	peale	peale	0		K	
+     	pea	pea	le		S	sg all
+kolme	kolm	kolm	0		N	adt
+     	@kolme	kolm	0		N	sg g
+     	kolm	kolm	0		N	sg p
+kümne	kümne	kümme	0		N	sg g
+astat	####	####				
+     	#aastat	aasta	t		S	sg p
+seal	@seal	seal	0		D	
+    	siga	siga	l		A	sg ad
+    	siga	siga	l		S	sg ad
+Leo	@Leo	Leo	0		H	sg g
+   	Leo	Leo	0		H	sg n
+   	ligu	ligu	0		S	sg g
+   	ligu	ligu	0		V	o
+tallus	tallus	tallus	0		S	sg n
+      	£talus	talu	s		S	sg in
+jubba	####	####				
+     	#juba	juba	0		D	
+seisnud	seis=nud	seis=nud	0		A	
+       	seis=nud	seis=nud	0		A	sg n
+       	seis=nu	seis=nu	d		S	pl n
+       	seis=nud	seis=nud	d		A	pl n
+       	@seisnud	seis	nud		V	nud
+.	.	.			Z	
+Temma	####	####				
+     	tema	tema	0		P	sg n
+     	#tema	tema	0		P	sg g
+sõsarid	####	####				
+       	#sõsarad	sõsar	d		S	pl n
+on	ole	ole	0		V	b
+  	@on	ole	0		V	vad
+Anno	####	####				
+    	#Anu	Anno	0		H	sg n
+Nirk	nirk	nirk	0		S	sg n
+    	£Nirk	Nirk	0		H	sg n
+,	,	,			Z	
+Mall	@Mall	Mall	0		H	sg n
+    	mall	mall	0		S	sg n
+Wagga	####	####				
+     	#Vagga	Wagga	0		H	sg n
+,	,	,			Z	
+May	####	####				
+   	#Mai	May	0		H	sg n
+Punna	pund	pund	0		S	sg g
+     	£Punna	Punna	0		H	sg n
+,	,	,			Z	
+ja	ja	ja	0		J	
+temma	####	####				
+     	#tema	tema	0		P	sg g
+     	tema	tema	0		P	sg n
+woerad	####	####				
+      	#võõrad	võõras	d		A	pl n
+wennad	vennad	vend	d		S	pl n
+Jaak	@Jaak	Jaak	0		H	sg n
+    	jaak	jaak	0		S	sg n
+Leo	Leo	Leo	0		H	sg g
+   	@Leo	Leo	0		H	sg n
+   	ligu	ligu	0		S	sg g
+   	ligu	ligu	0		V	o
+,	,	,			Z	
+Ado	Ado	Ado	0		H	sg g
+   	@Ado	Ado	0		H	sg n
+Leo	Leo	Leo	0		H	sg g
+   	@Leo	Leo	0		H	sg n
+   	ligu	ligu	0		S	sg g
+   	ligu	ligu	0		V	o
+und	und	und	0		S	sg n
+   	uni	uni	0		S	sg p
+   	¤					
+Johan	Johan	Johan	0		H	sg n
+Leo	Leo	Leo	0		H	sg g
+   	@Leo	Leo	0		H	sg n
+   	ligu	ligu	0		S	sg g
+   	ligu	ligu	0		V	o
+.	.	.			Z	
+Reth	####	####				
+    	#Reet	Reth	0		H	sg n
+Leo	Leo	Leo	0		H	sg g
+   	@Leo	Leo	0		H	sg n
+   	ligu	ligu	0		S	sg g
+   	ligu	ligu	0		V	o
+,	,	,			Z	
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+Andrese	Andrese	Andres	0		H	sg g
+teine	@teine	teine	0		O	sg n
+     	teine	teine	0		P	sg n
+naine	naine	naine	0		S	sg n
+ja	ja	ja	0		J	
+nende	see	see	de		P	pl g
+     	@nende	tema	de		P	pl g
+sin	####	####				
+   	#siin	siin	0		D	
+üllewal	####	####				
+       	#üleval	üleval	0		D	
+nimmetut	nimme=tu	nimme=tu	t		A	sg p
+        	£nimetatud	nimeta	t		V	tud
+Emmak	####	####				
+     	#ema	ema	0		S	sg n
+ja	ja	ja	0		J	
+Emma	####	####				
+     	#ema	ema	0		S	sg n
+ütleb	ütleb	ütle	b		V	b
+kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+temma	####	####				
+     	#tema	tema	0		P	sg g
+     	tema	tema	0		P	sg n
+mees	@mees	mees	0		S	sg n
+    	mesi	mesi	s		S	sg in
+erra	####	####				
+    	#ära	ära	0		D	
+surnud	@surnud	sure	nud		V	nud
+      	surnud	surnud	0		A	
+      	surnud	surnud	0		A	sg n
+      	surnu	surnu	d		S	pl n
+      	surnud	surnud	d		A	pl n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+Jakob	Jakob	Jakob	0		H	sg n
+Leole	@Leole	Leo	le		H	sg all
+     	ligu	ligu	le		S	sg all
+erra	####	####				
+    	#ära	ära	0		D	
+õppetanud	õppe_tanu	õppe_tanu	d		S	pl n
+         	£õpetanud	õpeta	nud		V	nud
+et	et	et	0		J	
+nee	####	####				
+   	#need	see	0		P	pl n
+honed	####	####				
+     	#hooned	hoone	d		S	pl n
+mis	mis	mis	0		P	pl n
+   	@mis	mis	0		P	sg n
+temma	####	####				
+     	#tema	tema	0		P	sg g
+     	tema	tema	0		P	sg n
+jaust	####	####				
+     	#jaoks	jaoks	0		K	
+olnud	ol=nud	ol=nud	0		A	
+     	ol=nud	ol=nud	0		A	sg n
+     	ol=nud	ol=nud	d		A	pl n
+     	@olnud	ole	nud		V	nud
+     	olnu	olnu	d		S	pl n
+,	,	,			Z	
+temma	####	####				
+     	#tema	tema	0		P	sg g
+     	tema	tema	0		P	sg n
+poigele	####	####				
+       	#poegadele	poeg	ele		S	pl all
+peawad	peavad	pida	vad		V	vad
+jaema	####	####				
+     	#jääma	jää	ma		V	ma
+.	.	.			Z	
+Wannema	vann_ema	vann_ema	0		S	sg g
+       	vann_ema	vann_ema	0		S	sg n
+       	vann_ema	vann_ema	0		S	sg p
+       	£vanema	vanem	0		C	sg g
+tütrile	####	####				
+       	#tütrele	tütar	le		S	sg all
+olli	####	####				
+    	#oli	ole	i		V	s
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+õppetanud	õppe_tanu	õppe_tanu	d		S	pl n
+         	£õpetanud	õpeta	nud		V	nud
+kas	kas	kas	0		D	
+kapp	kapp	kapp	0		S	sg n
+woi	####	####				
+   	või	või	0		S	sg n
+   	või	või	0		S	sg g
+   	#või	või	0		J	
+   	või	või	0		D	
+   	või	või	0		V	o
+Kirst	kirst	kirst	0		S	sg n
+,	,	,			Z	
+Marri	####	####				
+     	#Mari	Marri	0		H	sg n
+olli	####	####				
+    	#oli	ole	i		V	s
+sies	####	####				
+    	#siis	siis	0		D	
+Kirsto	####	####				
+      	#kirstu	kirst	0		S	sg g
+wotnud	####	####				
+      	#võtnud	võt	nud		V	nud
+.	.	.			Z	
+Marri	####	####				
+     	#Mari	Marri	0		H	sg n
+olli	####	####				
+    	#oli	ole	i		V	s
+jo	####	####				
+  	ju	ju	0		D	
+  	#juba	juba	0		D	
+enne	@enne	enne	0		D	
+    	enne	enne	0		K	
+    	enne	enne	0		S	sg n
+kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+tallose	####	####				
+       	#talusse	talu	se		S	sg ill
+sanud	####	####				
+     	#saanud	saa	nud		V	nud
+mehhel	####	####				
+      	#mehel	mees	l		S	sg ad
+olnud	ol=nud	ol=nud	0		A	
+     	ol=nud	ol=nud	0		A	sg n
+     	ol=nud	ol=nud	d		A	pl n
+     	@olnud	ole	nud		V	nud
+     	olnu	olnu	d		S	pl n
+ja	ja	ja	0		J	
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+Lehma	lehm	lehm	0		S	adt
+     	@lehma	lehm	0		S	sg g
+     	lehm	lehm	0		S	sg p
+ja	ja	ja	0		J	
+Kirsto	####	####				
+      	#kirstu	kirst	0		S	sg g
+sanud	####	####				
+     	#saanud	saa	nud		V	nud
+.	.	.			Z	
+May	####	####				
+   	#Mai	May	0		H	sg n
+olli	####	####				
+    	#oli	ole	i		V	s
+kaks	kaks	kaks	0		N	sg n
+Lehma	lehm	lehm	0		S	adt
+     	lehm	lehm	0		S	sg g
+     	@lehma	lehm	0		S	sg p
+ja	ja	ja	0		J	
+Kirsto	####	####				
+      	#kirstu	kirst	0		S	sg g
+sanud	####	####				
+     	#saanud	saa	nud		V	nud
+.	.	.			Z	
+Anno	####	####				
+    	#Anu	Anno	0		H	sg n
+ja	ja	ja	0		J	
+Mall	@Mall	Mall	0		H	sg n
+    	mall	mall	0		S	sg n
+on	ole	ole	0		V	b
+  	@on	ole	0		V	vad
+temma	####	####				
+     	#tema	tema	0		P	sg g
+     	tema	tema	0		P	sg n
+ajal	aeg	aeg	l		S	sg ad
+    	@ajal	ajal	0		K	
+mehhel	####	####				
+      	#mehel	mees	l		S	sg ad
+sanud	####	####				
+     	#saanud	saa	nud		V	nud
+ja	ja	ja	0		J	
+on	ole	ole	0		V	b
+  	@on	ole	0		V	vad
+mõllemed	####	####				
+        	#mõlemad	mõlema	d		P	pl n
+Lehma	lehm	lehm	0		S	adt
+     	@lehma	lehm	0		S	sg g
+     	lehm	lehm	0		S	sg p
+ja	ja	ja	0		J	
+üks	@üks	üks	0		N	sg n
+   	üks	üks	0		P	sg n
+Lammas	lammas	lammas	0		S	sg n
+ning	ning	ning	0		J	
+Annole	####	####				
+      	#Anule	Anno	le		H	sg all
+Kirsto	####	####				
+      	#kirstu	kirst	0		S	sg g
+sanud	####	####				
+     	#saanud	saa	nud		V	nud
+.	.	.			Z	
+Jakob	Jakob	Jakob	0		H	sg n
+Leo	Leo	Leo	0		H	sg g
+   	@Leo	Leo	0		H	sg n
+   	ligu	ligu	0		S	sg g
+   	ligu	ligu	0		V	o
+kutsote	####	####				
+       	#kutsuti	kutsu	te		V	ti
+sisse	@sisse	sisse	0		D	
+     	sisse	sisse	0		K	
+     	siss	siss	e		S	pl p
+ja	ja	ja	0		J	
+küssite	####	####				
+       	#küsiti	küsi	te		V	ti
+kas	kas	kas	0		D	
+Andres	@Andres	Andres	0		H	sg n
+      	Andre	Andre	s		H	sg in
+temmale	####	####				
+       	#temale	tema	le		P	sg all
+Laste	@laste	laps	te		S	pl g
+     	last	last	e		S	pl p
+polest	####	####				
+      	poolest	pool	st		N	sg el
+      	poolest	pool	st		S	sg el
+      	poolest	poolene	t		A	sg p
+      	#poolest	poolest	0		K	
+midakit	####	####				
+       	#midagi	miski	dakit		P	sg p
+oppenud	####	####				
+       	#õpetanud	õpeta	nud		V	nud
+,	,	,			Z	
+kelle	kes	kes	0		P	pl g
+     	@kelle	kes	0		P	sg g
+peale	peale	peale	0		D	
+     	@peale	peale	0		K	
+     	pea	pea	le		S	sg all
+tema	tema	tema	0		P	sg g
+    	@tema	tema	0		P	sg n
+wastas	vastas	vastas	0		D	
+      	vastas	vastas	0		K	
+      	@vastas	vasta	s		V	s
+et	et	et	0		J	
+Andres	@Andres	Andres	0		H	sg n
+      	Andre	Andre	s		H	sg in
+olli	####	####				
+    	#oli	ole	i		V	s
+enne	enne	enne	0		D	
+    	@enne	enne	0		K	
+    	enne	enne	0		S	sg n
+omma	####	####				
+    	#oma	oma	0		P	sg g
+    	on	ole	0		V	vad
+surma	surm	surm	0		S	adt
+     	surm	surm	0		S	sg g
+     	@surma	surm	0		S	sg p
+     	surma	surma	0		V	o
+tedda	####	####				
+     	#teda	tema	da		P	sg p
+oppetanud	####	####				
+         	#õpetanud	õpeta	nud		V	nud
+et	et	et	0		J	
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+temma	####	####				
+     	#tema	tema	0		P	sg g
+     	tema	tema	0		P	sg n
+weikse	####	####				
+      	#väikse	väike	0		A	sg g
+laste	@laste	laps	te		S	pl g
+     	last	last	e		S	pl p
+jarrele	####	####				
+       	#järele	järele	0		K	
+peab	peab	pida	b		V	b
+kullama	####	####				
+       	#kuulama	kuula	ma		V	ma
+.	.	.			Z	
+Mud	####	####				
+   	#muud	muu	d		P	sg p
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+poelle	####	####				
+      	#pole	ole	0		V	neg o
+temmale	####	####				
+       	#temale	tema	le		P	sg all
+õppenud	####	####				
+       	#õpetanud	õpeta	nud		V	nud
+.	.	.			Z	
+Pea	pea	pea	0		D	
+   	@pea	pea	0		S	sg g
+   	pea	pea	0		S	sg n
+   	pida	pida	0		V	o
+kohtomees	####	####				
+         	#kohtumees	kohtu_mees	0		S	sg n
+Johan	Johan	Johan	0		H	sg n
+Widik	####	####				
+     	#Viidik	Widik	0		H	sg n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+Marri	####	####				
+     	#Mari	Marri	0		H	sg n
+Pertmal	####	####				
+       	#Pertmal	Pertma	l		H	sg ad
+suggolane	####	####				
+         	#sugulane	sugulane	0		S	sg n
+ning	ning	ning	0		J	
+läks	läks	mine	s		V	s
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+perrast	####	####				
+       	#pärast	pärast	0		K	
+       	pärast	pärast	0		D	
+kohto	####	####				
+     	kohtu	kohtu	0		V	o
+     	#kohtu	kohus	0		S	sg g
+toast	toast	tuba	st		S	sg el
+ja	ja	ja	0		J	
+moistmese	####	####				
+         	#mõistmise	mõistmine	0		S	sg g
+jurest	####	####				
+      	#juurest	juurest	0		K	
+erra	####	####				
+    	#ära	ära	0		D	
+ja	ja	ja	0		J	
+sai	@sai	saa	i		V	s
+   	sai	sai	0		S	sg n
+siis	@siis	siis	0		D	
+    	siis	siis	0		J	
+teiste	teine	teine	te		O	pl g
+      	@teiste	teine	te		P	pl g
+polest	####	####				
+      	poolest	pool	st		N	sg el
+      	poolest	pool	st		S	sg el
+      	poolest	poolene	t		A	sg p
+      	#poolest	poolest	0		K	
+.	.	.			Z	
+Moistetut	####	####				
+         	#mõistetud	mõist	tut		V	tud
+.	.	.			Z	
+Andresse	Andre	Andre	sse		H	sg ill
+        	£Andrese	Andres	0		H	sg g
+tütrit	####	####				
+      	#tütred	tütar	t		S	pl n
+Marri	####	####				
+     	#Mari	Marri	0		H	sg n
+,	,	,			Z	
+Anno	####	####				
+    	#Anu	Anno	0		H	sg n
+,	,	,			Z	
+Mall	@Mall	Mall	0		H	sg n
+    	mall	mall	0		S	sg n
+ja	ja	ja	0		J	
+May	####	####				
+   	#Mai	May	0		H	sg n
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+saa	saa	saa	0		V	o
+nende	@nende	see	de		P	pl g
+     	tema	tema	de		P	pl g
+honede	####	####				
+      	#hoonete	hoone	de		S	pl g
+polest	####	####				
+      	poolest	pool	st		N	sg el
+      	poolest	pool	st		S	sg el
+      	poolest	poolene	t		A	sg p
+      	#poolest	poolest	0		K	
+middakit	####	####				
+        	#midagi	miski	ddakit		P	sg p
+.	.	.			Z	
+Tarre	tare	tare	0		S	adt
+     	tarre	tarre	0		S	sg n
+     	£tare	tare	0		S	sg n
+ja	ja	ja	0		J	
+Ait	ait	ait	0		S	sg n
+jaeb	####	####				
+    	#jääb	jää	b		V	b
+nende	see	see	de		P	pl g
+     	@nende	tema	de		P	pl g
+poigele	####	####				
+       	#poegadele	poeg	ele		S	pl all
+ja	ja	ja	0		J	
+Laut	laut	laut	0		S	sg n
+jaeb	####	####				
+    	#jääb	jää	b		V	b
+tallo	####	####				
+     	tallu	talu	0		S	sg adt
+     	talu	talu	0		S	sg n
+     	#talu	talu	0		S	sg g
+     	talu	talu	0		S	sg p
+peale	peale	peale	0		D	
+     	@peale	peale	0		K	
+     	pea	pea	le		S	sg all
+,	,	,			Z	
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+perrast	####	####				
+       	#pärast	pärast	0		K	
+       	pärast	pärast	0		D	
+et	et	et	0		J	
+Ait	ait	ait	0		S	sg n
+ja	ja	ja	0		J	
+Laut	laut	laut	0		S	sg n
+wannast	vannas	vannas	t		S	sg p
+       	£vanasti	vanasti	0		D	
+tallo	####	####				
+     	tallu	talu	0		S	sg adt
+     	talu	talu	0		S	sg n
+     	#talu	talu	0		S	sg g
+     	talu	talu	0		S	sg p
+honed	####	####				
+     	#hooned	hoone	d		S	pl n
+olnud	ol=nud	ol=nud	0		A	
+     	ol=nud	ol=nud	0		A	sg n
+     	ol=nud	ol=nud	d		A	pl n
+     	@olnud	ole	nud		V	nud
+     	olnu	olnu	d		S	pl n
+.	.	.			Z	
+Selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+kõrral	####	####				
+      	#korral	kord	l		S	sg ad
+kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+Andres	@Andres	Andres	0		H	sg n
+      	Andre	Andre	s		H	sg in
+Leo	Leo	Leo	0		H	sg g
+   	@Leo	Leo	0		H	sg n
+   	ligu	ligu	0		S	sg g
+   	ligu	ligu	0		V	o
+erra	####	####				
+    	#ära	ära	0		D	
+surnud	@surnud	sure	nud		V	nud
+      	surnud	surnud	0		A	
+      	surnud	surnud	0		A	sg n
+      	surnu	surnu	d		S	pl n
+      	surnud	surnud	d		A	pl n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+temmal	####	####				
+      	#temal	tema	l		P	sg ad
+üks	@üks	üks	0		N	sg n
+   	üks	üks	0		P	sg n
+hobbone	####	####				
+       	#hobune	hobune	0		S	sg n
+ja	ja	ja	0		J	
+Lehm	lehm	lehm	0		S	sg n
+järrel	####	####				
+      	#järel	järel	0		D	
+      	järel	järel	0		K	
+janud	janu	janu	d		S	pl n
+     	janu	janu	d		V	d
+     	£jäänud	jää	nud		V	nud
+.	.	.			Z	
+Kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+naine	naine	naine	0		S	sg n
+Reth	####	####				
+    	#Reet	Reth	0		H	sg n
+sinna	sinna	sinna	0		D	
+sanud	####	####				
+     	#saanud	saa	nud		V	nud
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+temma	####	####				
+     	#tema	tema	0		P	sg g
+     	tema	tema	0		P	sg n
+ütlemesse	####	####				
+         	#ütlemise	ütlemine	0		S	sg g
+jarrel	####	####				
+      	#järel	järel	0		K	
+Andresel	Andresel	Andres	l		H	sg ad
+olnud	ol=nud	ol=nud	0		A	
+     	ol=nud	ol=nud	0		A	sg n
+     	ol=nud	ol=nud	d		A	pl n
+     	@olnud	ole	nud		V	nud
+     	olnu	olnu	d		S	pl n
+1	1	1	0		N	?
+hobbone	####	####				
+       	#hobune	hobune	0		S	sg n
+,	,	,			Z	
+1	1	1	0		N	?
+Lehm	lehm	lehm	0		S	sg n
+ja	ja	ja	0		J	
+Lammas	lammas	lammas	0		S	sg n
+,	,	,			Z	
+ja	ja	ja	0		J	
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+sinna	sinna	sinna	0		D	
+winud	vinu	vinu	d		S	pl n
+     	£viinud	vii	nud		V	nud
+1	1	1	0		N	?
+hobbone	####	####				
+       	#hobune	hobune	0		S	sg n
+,	,	,			Z	
+2	2	2	0		N	?
+Lehma	lehm	lehm	0		S	adt
+     	lehm	lehm	0		S	sg g
+     	@lehma	lehm	0		S	sg p
+ja	ja	ja	0		J	
+kolm	kolm	kolm	0		N	sg n
+Lammast	lammast	lammas	t		S	sg p
+,	,	,			Z	
+ja	ja	ja	0		J	
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+seis	seis	seis	0		I	
+    	seis	seis	0		S	sg n
+    	£siis	siis	0		D	
+kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+Andres	@Andres	Andres	0		H	sg n
+      	Andre	Andre	s		H	sg in
+erra	####	####				
+    	#ära	ära	0		D	
+surnud	@surnud	sure	nud		V	nud
+      	surnud	surnud	0		A	
+      	surnud	surnud	0		A	sg n
+      	surnu	surnu	d		S	pl n
+      	surnud	surnud	d		A	pl n
+jäi	jäi	jää	i		V	s
+järrel	####	####				
+      	#järel	järel	0		D	
+      	järel	järel	0		K	
+1	1	1	0		N	?
+hobbone	####	####				
+       	#hobune	hobune	0		S	sg n
+2	2	2	0		N	?
+Lehmad	lehmad	lehm	d		S	pl n
+ja	ja	ja	0		J	
+3	3	3	0		N	?
+Lammast	lammast	lammas	t		S	sg p
+.	.	.			Z	
+Hobbone	####	####				
+       	#hobune	hobune	0		S	sg n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+Andres	@Andres	Andres	0		H	sg n
+      	Andre	Andre	s		H	sg in
+omma	####	####				
+    	#oma	oma	0		P	sg g
+    	on	ole	0		V	vad
+woera	####	####				
+     	#võõra	võõras	0		A	sg g
+pojale	@pojale	poeg	le		S	sg all
+      	poja	poja	le		S	sg all
+Petrele	####	####				
+       	#Peetrile	Peter	le		H	sg all
+õppenud	####	####				
+       	#õpetanud	õpeta	nud		V	nud
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+perrast	####	####				
+       	#pärast	pärast	0		K	
+       	pärast	pärast	0		D	
+et	et	et	0		J	
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+Petre	####	####				
+     	#Peetri	Peter	0		H	sg g
+hobbose	####	####				
+       	#hobuse	hobune	0		S	sg g
+olli	####	####				
+    	#oli	ole	i		V	s
+erra	####	####				
+    	#ära	ära	0		D	
+münud	####	####				
+     	#müünud	müü	nud		V	nud
+.	.	.			Z	
+Temma	####	####				
+     	tema	tema	0		P	sg n
+     	#tema	tema	0		P	sg g
+poig	####	####				
+    	#poeg	poeg	0		S	sg n
+Jaak	@Jaak	Jaak	0		H	sg n
+    	jaak	jaak	0		S	sg n
+ütleb	ütleb	ütle	b		V	b
+ennast	ennast	ise	t		P	sg p
+ka	ka	ka	0		D	
+kulnud	####	####				
+      	#kuulnud	kuul	nud		V	nud
+ja	ja	ja	0		J	
+selgeste	####	####				
+        	#selgesti	selgesti	0		D	
+mälletawa	####	####				
+         	#mäletavat	mäleta	vat		V	vat
+et	et	et	0		J	
+Issa	####	####				
+    	#isa	isa	0		S	sg n
+hobbose	####	####				
+       	#hobuse	hobune	0		S	sg g
+Petrele	####	####				
+       	#Peetrile	Peter	le		H	sg all
+hõppetanud	####	####				
+          	#õpetanud	õpeta	nud		V	nud
+.	.	.			Z	
+Moisteti	####	####				
+        	#mõisteti	mõist	ti		V	ti
+:	:	:			Z	
+Et	et	et	0		J	
+see	see	see	0		P	sg n
+hobbone	####	####				
+       	#hobune	hobune	0		S	sg n
+peab	peab	pida	b		V	b
+Petrele	####	####				
+       	#Peetrile	Peter	le		H	sg all
+,	,	,			Z	
+ne	####	####				
+  	#need	see	0		P	pl n
+kaks	kaks	kaks	0		N	sg n
+Lehmad	lehmad	lehm	d		S	pl n
+ja	ja	ja	0		J	
+kolm	kolm	kolm	0		N	sg n
+Lambad	lambad	lammas	d		S	pl n
+agga	####	####				
+    	#aga	aga	0		J	
+sawad	####	####				
+     	#saavad	saa	vad		V	vad
+kigele	####	####				
+      	#kõigile	kõik	ele		P	pl all
+poigele	####	####				
+       	#poegadele	poeg	ele		S	pl all
+ühte	ühe	ühe	0		S	sg g
+    	ühte	ühte	0		D	
+    	üks	üks	0		N	adt
+    	üks	üks	0		N	sg p
+    	üks	üks	0		P	adt
+    	@ühte	üks	0		P	sg p
+wisi	####	####				
+    	#viisi	viisi	0		K	
+jaggadud	####	####				
+        	#jagatud	jaga	dud		V	tud
+.	.	.			Z	

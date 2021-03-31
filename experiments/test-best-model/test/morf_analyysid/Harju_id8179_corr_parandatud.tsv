@@ -1,0 +1,612 @@
+Astus	astus	astu	s		V	s
+kohto	####	####				
+     	kohtu	kohtu	0		V	o
+     	#kohtu	kohus	0		S	sg g
+ette	esi	esi	tte		S	adt
+    	ette	ette	0		D	
+    	@ette	ette	0		K	
+Mart	@Mart	Mart	0		H	sg n
+    	mart	mart	0		S	sg n
+Kändler	####	####				
+       	#Kändler	Kändler	0		H	sg n
+:	:	:			Z	
+Jakob	Jakob	Jakob	0		H	sg n
+Kaarweld	####	####				
+        	#Kaarweld	Kaarweld	0		H	sg n
+räkins	####	####				
+      	#rääkis	rääki	ns		V	s
+minno	####	####				
+     	mind	mina	0		P	sg p
+     	#minu	mina	0		P	sg g
+wasta	vasta	vasta	0		V	o
+     	vastu	vastu	0		D	
+     	@vastu	vastu	0		K	
+:	:	:			Z	
+Mart	@Mart	Mart	0		H	sg n
+    	mart	mart	0		S	sg n
+Treuhold	####	####				
+        	#Treuhold	Treuhold	0		H	sg n
+ja	ja	ja	0		J	
+Jürri	####	####				
+     	#Jüri	Jürri	0		H	sg n
+Paatberg	####	####				
+        	#Paatberg	Paatberg	0		H	sg n
+on	ole	ole	0		V	b
+  	@on	ole	0		V	vad
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+woi	####	####				
+   	või	või	0		S	sg n
+   	#või	või	0		S	sg g
+   	või	või	0		J	
+   	või	või	0		D	
+   	või	või	0		V	o
+ärra	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+warrastand	####	####				
+          	#varastanud	varasta	nd		V	nud
+ja	ja	ja	0		J	
+Eriko	####	####				
+     	#Eriku	Erik	0		H	sg g
+hobbuse	####	####				
+       	#hobuse	hobune	0		S	sg g
+palgand	####	####				
+       	#palganud	palka	nd		V	nud
+ja	ja	ja	0		J	
+woi	####	####				
+   	või	või	0		S	sg n
+   	#või	või	0		S	sg g
+   	või	või	0		J	
+   	või	või	0		D	
+   	või	või	0		V	o
+linna	@linna	linn	0		S	adt
+     	linn	linn	0		S	sg g
+     	linn	linn	0		S	sg p
+wiind	####	####				
+     	#viinud	vii	nd		V	nud
+.	.	.			Z	
+On	ole	ole	0		V	b
+  	@on	ole	0		V	vad
+kabeld	####	####				
+      	#kaubelnud	kauple	d		V	nud
+sedda	####	####				
+     	#seda	see	da		P	sg p
+woid	####	####				
+    	#võid	või	d		S	sg p
+Kurtnast	####	####				
+        	#Kurtna	Kurtna	st		H	sg el
+Nõmme	@Nõmme	Nõmme	0		H	sg g
+     	Nõmme	Nõmme	0		H	sg n
+     	nõmm	nõmm	0		S	adt
+     	nõmm	nõmm	0		S	sg g
+     	nõmm	nõmm	0		S	sg p
+Jakobile	Jakobile	Jakob	le		H	sg all
+.	.	.			Z	
+Jakob	Jakob	Jakob	0		H	sg n
+Paatberg	####	####				
+        	#Paatberg	Paatberg	0		H	sg n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+ütteld	####	####				
+      	#ütelnud	ütle	d		V	nud
+kus	kus	kus	0		D	
+kurrat	####	####					
+      	#kurat	kurat	0		I	
+ma	ma	mina	0		P	sg n
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+pannen	####	####				
+      	#panen	pane	n		V	n
+,	,	,			Z	
+kost	kost	kost	0		S	sg n
+    	£kust	kust	0		D	
+te	sina	sina	0		P	pl g
+  	£te	sina	0		P	pl n
+ollete	####	####				
+      	#olete	ole	te		V	te
+wötnud	####	####				
+      	#võtnud	võt	nud		V	nud
+senna	senna	senna	0		S	sg g
+     	senna	senna	0		S	sg n
+     	£sinna	sinna	0		D	
+pange	@pange	pane	ge		V	ge
+     	pang	pang	0		S	adt
+     	pang	pang	0		S	sg g
+     	pang	pang	0		S	sg p
+,	,	,			Z	
+mis	mis	mis	0		P	pl n
+   	@mis	mis	0		P	sg n
+ma	ma	mina	0		P	sg n
+sulle	sulle	sina	lle		P	sg all
+ehk	@ehk	ehk	0		D	
+   	ehk	ehk	0		J	
+muud	muu	muu	d		P	pl n
+    	@muud	muu	d		P	sg p
+    	muu	muu	d		S	pl n
+    	muu	muu	d		S	sg p
+    	muu	muu	d		V	d
+suremad	####	####				
+       	#suuremat	suuremat	0		D	
+woin	####	####				
+    	#võin	või	n		V	n
+(	(	(			Z	
+ütelda	@ütelda	ütle	da		V	da
+      	ütle	ütle	da		V	ta
+)	)	)			Z	
+ehk	ehk	ehk	0		D	
+   	@ehk	ehk	0		J	
+räkita	####	####				
+      	#rääkida	rääki	ta		V	da
+.	.	.			Z	
+Astus	astus	astu	s		V	s
+kohto	####	####				
+     	kohtu	kohtu	0		V	o
+     	#kohtu	kohus	0		S	sg g
+ette	esi	esi	tte		S	adt
+    	ette	ette	0		D	
+    	@ette	ette	0		K	
+Jakob	Jakob	Jakob	0		H	sg n
+Kaarweld	####	####				
+        	#Kaarweld	Kaarweld	0		H	sg n
+:	:	:			Z	
+Ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+ma	ma	mina	0		P	sg n
+tea	tea	tead	0		V	o
+sest	@sest	see	st		P	sg el
+    	sest	sest	0		J	
+woist	####	####				
+     	#võist	või	st		S	sg el
+ühte	ühe	ühe	0		S	sg g
+    	ühte	ühte	0		D	
+    	üks	üks	0		N	adt
+    	üks	üks	0		N	sg p
+    	üks	üks	0		P	adt
+    	@ühte	üks	0		P	sg p
+sanna	####	####				
+     	#sõna	sõna	0		S	sg p
+,	,	,			Z	
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+põlle	põll	põll	0		S	adt
+     	põll	põll	0		S	sg g
+     	põll	põll	0		S	sg p
+     	£pole	ole	0		V	neg o
+Nõmme	@Nõmme	Nõmme	0		H	sg g
+     	Nõmme	Nõmme	0		H	sg n
+     	nõmm	nõmm	0		S	adt
+     	nõmm	nõmm	0		S	sg g
+     	nõmm	nõmm	0		S	sg p
+Mardile	@Mardile	Mart	le		H	sg all
+       	mart	mart	le		S	sg all
+mitte	mitte	mitte	0		D	
+ühte	ühe	ühe	0		S	sg g
+    	ühte	ühte	0		D	
+    	üks	üks	0		N	adt
+    	üks	üks	0		N	sg p
+    	üks	üks	0		P	adt
+    	@ühte	üks	0		P	sg p
+sanna	####	####				
+     	#sõna	sõna	0		S	sg p
+woist	####	####				
+     	#võist	või	st		S	sg el
+räkinud	####	####				
+       	#rääkinud	rääki	nud		V	nud
+ei	@ei	ei	0		D	
+  	ei	ei	0		V	neg
+koddo	####	####				
+     	#kodu	kodu	0		S	sg g
+egga	####	####				
+    	ega	ega	0		D	
+    	#ega	ega	0		J	
+wäljas	väli	väli	s		S	sg in
+      	@väljas	väljas	0		D	
+      	välja	välja	s		V	s
+,	,	,			Z	
+egga	####	####				
+    	ega	ega	0		D	
+    	#ega	ega	0		J	
+polle	####	####				
+     	#pole	ole	0		V	neg o
+kellegile	####	####				
+         	#kellelegi	keegi	le		P	sg all
+woist	####	####				
+     	#võist	või	st		S	sg el
+räkind	####	####				
+      	#rääkinud	rääki	nd		V	nud
+.	.	.			Z	
+Astus	astus	astu	s		V	s
+kohto	####	####				
+     	kohtu	kohtu	0		V	o
+     	#kohtu	kohus	0		S	sg g
+ett	esi	esi	tt		S	sg p
+   	£ette	ette	0		K	
+Jakob	Jakob	Jakob	0		H	sg n
+Waartberg	####	####				
+         	#Waartberg	Waartberg	0		H	sg n
+:	:	:			Z	
+Minno	####	####				
+     	#minu	mina	0		P	sg g
+silm	silm	silm	0		S	sg n
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+olle	####	####				
+    	#ole	ole	0		V	o
+sedda	####	####				
+     	#seda	see	da		P	sg p
+näind	####	####				
+     	#näinud	näge	nd		V	nud
+,	,	,			Z	
+egga	####	####				
+    	ega	ega	0		D	
+    	#ega	ega	0		J	
+ma	ma	mina	0		P	sg n
+tea	tea	tead	0		V	o
+sest	@sest	see	st		P	sg el
+    	sest	sest	0		J	
+ühtigi	ühtigi	ühtigi	0		D	
+,	,	,			Z	
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+ma	ma	mina	0		P	sg n
+polle	####	####				
+     	#pole	ole	0		V	neg o
+sedda	####	####				
+     	#seda	see	da		P	sg p
+näind	####	####				
+     	#näinud	näge	nd		V	nud
+kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+naad	####	####				
+    	#nad	tema	d		P	pl n
+on	ole	ole	0		V	b
+  	@on	ole	0		V	vad
+linna	linn	linn	0		S	adt
+     	@linna	linn	0		S	sg g
+     	linn	linn	0		S	sg p
+,	,	,			Z	
+egga	####	####				
+    	ega	ega	0		D	
+    	#ega	ega	0		J	
+polle	####	####				
+     	#pole	ole	0		V	neg o
+ka	ka	ka	0		D	
+teise	teine	teine	0		O	adt
+     	teine	teine	0		O	sg g
+     	teine	teine	0		P	adt
+     	@teise	teine	0		P	sg g
+Jakobile	Jakobile	Jakob	le		H	sg all
+räkind	####	####				
+      	#rääkinud	rääki	nd		V	nud
+,	,	,			Z	
+sest	see	see	st		P	sg el
+    	@sest	sest	0		J	
+ma	ma	mina	0		P	sg n
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+tea	tea	tead	0		V	o
+ühti	@ühti	ühti	0		D	
+    	ühti	ühti	0		V	o
+.	.	.			Z	
+Astus	astus	astu	s		V	s
+kohto	####	####				
+     	kohtu	kohtu	0		V	o
+     	#kohtu	kohus	0		S	sg g
+ette	esi	esi	tte		S	adt
+    	ette	ette	0		D	
+    	@ette	ette	0		K	
+Mart	@Mart	Mart	0		H	sg n
+    	mart	mart	0		S	sg n
+Treuhold	####	####				
+        	#Treuhold	Treuhold	0		H	sg n
+:	:	:			Z	
+Ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+ma	ma	mina	0		P	sg n
+tea	tea	tead	0		V	o
+sest	@sest	see	st		P	sg el
+    	sest	sest	0		J	
+ühti	@ühti	ühti	0		D	
+    	ühti	ühti	0		V	o
+,	,	,			Z	
+polle	####	####				
+     	#pole	ole	0		V	neg o
+ma	ma	mina	0		P	sg n
+isse	####	####				
+    	#ise	ise	0		P	sg n
+    	ise	ise	0		D	
+    	ise	ise	0		P	pl n
+wiind	####	####				
+     	#viinud	vii	nd		V	nud
+linna	@linna	linn	0		S	adt
+     	linn	linn	0		S	sg g
+     	linn	linn	0		S	sg p
+egga	####	####				
+    	ega	ega	0		D	
+    	#ega	ega	0		J	
+polle	####	####				
+     	#pole	ole	0		V	neg o
+ka	ka	ka	0		D	
+teisa	####	####				
+     	#teisi	teine	a		P	pl p
+näind	####	####				
+     	#näinud	näge	nd		V	nud
+wiwad	####	####				
+     	#viivat	vii	vat		V	vat
+.	.	.			Z	
+Astus	astus	astu	s		V	s
+kohto	####	####				
+     	kohtu	kohtu	0		V	o
+     	#kohtu	kohus	0		S	sg g
+ete	esi	esi	te		S	pl g
+   	£ette	ette	0		K	
+Jürri	####	####				
+     	#Jüri	Jürri	0		H	sg n
+Paalberg	####	####				
+        	#Paatberg	Paatberg	0		H	sg n
+:	:	:			Z	
+Ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+olle	####	####				
+    	#ole	ole	0		V	o
+ma	ma	mina	0		P	sg n
+sedda	####	####				
+     	#seda	see	da		P	sg p
+woid	####	####				
+    	#võid	või	d		S	sg p
+näind	####	####				
+     	#näinud	näge	nd		V	nud
+,	,	,			Z	
+polle	####	####				
+     	#pole	ole	0		V	neg o
+ma	ma	mina	0		P	sg n
+sedda	####	####				
+     	#seda	see	da		P	sg p
+kellegi	kellegi	keegi	0		P	sg g
+kä	####	####				
+  	#käe	käsi	0		S	sg g
+näind	####	####				
+     	#näinud	näge	nd		V	nud
+,	,	,			Z	
+egga	####	####				
+    	ega	ega	0		D	
+    	#ega	ega	0		J	
+polle	####	####				
+     	#pole	ole	0		V	neg o
+ka	ka	ka	0		D	
+isse	####	####				
+    	#ise	ise	0		P	sg n
+    	ise	ise	0		D	
+    	ise	ise	0		P	pl n
+wiind	####	####				
+     	#viinud	vii	nd		V	nud
+.	.	.			Z	
+Asus	asu	asu	s		S	sg in
+    	asu	asu	s		V	s
+    	£astus	astu	s		V	s
+kohto	####	####				
+     	kohtu	kohtu	0		V	o
+     	#kohtu	kohus	0		S	sg g
+ette	esi	esi	tte		S	adt
+    	ette	ette	0		D	
+    	@ette	ette	0		K	
+Juhhan	####	####				
+      	#Juhan	Juhhan	0		H	sg n
+Kändler	####	####				
+       	#Kändler	Kändler	0		H	sg n
+:	:	:			Z	
+Jakob	Jakob	Jakob	0		H	sg n
+Kaarfed	####	####				
+       	#Kaarweld	Kaarweld	0		H	sg n
+räkis	####	####				
+     	#rääkis	rääki	s		V	s
+mulle	@mulle	mina	lle		P	sg all
+     	mulle	mulle	0		S	sg n
+     	mull	mull	e		S	pl p
+linnas	linnas	linn	s		S	sg in
+Sõbra	sõbra	sõber	0		S	sg g
+podis	####	####				
+     	#poes	pood	s		S	sg in
+,	,	,			Z	
+et	et	et	0		J	
+Jakob	Jakob	Jakob	0		H	sg n
+Waartberg	####	####				
+         	#Waartberg	Waartberg	0		H	sg n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+sedda	####	####				
+     	#seda	see	da		P	sg p
+Kerdoli	####	####				
+       	#Kerdoli	Kerdoli	0		H	sg g
+mäel	mäel	mägi	l		S	sg ad
+ärra	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+selletanud	selle_tanu	selle_tanu	d		S	pl n
+          	£seletanud	seleta	nud		V	nud
+Allesti	####	####				
+       	#Allesti	Allesti	0		H	sg g
+Tõnnule	####	####				
+       	#Tõnule	Tõnnu	le		H	sg all
+,	,	,			Z	
+sedda	####	####				
+     	#seda	see	da		P	sg p
+mis	mis	mis	0		P	pl n
+   	@mis	mis	0		P	sg n
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+Mart	@Mart	Mart	0		H	sg n
+    	mart	mart	0		S	sg n
+Kändlerile	####	####				
+          	#Kändlerile	Kändler	le		H	sg all
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+räkind	####	####				
+      	#rääkinud	rääki	nd		V	nud
+ja	ja	ja	0		J	
+lubbanud	####	####				
+        	#lubanud	luba	nud		V	nud
+uesti	####	####				
+     	#uuesti	uuesti	0		D	
+räkita	####	####				
+      	#rääkida	rääki	ta		V	da
+.	.	.			Z	
+Astus	astus	astu	s		V	s
+kohto	####	####				
+     	kohtu	kohtu	0		V	o
+     	#kohtu	kohus	0		S	sg g
+ette	esi	esi	tte		S	adt
+    	ette	ette	0		D	
+    	@ette	ette	0		K	
+Jakob	Jakob	Jakob	0		H	sg n
+Kaasfldt	####	####				
+        	#Kaarweld	Kaarweld	0		H	sg n
+:	:	:			Z	
+Minna	Minna	Minna	0		H	sg g
+     	Minna	Minna	0		H	sg n
+     	mine	mine	a		V	da
+     	£mina	mina	0		S	sg n
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+mälleta	####	####				
+       	#mäleta	mäleta	0		V	o
+kas	kas	kas	0		D	
+ma	ma	mina	0		P	sg n
+ollen	####	####				
+     	#olen	ole	n		V	n
+räkind	####	####				
+      	#rääkinud	rääki	nd		V	nud
+woi	####	####				
+   	või	või	0		S	sg n
+   	või	või	0		S	sg g
+   	#või	või	0		J	
+   	või	või	0		D	
+   	või	või	0		V	o
+mitte	mitte	mitte	0		D	
+.	.	.			Z	
+Koggukonna	####	####				
+          	#kogukonna	kogukond	0		S	sg g
+kohhus	####	####				
+      	kohus	kohu	s		V	s
+      	#kohus	kohus	0		S	sg n
+jättab	####	####				
+      	#jätab	jät	b		V	b
+üllemal	####	####				
+       	#ülemal	ülem	l		A	sg ad
+nimmetud	nimme=tu	nimme=tu	d		A	pl n
+        	@nimetatud	nimeta	tud		V	tud
+tunnistust	tunnistust	tunnistus	t		S	sg p
+eddaspiddi	####	####				
+          	#edaspidi	edas_pidi	0		D	
+selgema	selgema	selgem	0		C	sg g
+kuulamise	kuulamise	kuulamine	0		S	sg g
+peale	peale	peale	0		D	
+     	@peale	peale	0		K	
+     	pea	pea	le		S	sg all
+.	.	.			Z	
+Agga	####	####				
+    	#aga	aga	0		J	
+et	et	et	0		J	
+Jakob	Jakob	Jakob	0		H	sg n
+Kaarweld	####	####				
+        	#Kaarweld	Kaarweld	0		H	sg n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+kohto	####	####				
+     	kohtu	kohtu	0		V	o
+     	#kohtu	kohus	0		S	sg g
+Käsko	####	####				
+     	#käsu	käsk	0		S	sg g
+wasta	vasta	vasta	0		V	o
+     	vastu	vastu	0		D	
+     	@vastu	vastu	0		K	
+pannud	pan=nud	pan=nud	0		A	
+      	pan=nud	pan=nud	0		A	sg n
+      	pan=nu	pan=nu	d		S	pl n
+      	pan=nud	pan=nud	d		A	pl n
+      	@pannud	pane	nud		V	nud
+,	,	,			Z	
+ja	ja	ja	0		J	
+polle	####	####				
+     	#pole	ole	0		V	neg o
+sest	@sest	see	st		P	sg el
+    	sest	sest	0		J	
+ühti	@ühti	ühti	0		D	
+    	ühti	ühti	0		V	o
+hoolinud	hooli=nud	hooli=nud	0		A	
+        	hooli=nud	hooli=nud	0		A	sg n
+        	hooli=nu	hooli=nu	d		S	pl n
+        	hooli=nud	hooli=nud	d		A	pl n
+        	@hoolinud	hooli	nud		V	nud
+,	,	,			Z	
+sepärrast	####	####				
+         	#seepärast	see_pärast	0		D	
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+Koggukonna	####	####				
+          	#kogukonna	kogukond	0		S	sg g
+kohhus	####	####				
+      	kohus	kohu	s		V	s
+      	#kohus	kohus	0		S	sg n
+Jakob	Jakob	Jakob	0		H	sg n
+Kaarweldile	####	####				
+           	#Kaarweldile	Kaarweld	le		H	sg all
+trahwi	trahv	trahv	0		S	adt
+      	trahv	trahv	0		S	sg g
+      	trahv	trahv	0		S	sg p
+      	trahvi	trahvi	0		V	o
+      	trahvi	trahv	0		S	adt
+      	trahvi	trahv	0		S	sg p
+      	@trahvi	trahv	0		S	sg g
+moistnud	####	####				
+        	#mõistnud	mõist	nud		V	nud
+§	§	§	0		Y	?
+653	653	653	0		N	?
+järrele	####	####				
+       	järele	järele	0		D	
+       	#järele	järele	0		K	
+1	1	1	0		N	?
+rubla	rubla	rubla	0		S	sg g
+     	@rubla	rubla	0		S	sg n
+     	rubla	rubla	0		S	sg p
+hõbbedat	####	####				
+        	#hõbedat	hõbe	t		S	sg p
+walla	vald	vald	0		S	sg g
+     	valla	valla	0		D	
+     	@valla	vald	0		S	sg g
+laeka	@laeka	laegas	0		S	adt
+     	laegas	laegas	0		S	sg g
+.	.	.			Z	
+Pea	pea	pea	0		D	
+   	@pea	pea	0		S	sg g
+   	pea	pea	0		S	sg n
+   	pida	pida	0		V	o
+kohtomees	####	####				
+         	#kohtumees	kohtu_mees	0		S	sg n
+:	:	:			Z	
+Prits	prits	prits	0		S	sg n
+     	£Prits	Prits	0		H	sg n
+Weitenberg	####	####				
+          	#Weitenberg	Weitenberg	0		H	sg n
+I	@I	I	0		O	?
+ 	I	I	0		Y	?
+Jürri	####	####				
+     	#Jüri	Jürri	0		H	sg n
+Talkop	####	####				
+      	#Talkop	Talkop	0		H	sg n
+II	@II	II	0		O	?
+  	II	II	0		Y	?
+Mihkel	@Mihkel	Mihkel	0		H	sg n
+      	mihkel	mihkel	0		A	sg n
+      	mihkel	mihkel	0		S	sg n
+Waartberg	####	####				
+         	#Waartberg	Waartberg	0		H	sg n
+Kirjutaja	kirjutaja	kirjutaja	0		S	sg g
+         	@kirjutaja	kirjutaja	0		S	sg n
+:	:	:			Z	
+G. Wender	####	####				
+         	#G._Wender	G._Wender	0		H	sg n
+[	[	[			Z	
+allkiri	allkiri	all_kiri	0		S	sg n
+]	]	]			Z	
