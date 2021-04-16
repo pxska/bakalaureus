@@ -19,7 +19,7 @@ CRFSUITE_C2 = 0.001
 # FeatureExtraction settings
 
 # Default gazetteer file
-GAZETTEER_FILE = os.path.join('..', 'experiments', 'models', 'gazetteer_both.txt')
+GAZETTEER_FILE = os.path.join('..', 'experiments', 'models', 'gazetteer_both_uppercase.txt')
 
 # Feature templates
 TEMPLATES = [

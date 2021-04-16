@@ -117,10 +117,39 @@ def display_results_by_named_entity(results_json):
     df["Total"] = totals
     return df
     
-def display_confusion_matrix(gold_ner, test_ner):
+def display_confusion_matrix(model_dir, files):
+    gold_ner = []
+    test_ner = []
+
+    for file in files:
+        appendable_gold_ner = []
+        appendable_test_ner = []
+        
+        with open(os.path.join('models', model_dir, 'vallakohtufailid-trained-nertagger', file), 'r', encoding='UTF-8') as f_test, \
+             open(os.path.join('test', 'flattened_json_files', file), 'r', encoding='UTF-8') as f_gold:
+                test_import = json_to_text(f_test.read())
+                gold_import = json_to_text(f_gold.read())
+
+                for i in range(len(gold_import['gold_ner'])):
+                    ner = gold_import['gold_ner'][i]
+                    label = ner.nertag
+                    start = int(ner.start)
+                    end = int(ner.end)
+                    appendable_gold_ner.append({"label": label, "start": start, "end": end})
+
+                for i in range(len(test_import['flat_ner'])):
+                    ner = test_import['flat_ner'][i]
+                    label = ner.nertag[0]
+                    start = int(ner.start)
+                    end = int(ner.end)
+                    appendable_test_ner.append({"label": label, "start": start, "end": end})
+
+        gold_ner.append(appendable_gold_ner)
+        test_ner.append(appendable_test_ner)
+    
     uus_gold_ner = []
     uus_test_ner = []
-
+    
     for i in range(len(gold_ner)):
         for j in range(len(test_ner[i])):
             element_test = test_ner[i][j]
@@ -131,5 +160,4 @@ def display_confusion_matrix(gold_ner, test_ner):
                     
     y_true = pd.Series([x['label'] for x in uus_gold_ner], name="Actual")
     y_pred = pd.Series([x['label'] for x in uus_test_ner], name="Predicted")
-    
-    pd.crosstab(y_true, y_pred)
+    return y_true, y_pred
