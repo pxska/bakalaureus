@@ -37,32 +37,29 @@ def extract_results_to_txt_file(model_dir, files):
 
         gold_ner.append(appendable_gold_ner)
         test_ner.append(appendable_test_ner)
+    print(gold_ner, test_ner)
+    
     evaluator = Evaluator(gold_ner, test_ner, tags=['ORG', 'PER', 'MISC', 'LOC', 'LOC_ORG'])
     results, results_per_tag = evaluator.evaluate()
     all_results = (results, results_per_tag)
-    print("Tulemuste ammutamine on lõpetatud.")
+    
+    print("(!) Tulemused arvutatud")
+    
     with open(os.path.join('models', model_dir, 'results.txt'), 'w+') as results_file:
         results_file.write(json.dumps(all_results))
+    print(f'(!) Tulemused kirjutatud faili {results_file}')
     
     return all_results
 
 def display_results_by_subdistribution(results_json):
-    correct_all = 0
-    actual_all = 0
-    possible_all = 0
     df = dict()
-   
+      
     correct = results_json[0]['strict']['correct']
-    correct_all += correct
-
     actual = results_json[0]['strict']['actual']
-    actual_all += actual
-
     possible = results_json[0]['strict']['possible']
-    possible_all += possible
     
-    precision = correct_all / actual_all
-    recall = correct_all / possible_all
+    precision = correct / actual
+    recall = correct / possible
     f1 = 2 * ((precision * recall) / (precision + recall))
     
     df["Total"] = [precision, recall, f1]
@@ -72,23 +69,18 @@ def display_results_by_subdistribution(results_json):
     return dataframe
 
 def display_results_by_named_entity(results_json):
-    df = dict()
-    totals = dict()
     by_kind = dict()
-
+    df = dict()
+    
     for key in list(results_json[1].keys()):
-        correct_all = 0
-        actual_all = 0
-        possible_all = 0
+        
         correct = results_json[1][str(key)]['strict']['correct']
-        correct_all += correct
         actual = results_json[1][str(key)]['strict']['actual']
-        actual_all += actual
         possible = results_json[1][str(key)]['strict']['possible']
-        possible_all += possible
 
         precision = (correct / actual)
         recall = (correct / possible)
+        
         if (precision + recall) == 0:
             f1 = 0
         else:
@@ -104,17 +96,6 @@ def display_results_by_named_entity(results_json):
 
         df['results'] = by_kind
 
-    for key, value in df.items():
-        for name, score in value.items():
-            if name in totals:
-                totals[name] = (totals.get(name) + score)
-            else:
-                totals[name] = score
-
-    for key, value in totals.items():
-        totals[key] = value/5
-
-    df["Total"] = totals
     return df
     
 def display_confusion_matrix(model_dir, files):
