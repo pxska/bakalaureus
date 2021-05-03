@@ -98,9 +98,10 @@ token_splitter = TokenSplitter(patterns=[re.compile(r'(?P<end>[A-ZÕÄÖÜ]{1}\w
                                          re.compile(r'(?P<end>talumees)Nikolai')])
 
 c = CompoundTokenTagger(tag_initials = False, tag_abbreviations = False, tag_hyphenations = False)
+
 def preprocess_text(text):
-    tagged_text = text.tag_layer(['tokens'])
-    token_splitter.retag(tagged_text)
-    c.tag(tagged_text)
-    tagged_text.tag_layer(['morph_analysis'])
-    return tagged_text
+    text.tag_layer(['tokens'])
+    token_splitter.retag(text)
+    c.tag(text)
+    text.tag_layer(['morph_analysis'])
+    return text
