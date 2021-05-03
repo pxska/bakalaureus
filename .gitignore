@@ -4,4 +4,4 @@ __pycache__
 data/vallakohtud.csv
 data/TSV_kasitsi
 data/TSV_automaatne
-.vscode/
+.vscode
