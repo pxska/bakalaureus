@@ -12,7 +12,7 @@ The protocol texts originate from the crowdsourcing project of [The National Arc
 
 Technologies:
 - Python 3.7
-- [EstNLTK](https://github.com/estnltk/estnltk/tree/master) (ver 1.6)
+- [EstNLTK](https://github.com/estnltk/estnltk/tree/master) (version 1.6). The files from the [estner](https://github.com/estnltk/estnltk/tree/devel_1.6/estnltk/taggers/estner) folder of branch [devel_1.6](https://github.com/estnltk/estnltk/tree/devel_1.6) were also used (state of files at commit [ebf1451](https://github.com/estnltk/estnltk/commit/ebf1451e69a2327502021e50571e318af1852ab2#diff-ebc8422f5e537e04a286bc2df0c9c830311f142c0494a47d42878097723d26ea)).
 - Jupyter Notebooks (+ Anaconda)
 
 Libraries/dependencies:
