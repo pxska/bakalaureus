@@ -1,80 +1,71 @@
-import sklearn_crfsuite
-import nereval
 import pandas as pd
 import os
 import json
 
 from estnltk.converters import json_to_text
 from nervaluate import Evaluator
-from sklearn.metrics import classification_report
-from sklearn_crfsuite import metrics
 
-files_not_working = ['J2rva_Tyri_V22tsa_id22177_1911a.json', \
-                     'J2rva_Tyri_V22tsa_id18538_1894a.json', \
-                     'J2rva_Tyri_V22tsa_id22155_1911a.json', \
-                     'Saare_Kihelkonna_Kotlandi_id18845_1865a.json', \
-                     'P2rnu_Halliste_Abja_id257_1844a.json', \
-                     'Saare_Kaarma_Loona_id7575_1899a.json', \
-                     'J2rva_Tyri_V22tsa_id22266_1913a.json', \
-                     'J2rva_Tyri_V22tsa_id22178_1912a.json']
-
-
-
-
-def extract_results(model_dir, files):
-    all_results = {}
+def extract_annotations(no_goldstandard_annotations, trained_files_location, testing_files_location, file):
+    gold = list()
+    test = list()
     
-    for subdistribution in [1, 2, 3, 4, 5]:
-        gold_ner = []
-        test_ner = []
+    if file.endswith('.json') and file not in no_goldstandard_annotations:
+        with open(os.path.join(trained_files_location, file), 'r', encoding='UTF-8') as f_test, \
+             open(os.path.join(testing_files_location, file), 'r', encoding='UTF-8') as f_gold:
+                test_import = json_to_text(f_test.read())
+                gold_import = json_to_text(f_gold.read())
+
+        for i in range(len(gold_import['gold_ner'])):
+            ner = gold_import['gold_ner'][i]
+            label = ner.nertag
+            start = int(ner.start)
+            end = int(ner.end)
+            gold.append({"label": label, "start": start, "end": end})
+
+        for i in range(len(test_import['flat_ner'])):
+            ner = test_import['flat_ner'][i]
+            label = ner.nertag[0]
+            start = int(ner.start)
+            end = int(ner.end)
+            test.append({"label": label, "start": start, "end": end})
+    
+    return gold, test
+
+def extract_results(model_dir, files, no_goldstandard_annotations, trained_files_location, testing_files_location, results_location):
+    
+    if (len(set(files.values())) == 1):
+        gold_ner = list()
+        test_ner = list()
         
-        for file in {key: value for key, value in files.items() if int(value) == subdistribution}:
-            appendable_gold_ner = []
-            appendable_test_ner = []
-
-            if not file.endswith(".json") or file in files_not_working:
-                continue
-            else:
-                with open(os.path.join('models', model_dir, 'vallakohtufailid-trained-nertagger', file), 'r', encoding='UTF-8') as f_test, \
-                     open(os.path.join('..', 'data', 'vallakohtufailid-json-flattened', file), 'r', encoding='UTF-8') as f_gold:
-                        test_import = json_to_text(f_test.read())
-                        gold_import = json_to_text(f_gold.read())
-
-                        # The commented part is needed for word-level-ner.
-                        '''
-                        for i in range(len(gold_import['flat_gold_wordner'])):
-                            tag = gold_import['flat_gold_wordner'][i].nertag[0]
-                            gold.append(tag)
-                        for i in range(len(test_import['flat_wordner'])):
-                            tag = test_import['flat_wordner'][i].nertag[0]
-                            test.append(tag)
-                        '''
-
-                        for i in range(len(gold_import['gold_ner'])):
-                            ner = gold_import['gold_ner'][i]
-                            label = ner.nertag
-                            start = int(ner.start)
-                            end = int(ner.end)
-                            appendable_gold_ner.append({"label": label, "start": start, "end": end})
-
-                        for i in range(len(test_import['flat_ner'])):
-                            ner = test_import['flat_ner'][i]
-                            label = ner.nertag[0]
-                            start = int(ner.start)
-                            end = int(ner.end)
-                            appendable_test_ner.append({"label": label, "start": start, "end": end})
-
-            gold_ner.append(appendable_gold_ner)
-            test_ner.append(appendable_test_ner)
+        for file in [key for key, value in files.items()]:
+            gold, test = extract_annotations(no_goldstandard_annotations, trained_files_location, testing_files_location, file)
+            results_gold += gold
+            results_test += test
+        
         evaluator = Evaluator(gold_ner, test_ner, tags=['ORG', 'PER', 'MISC', 'LOC', 'LOC_ORG'])
         results, results_per_tag = evaluator.evaluate()
-        all_results[subdistribution] = (results, results_per_tag)
-    print("Tulemuste ammutamine on lõpetatud.")
+        all_results = (results, results_per_tag)
+        
+    else:
+        all_results = {}
+        
+        for subdistribution in sorted(set(files.values())):
+            gold_ner = list()
+            test_ner = list()
+            
+            for file in [key for key, value in files.items() if int(value) == int(subdistribution)]:
+                gold, test = extract_annotations(no_goldstandard_annotations, trained_files_location, testing_files_location, file)
+                gold_ner.append(gold)
+                test_ner.append(test)
     
-    with open(os.path.join('models', files_dir, 'results.txt'), 'w+') as results_file:
-        results_file.write(json.dumps(all_results))
+            evaluator = Evaluator(gold_ner, test_ner, tags=['ORG', 'PER', 'MISC', 'LOC', 'LOC_ORG'])
+            results, results_per_tag = evaluator.evaluate()
+            all_results[subdistribution] = (results, results_per_tag)
+        
+    with open(os.path.join(results_location, 'results.txt'), 'w+') as out_f:
+        out_f.write(json.dumps(all_results))
     
-    return all_results
+    print(f'Results have been saved to {results_location}/results.txt')
 
 def results_by_subdistribution(results_json):
     correct_all = 0
