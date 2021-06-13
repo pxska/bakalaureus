@@ -67,119 +67,113 @@ def extract_results(model_dir, files, no_goldstandard_annotations, trained_files
     
     print(f'Results have been saved to {results_location}/results.txt')
 
-def results_by_subdistribution(results_json):
-    correct_all = 0
-    actual_all = 0
-    possible_all = 0
-    df = dict()
-
-    for i in ['1', '2', '3', '4', '5']:    
-        correct = results_json[i][0]['strict']['correct']
-        correct_all += correct
-        
-        actual = results_json[i][0]['strict']['actual']
-        actual_all += actual
-        
-        possible = results_json[i][0]['strict']['possible']
-        possible_all += possible
+def results_by_subdistribution(results_json, files):
+    data = dict()
+    
+    if len(set(files.values())) == 1:
+        correct = results_json[0]['strict']['correct']
+        actual = results_json[0]['strict']['actual']
+        possible = results_json[0]['strict']['possible']
         
         precision = (correct / actual)
         recall = (correct / possible)
         f1 = 2 * ((precision * recall) / (precision + recall))
         
-        df[str(i)] = [precision, recall, f1]
-    
-    precision = correct_all / actual_all
-    recall = correct_all / possible_all
-    f1 = 2 * ((precision * recall) / (precision + recall))
-    
-    df["Total"] = [precision, recall, f1]
-    
-    dataframe = pd.DataFrame(df, index=["Precision", "Recall", "F1-score"])
-    dataframe.columns.name = "Alamhulk"
-    
-    return dataframe
+        data = {'Precision': precision, 'Recall': recall, 'F1': f1}
+        results_df = pd.DataFrame(data, index=[0])
+        
+    else:
+        correct_all = 0
+        actual_all = 0
+        possible_all = 0
+        for subdistribution in sorted(set(files.values())):    
+            correct = results_json[subdistribution][0]['strict']['correct']
+            actual = results_json[subdistribution][0]['strict']['actual']
+            possible = results_json[subdistribution][0]['strict']['possible']
 
-def results_by_named_entity(results_json):
-    df = dict()
-    totals = dict()
-
-    for i in ['1', '2', '3', '4', '5']:
-        train = []
-        by_kind = dict()
-        for j in ['1', '2', '3', '4', '5']:
-            if j == i:
-                subdistribution_for_testing = j
-            else:
-                train.append(j)
-
-        for key in list(results_json[i][1].keys()):
-            correct_all = 0
-            actual_all = 0
-            possible_all = 0
-            correct = results_json[i][1][str(key)]['strict']['correct']
             correct_all += correct
-            actual = results_json[i][1][str(key)]['strict']['actual']
             actual_all += actual
-            possible = results_json[i][1][str(key)]['strict']['possible']
             possible_all += possible
-
+        
             precision = (correct / actual)
             recall = (correct / possible)
             f1 = 2 * ((precision * recall) / (precision + recall))
 
-            precisionname = str(key) + "_precision"
-            recallname = str(key) + "_recall"
-            f1scorename = str(key) + "_f1score"
+            data[str(subdistribution)] = {
+                'Precision': precision,
+                'Recall': recall,
+                'F1': f1
+            }
+    
+        precision = correct_all / actual_all
+        recall = correct_all / possible_all
+        f1 = 2 * ((precision * recall) / (precision + recall))
+    
+        data["Total"] = {
+            'Precision': precision,
+            'Recall': recall,
+            'F1': f1
+        }
+    
+        results_df = pd.DataFrame(data)
+        results_df.columns.name = "Alamhulk"
+    
+    return results_df
 
-            by_kind[precisionname] = precision
-            by_kind[recallname] = recall
-            by_kind[f1scorename] = f1
+def results_by_named_entity(results_json, files):
+    data = dict()
+    totals = dict()
 
-        df[str(subdistribution_for_testing)] = by_kind
+    for subdistribution in sorted(set(files.values())):
+        by_kind = dict()
+        
+        for key in list(results_json[subdistribution][1].keys()):
+            correct_all = 0
+            actual_all = 0
+            possible_all = 0
+            
+            correct = results_json[subdistribution][1][str(key)]['strict']['correct']
+            correct_all += correct
+            actual = results_json[subdistribution][1][str(key)]['strict']['actual']
+            actual_all += actual
+            possible = results_json[subdistribution][1][str(key)]['strict']['possible']
+            possible_all += possible
+            
+            precision = (correct / actual)
+            recall = (correct / possible)
+            f1 = 2 * ((precision * recall) / (precision + recall))
 
-    for key, value in df.items():
+            by_kind[str(key) + "_precision"] = precision
+            by_kind[str(key) + "_recall"] = recall
+            by_kind[str(key) + "_f1score"] = f1
+        
+        data[str(subdistribution)] = by_kind
+
+    for key, value in data.items():
         for name, score in value.items():
             if name in totals:
                 totals[name] = (totals.get(name) + score)
             else:
                 totals[name] = score
-
+    
     for key, value in totals.items():
-        totals[key] = value/5
-
-    df["Total"] = totals
-    return df
+        totals[key] = value / int(len(set(files.values())))
+    
+    data['Total'] = totals
+    
+    results_df = pd.DataFrame(data)
+    
+    return results_df
     
 def confusion_matrix(model_dir, files):
     gold_ner = []
     test_ner = []
 
     for file in files:
-        appendable_gold_ner = []
-        appendable_test_ner = []
+        gold, test = extract_annotations(no_goldstandard_annotations, trained_files_location, testing_files_location, file)
         
-        with open(os.path.join('models', model_dir, 'vallakohtufailid-trained-nertagger', file), 'r', encoding='UTF-8') as f_test, \
-             open(os.path.join('..', 'data', 'vallakohtufailid-json-flattened', file), 'r', encoding='UTF-8') as f_gold:
-                test_import = json_to_text(f_test.read())
-                gold_import = json_to_text(f_gold.read())
-
-                for i in range(len(gold_import['gold_ner'])):
-                    ner = gold_import['gold_ner'][i]
-                    label = ner.nertag
-                    start = int(ner.start)
-                    end = int(ner.end)
-                    appendable_gold_ner.append({"label": label, "start": start, "end": end})
-
-                for i in range(len(test_import['flat_ner'])):
-                    ner = test_import['flat_ner'][i]
-                    label = ner.nertag[0]
-                    start = int(ner.start)
-                    end = int(ner.end)
-                    appendable_test_ner.append({"label": label, "start": start, "end": end})
-
-        gold_ner.append(appendable_gold_ner)
-        test_ner.append(appendable_test_ner)
+        gold_ner.append(gold)
+        test_ner.append(test)
     
     uus_gold_ner = []
     uus_test_ner = []
