@@ -1,0 +1,607 @@
+Armi	arm	arm	0		S	adt
+    	arm	arm	0		S	sg g
+    	arm	arm	0		S	sg p
+    	£Armi	Armi	0		H	sg n
+.	.	.			Z	
+Kaebab	kaebab	kaeba	b		V	b
+Mart	@Mart	Mart	0		H	sg n
+    	mart	mart	0		S	sg n
+Premer	####	####				
+      	#Premer	Premer	0		H	sg n
+,	,	,			Z	
+Hans	Hans	Hans	0		H	sg n
+Witsori	vits_ori	vits_ori	0		S	sg n
+       	£Witsori	Witsor	0		H	sg g
+ülle	ülle	ülle	0		D	
+    	üle	üle	0		D	
+    	@üle	üle	0		K	
+kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+nemmad	####	####				
+      	#nemad	tema	d		P	pl n
+Möissa	####	####				
+      	#mõisa	mõis	0		S	sg g
+killaga	killaga	kild	ga		S	sg kom
+linnas	linnas	linn	s		S	sg in
+käind	####	####				
+     	#käinud	käi	nud		V	nud
+,	,	,			Z	
+ja	ja	ja	0		J	
+wilja	vili	vili	0		S	adt
+     	vili	vili	0		S	sg g
+     	vili	vili	0		S	sg p
+     	vilja	vili	0		S	adt
+     	@vilja	vili	0		S	sg g
+     	vilja	vili	0		S	sg p
+möedu	####	####				
+     	#mõõdu	mõõt	0		S	sg g
+ajal	aeg	aeg	l		S	sg ad
+    	@ajal	ajal	0		K	
+tühjaks	tühjaks	tühi	ks		A	sg tr
+saand	####	####				
+     	#saanud	saa	nd		V	nud
+obbused	####	####				
+       	#hobused	hobune	d		S	pl n
+on	ole	ole	0		V	b
+  	@on	ole	0		V	vad
+ulitsa	####	####				
+      	#uulitsa	uulits	0		S	sg g
+peale	peale	peale	0		D	
+     	@peale	peale	0		K	
+     	pea	pea	le		S	sg all
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+aetud	ae=tu	ae=tu	d		S	pl n
+     	aetud	aetud	0		A	
+     	aetud	aetud	0		A	sg n
+     	aetud	aetud	d		A	pl n
+     	@aetud	aja	tud		V	tud
+,	,	,			Z	
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+Mart	@Mart	Mart	0		H	sg n
+    	mart	mart	0		S	sg n
+Premer	####	####				
+      	#Premer	Premer	0		H	sg n
+nende	see	see	de		P	pl g
+     	@nende	tema	de		P	pl g
+tühiaks	####	####				
+       	#tühjaks	tühi	ks		A	sg tr
+saand	####	####				
+     	#saanud	saa	nd		V	nud
+Osste	####	####				
+     	#hobuste	hobune	te		S	pl g
+järrel	####	####				
+      	järel	järel	0		D	
+      	#järel	järel	0		K	
+wattamas	####	####				
+        	#vaatamas	vaata	mas		V	mas
+,	,	,			Z	
+siis	@siis	siis	0		D	
+    	siis	siis	0		J	
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+Mart	@Mart	Mart	0		H	sg n
+    	mart	mart	0		S	sg n
+Premer	####	####				
+      	#Premer	Premer	0		H	sg n
+Möissa	####	####				
+      	#mõisa	mõis	0		S	sg g
+Ree	ree	regi	0		S	sg g
+pealt	pealt	pealt	0		D	
+     	@pealt	pealt	0		K	
+     	pea	pea	lt		S	sg abl
+Ärabea	####	####				
+      	#härjapea	härjapea	0		S	sg g
+Einnu	####	####				
+     	#heinu	hein	u		S	pl p
+wötnud	####	####				
+      	#võtnud	võt	nud		V	nud
+ja	ja	ja	0		J	
+Möissa	####	####				
+      	#mõisa	mõis	0		S	sg g
+Ostele	####	####				
+      	#hobustele	hobune	tele		S	pl all
+ette	esi	esi	tte		S	adt
+    	@ette	ette	0		D	
+    	ette	ette	0		K	
+annd	####	####				
+    	#andnud	and	nd		V	nud
+,	,	,			Z	
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+ka	ka	ka	0		D	
+omma	####	####				
+    	#oma	oma	0		P	sg g
+    	on	ole	0		V	vad
+Obbusele	####	####				
+        	#hobustele	hobune	tele		S	pl all
+käputäis	käputäis	käpu_täis	0		S	sg n
+Möissa	####	####				
+      	#mõisa	mõis	0		S	sg g
+eintest	####	####				
+       	#heintest	hein	test		S	pl el
+ette	esi	esi	tte		S	adt
+    	@ette	ette	0		D	
+    	ette	ette	0		K	
+wissand	viss_and	viss_and	0		S	sg n
+       	£visanud	viska	nd		V	nud
+.	.	.			Z	
+Selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+peale	peale	peale	0		D	
+     	@peale	peale	0		K	
+     	pea	pea	le		S	sg all
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+Hans	Hans	Hans	0		H	sg n
+Witsor	####	####				
+      	#Witsor	Witsor	0		H	sg n
+senna	senna	senna	0		S	sg g
+     	senna	senna	0		S	sg n
+     	£sinna	sinna	0		D	
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+ja	ja	ja	0		J	
+leidnud	leid=nud	leid=nud	0		A	
+       	leid=nud	leid=nud	0		A	sg n
+       	leid=nu	leid=nu	d		S	pl n
+       	leid=nud	leid=nud	d		A	pl n
+       	@leidnud	leid	nud		V	nud
+et	et	et	0		J	
+Premre	####	####				
+      	#Premre	Premer	0		H	sg g
+Obbusel	####	####				
+       	#hobusel	hobune	l		S	sg ad
+Ärjabea	####	####				
+       	#härjapea	härjapea	0		S	sg g
+Einnad	####	####				
+      	#heinad	hein	d		S	pl n
+ees	@ees	ees	0		D	
+   	ees	ees	0		K	
+   	esi	esi	s		S	sg in
+olnud	ol=nud	ol=nud	0		A	
+     	ol=nud	ol=nud	0		A	sg n
+     	ol=nud	ol=nud	d		A	pl n
+     	@olnud	ole	nud		V	nud
+     	olnu	olnu	d		S	pl n
+ja	ja	ja	0		J	
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+kohhe	####	####				
+     	#kohe	kohe	0		D	
+temma	####	####				
+     	#tema	tema	0		P	sg g
+     	tema	tema	0		P	sg n
+kallale	kallale	kallale	0		D	
+       	@kallale	kallale	0		K	
+       	kalla	kalla	le		S	sg all
+läind	####	####				
+     	#läinud	mine	nd		V	nud
+,	,	,			Z	
+ölnd	####	####				
+    	#öelnud	ütle	nd		V	nud
+et	et	et	0		J	
+sinna	sinna	sinna	0		D	
+     	£sina	sina	0		P	sg n
+oled	oled	ole	d		V	d
+minu	minu	mina	0		P	sg g
+Ärjabea	####	####				
+       	#härjapea	härjapea	0		S	sg g
+Einnu	####	####				
+     	#heinu	hein	u		S	pl p
+
+omma	####	####				
+    	#oma	oma	0		P	sg g
+    	on	ole	0		V	vad
+Obbusele	####	####				
+        	#hobustele	hobune	tele		S	pl all
+annud	####	####				
+     	#andnud	and	nud		V	nud
+,	,	,			Z	
+minnu	####	####				
+     	#minu	mina	0		P	sg g
+einad	####	####				
+     	#heinad	hein	d		S	pl n
+on	ole	ole	0		V	b
+  	@on	ole	0		V	vad
+väheks	väheks	väheks	0		D	
+jäend	####	####				
+     	#jäänud	jää	nud		V	nud
+,	,	,			Z	
+ja	ja	ja	0		J	
+Witsor	####	####				
+      	#Witsor	Witsor	0		H	sg n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+Premre	####	####				
+      	#Premre	Premer	0		H	sg g
+karwust	karv_uks	karv_uks	t		S	sg p
+       	£karvust	karv	ust		S	pl el
+kini	####	####				
+    	#kinni	kinni	0		D	
+akkand	####	####				
+      	#hakanud	hakka	nd		V	nud
+ja	ja	ja	0		J	
+ülle	ülle	ülle	0		D	
+    	üle	üle	0		D	
+    	@üle	üle	0		K	
+ree	ree	regi	0		S	sg g
+widand	####	####				
+      	#vedanud	veda	nd		V	nud
+Obbuse	####	####				
+      	#hobuse	hobune	0		S	sg g
+jurre	####	####				
+     	#juurde	juurde	0		K	
+,	,	,			Z	
+ja	ja	ja	0		J	
+löönd	####	####				
+     	#löönud	löö	nd		V	nud
+kolm	kolm	kolm	0		N	sg n
+kord	kord	kord	0		D	
+    	@korda	kord	0		S	sg n
+temmale	####	####				
+       	#temale	tema	le		P	sg all
+möda	####	####				
+    	#mööda	mööda	0		K	
+    	mööda	mööda	0		D	
+pead	pea	pea	d		S	pl n
+    	@pead	pea	d		S	sg p
+    	pida	pida	d		V	d
+,	,	,			Z	
+et	et	et	0		J	
+temma	####	####				
+     	#tema	tema	0		P	sg g
+     	tema	tema	0		P	sg n
+Einnad	####	####				
+      	#heinad	hein	d		S	pl n
+ölnd	####	####				
+    	#öelnud	ütle	nd		V	nud
+ollema	####	####				
+      	#olema	ole	ma		V	ma
+mis	mis	mis	0		P	pl n
+   	@mis	mis	0		P	sg n
+Premre	####	####				
+      	#Premre	Premer	0		H	sg g
+
+Obbuse	####	####				
+      	#hobuse	hobune	0		S	sg g
+est	####	####				
+   	#eest	eest	0		K	
+leidnud	leid=nud	leid=nud	0		A	
+       	leid=nud	leid=nud	0		A	sg n
+       	leid=nu	leid=nu	d		S	pl n
+       	leid=nud	leid=nud	d		A	pl n
+       	@leidnud	leid	nud		V	nud
+,	,	,			Z	
+see	see	see	0		P	sg n
+oli	oli	ole	i		V	s
+Mart	@Mart	Mart	0		H	sg n
+    	mart	mart	0		S	sg n
+Premre	####	####				
+      	#Premre	Premer	0		H	sg g
+kaebtus	####	####				
+       	#kaebus	kaebus	0		S	sg n
+.	.	.			Z	
+Tulli	tull	tull	0		S	adt
+     	tull	tull	0		S	sg g
+     	tull	tull	0		S	sg p
+     	@tuli	tule	i		V	s
+     	tuli	tuli	0		S	sg n
+ette	esi	esi	tte		S	adt
+    	@ette	ette	0		D	
+    	ette	ette	0		K	
+Hans	Hans	Hans	0		H	sg n
+Witsor	####	####				
+      	#Witsor	Witsor	0		H	sg n
+ütles	ütles	ütle	s		V	s
+omma	####	####				
+    	#oma	oma	0		P	sg g
+    	on	ole	0		V	vad
+einnad	####	####				
+      	#heinad	hein	d		S	pl n
+ollema	####	####				
+      	#olema	ole	ma		V	ma
+olnud	ol=nud	ol=nud	0		A	
+     	ol=nud	ol=nud	0		A	sg n
+     	ol=nud	ol=nud	d		A	pl n
+     	@olnud	ole	nud		V	nud
+     	olnu	olnu	d		S	pl n
+mis	mis	mis	0		P	pl n
+   	@mis	mis	0		P	sg n
+Premre	####	####				
+      	#Premre	Premer	0		H	sg g
+Obbusse	####	####				
+       	#hobuse	hobune	0		S	sg g
+est	####	####				
+   	#eest	eest	0		K	
+leidnud	leid=nud	leid=nud	0		A	
+       	leid=nud	leid=nud	0		A	sg n
+       	leid=nu	leid=nu	d		S	pl n
+       	leid=nud	leid=nud	d		A	pl n
+       	@leidnud	leid	nud		V	nud
+,	,	,			Z	
+ja	ja	ja	0		J	
+karwubidi	####	####				
+         	#karvupidi	karvu_pidi		D	
+Preme	####	####				
+     	#Premre	Premer	0		H	sg g
+Obbuse	####	####				
+      	#hobuse	hobune	0		S	sg g
+jurre	####	####				
+     	#juurde	juurde	0		K	
+wiind	####	####				
+     	#viinud	vii	nd		V	nud
+,	,	,			Z	
+agga	####	####				
+    	#aga	aga	0		J	
+mitte	mitte	mitte	0		D	
+teda	teda	tema	da		P	sg p
+pölle	####	####				
+     	#pole	ole	0		V	neg o
+löönd	####	####				
+     	#löönud	löö	nd		V	nud
+,	,	,			Z	
+Premel	####	####				
+      	#Premer	Premer	0		H	sg n
+agga	####	####				
+    	#aga	aga	0		J	
+ütles	ütles	ütle	s		V	s
+karwust	karv_uks	karv_uks	t		S	sg p
+       	£karvust	karv	ust		S	pl el
+kiskusid	kisk	kisk	sid		S	pl p
+        	@kiskusid	kisku	sid		V	sid
+ja	ja	ja	0		J	
+kolmkord	kolm_korda	kolm_kord	0		S	sg n
+löid	####	####				
+    	#lõid	löö	id		V	sid
+.	.	.			Z	
+Tuinstuseks	####	####				
+           	#tunnistuseks	tunnistus	ks		S	sg tr
+tuli	@tuli	tule	i		V	s
+    	tuli	tuli	0		S	sg n
+ette	esi	esi	tte		S	adt
+    	@ette	ette	0		D	
+    	ette	ette	0		K	
+Mihkel	@Mihkel	Mihkel	0		H	sg n
+      	mihkel	mihkel	0		A	sg n
+      	mihkel	mihkel	0		S	sg n
+Adewits	####	####				
+       	#Adewits	Adewits	0		H	sg n
+kis	####	####				
+   	#kes	kes	0		P	sg n
+nende	see	see	de		P	pl g
+     	@nende	tema	de		P	pl g
+jures	####	####				
+     	juures	juur	s		S	sg in
+     	juures	juures	0		D	
+     	#juures	juures	0		K	
+olnud	ol=nud	ol=nud	0		A	
+     	ol=nud	ol=nud	0		A	sg n
+     	ol=nud	ol=nud	d		A	pl n
+     	@olnud	ole	nud		V	nud
+     	olnu	olnu	d		S	pl n
+ja	ja	ja	0		J	
+sedda	####	####				
+     	#seda	see	da		P	sg p
+köig	####	####				
+    	#kõik	kõik	0		P	sg g
+näind	####	####				
+     	#näinud	näge	nd		V	nud
+.	.	.			Z	
+Kuda	####	####				
+    	#kuidas	kuidas	0		D	
+see	see	see	0		P	sg n
+riid	riid	riid	0		S	sg n
+neil	see	see	l		P	pl ad
+    	@neil	tema	l		P	pl ad
+olnd	####	####				
+    	#olnud	ole	nd		V	nud
+,	,	,			Z	
+ütleb	ütleb	ütle	b		V	b
+et	et	et	0		J	
+Witsor	####	####				
+      	#Witsor	Witsor	0		H	sg n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+kohe	kohe	kohe	0		A	sg n
+    	@kohe	kohe	0		D	
+Premel	####	####				
+      	#Premeril	Premer	l	H	sg ad
+karwust	karv_uks	karv_uks	t		S	sg p
+       	£karvust	karv	ust		S	pl el
+kinni	kinni	kinni	0		D	
+akand	####	####				
+     	#hakanud	hakka	nd		V	nud
+ja	ja	ja	0		J	
+ülle	ülle	ülle	0		D	
+    	üle	üle	0		D	
+    	@üle	üle	0		K	
+Ree	ree	regi	0		S	sg g
+Obbuse	####	####				
+      	#hobuse	hobune	0		S	sg g
+jurre	####	####				
+     	#juurde	juurde	0		K	
+wiind	####	####				
+     	#viinud	vii	nd		V	nud
+ja	ja	ja	0		J	
+seal	@seal	seal	0		D	
+    	siga	siga	l		A	sg ad
+    	siga	siga	l		S	sg ad
+kolm	kolm	kolm	0		N	sg n
+kord	kord	kord	0		D	
+    	@korda	kord	0		S	sg n
+tedda	####	####				
+     	#teda	tema	da		P	sg p
+löönd	####	####				
+     	#löönud	löö	nd		V	nud
+,	,	,			Z	
+sedda	####	####				
+     	#seda	see	da		P	sg p
+tuinstust	####	####				
+         	#tunnistust	tunnistus	t		S	sg p
+ajas	aeg	aeg	s		S	sg in
+    	@ajas	aja	s		V	s
+Witsor	####	####				
+      	#Witsor	Witsor	0		H	sg n
+ka	ka	ka	0		D	
+walleks	####	####				
+       	#valeks	vale	ks		S	sg tr
+,	,	,			Z	
+agga	####	####				
+    	#aga	aga	0		J	
+sedda	####	####				
+     	#seda	see	da		P	sg p
+et	et	et	0		J	
+Einna	####	####				
+     	#heina	hein	0		S	sg g
+wötmist	####	####				
+       	#võtmist	võtmine	t		S	sg p
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+olnd	####	####				
+    	#olnud	ole	nd		V	nud
+keegi	kee	kee	0	gi	S	sg g
+     	kee	kee	0	gi	S	sg n
+     	kee	kee	0	gi	V	o
+     	@keegi	keegi	0		P	sg n
+näind	####	####				
+     	#näinud	näge	nd		V	nud
+et	et	et	0		J	
+Premer	####	####				
+      	#Premer	Premer	0		H	sg n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+Witsori	vits_ori	vits_ori	0		S	sg n
+       	£Witsori	Witsor	0		H	sg g
+Ree	ree	regi	0		S	sg g
+bealt	####	####				
+     	#pealt	pealt	0		K	
+Einu	####	####				
+    	#heinu	hein	u		S	pl p
+wötnud	####	####				
+      	#võtnud	võt	nud		V	nud
+,	,	,			Z	
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+saand	####	####				
+     	#saanud	saa	nd		V	nud
+selgeks	selgeks	selge	ks		A	sg tr
+.	.	.			Z	
+ja	ja	ja	0		J	
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+löömese	lööm_ese	lööm_ese	0		S	sg n
+       	£löömise	löömine	0		S	sg g
+pärrast	####	####				
+       	pärast	pära	st		S	sg el
+       	pärast	pärane	t		A	sg p
+       	pärast	pärast	0		D	
+       	#pärast	pärast	0		K	
+lubbas	####	####				
+      	#lubas	luba	s		V	s
+Hans	Hans	Hans	0		H	sg n
+Witsor	####	####				
+      	#Witsor	Witsor	0		H	sg n
+weel	@veel	veel	0		D	
+    	vesi	vesi	l		S	sg ad
+    	veel	vesi	l		S	sg ad
+tunistust	####	####				
+         	#tunnistust	tunnistus	t		S	sg p
+sesst	####	####				
+     	#sest	sest	st		P	sg el
+ette	esi	esi	tte		S	adt
+    	@ette	ette	0		D	
+    	ette	ette	0		K	
+tua	####	####				
+   	#tuua	too	a		V	da
+,	,	,			Z	
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+pärrast	####	####				
+       	pärast	pära	st		S	sg el
+       	pärast	pärane	t		A	sg p
+       	pärast	pärast	0		D	
+       	@pärast	pärast	0		K	
+jäi	jäi	jää	i		V	s
+nende	see	see	de		P	pl g
+     	@nende	tema	de		P	pl g
+riju	####	####				
+    	#riiu	riid	0		S	sg g
+asi	@asi	asi	0		S	sg n
+   	asi	asi	0		V	o
+tullewa	####	####				
+       	#tuleva	tule	va		V	v sg g
+kohtu	kohtu	kohtu	0		V	o
+     	@kohtu	kohus	0		S	sg g
+päwaks	####	####				
+      	#päevaks	päev	ks		S	sg tr
+selledata	####	####				
+         	#seletada	seleta	ta		V	da
+.	.	.			Z	
+jäeb	####	####				
+    	#jääb	jää	b		V	b
+poolele	pool	pool	le		N	sg all
+       	pool	pool	le		S	sg all
+       	£pooleli	pooleli	0		D	
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+Premer	####	####				
+      	#Premer	Premer	0		H	sg n
+kohtu	kohtu	kohtu	0		V	o
+     	@kohtu	kohus	0		S	sg g
+ette	esi	esi	tte		S	adt
+    	ette	ette	0		D	
+    	@ette	ette	0		K	
+21mal	####	####				
+     	#21ndal	21=s	l		O	sg ad
+Februar	####	####				
+       	#veebruar	veebruar	0		S	sg n
+.	.	.			Z	
+Sai	@sai	saa	i		V	s
+   	sai	sai	0		S	sg n
+tühjaks	tühjaks	tühi	ks		A	sg tr
+möistetud	####	####				
+         	#mõistetud	mõist	tud		V	tud
+et	et	et	0		J	
+tulemata	tulemata	tulemata	0		A	
+        	@tulemata	tule	mata		V	mata
+jäid	jäid	jää	id		V	sid
+kaebaja	kaebaja	kaebaja	0		S	sg g
+       	@kaebaja	kaebaja	0		S	sg n
+ja	ja	ja	0		J	
+teisid	####	####				
+      	#teised	teine	sid		P	pl n
+tuinistused	####	####				
+           	#tunnistused	tunnistus	d		S	pl n
+Tühjaks	tühjaks	tühi	ks		A	sg tr
+möistetud	####	####				
+         	#mõistetud	mõist	tud		V	tud
+Peakohtowannem	####	####				
+              	#peakohtuvanem	pea_kohtu_vanem	0		S	sg n
+T. Dideperg	####	####				
+           	#T._Tiideberg	T._Dideperg	0		H	sg n
+Kohtukäemees	kohtukäemees	kohtu_käe_mees	0		S	sg n
+J. Rosenpaum	####	####				
+            	#J._Rosenbaum	J._Rosenpaum	0		H	sg n
+Kohtukäemees	kohtukäemees	kohtu_käe_mees	0		S	sg n
+J. Kugel	####	####				
+        	#J._Kugel	J._Kugel	0		H	sg n
+Kirjutaja	kirjutaja	kirjutaja	0		S	sg g
+         	@kirjutaja	kirjutaja	0		S	sg n
+M. Eichthal	####	####				
+           	#M._Eichtal	M._Eichtal	0		H	sg n

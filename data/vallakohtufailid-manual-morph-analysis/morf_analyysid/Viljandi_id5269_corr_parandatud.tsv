@@ -1,0 +1,612 @@
+Koggokonna	####	####				
+          	#kogukonna	kogukond	0		S	sg g
+kohto	####	####				
+     	kohtu	kohtu	0		V	o
+     	#kohtu	kohus	0		S	sg g
+ette	esi	esi	tte		S	adt
+    	@ette	ette	0		D	
+    	ette	ette	0		K	
+tulli	tull	tull	0		S	adt
+     	tull	tull	0		S	sg g
+     	tull	tull	0		S	sg p
+     	@tuli	tule	i		V	s
+     	tuli	tuli	0		S	sg n
+Ewa	Ewa	Ewa	0		H	sg g
+   	@Eva	Ewa	0		H	sg n
+Ounapu	####	####				
+      	#Õunapuu	Ounapu	0		H	sg n
+ja	ja	ja	0		J	
+kaebas	kaebas	kaeba	s		V	s
+,	,	,			Z	
+et	et	et	0		J	
+Jürri	####	####				
+     	#Jüri	Jürri	0		H	sg n
+Pusep	####	####				
+     	#Puusepp	Pusep	0		H	sg n
+ollewa	####	####				
+      	#olevat	ole	va		V	vat
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+temma	####	####				
+     	#tema	tema	0		P	sg g
+     	tema	tema	0		P	sg n
+aggerikku	####	####				
+         	#hageriku	hagerik	0		S	sg g
+jure	####	####				
+    	juurde	juur	de		S	adt
+    	juurde	juurde	0		D	
+    	#juurde	juurde	0		K	
+Mart	@Mart	Mart	0		H	sg n
+    	mart	mart	0		S	sg n
+Matsoni	####	####				
+       	#Matsoni	Matson	0		H	sg g
+Kleisid	####	####				
+       	#kleite	kleit	sid		S	pl p
+otsima	otsima	otsi	ma		V	ma
+ja	ja	ja	0		J	
+kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+polle	####	####				
+     	#pole	ole	0		V	neg o
+aggerikku	####	####				
+         	#hageriku	hagerik	0		S	sg g
+ust	@ust	uks	t		S	sg p
+   	ust	ust	0		I	
+lahti	@lahti	lahti	0		D	
+     	laht	laht	i		S	pl p
+sanud	####	####				
+     	#saanud	saa	nud		V	nud
+siis	@siis	siis	0		D	
+    	siis	siis	0		J	
+saatnud	saat=nud	saat=nud	0		A	
+       	saat=nud	saat=nud	0		A	sg n
+       	saat=nu	saat=nu	d		S	pl n
+       	saat=nud	saat=nud	d		A	pl n
+       	@saatnud	saat	nud		V	nud
+ütse	####	####				
+    	#ühe	üks	0		P	sg g
+weikese	####	####				
+       	#väikese	väike	0		A	sg g
+poisi	poisi	poiss	0		S	sg g
+Jaan	@Jaan	Jaan	0		H	sg n
+    	jaan	jaan	0		S	sg n
+    	jaan	jaan	0		Y	?
+Kristian	####	####				
+        	#Kristjan	Kristian	0		H	sg n
+14	14	14	0		N	?
+aastad	aasta	aasta	d		S	pl n
+      	£aastat	aasta	t		S	sg p
+wanna	####	####				
+     	#vana	vana	0		A	sg n
+     	vana	vana	0		A	sg g
+     	vana	vana	0		A	sg p
+     	vana	vana	0		S	sg n
+     	vana	vana	0		S	sg g
+     	vana	vana	0		S	sg p
+ja	ja	ja	0		J	
+se	####	####				
+  	#see	see	0		P	sg n
+läinud	läinud	läinud	0		A	
+      	läinud	läinud	0		A	sg n
+      	läinu	läinu	d		S	pl n
+      	läinud	läinud	d		A	pl n
+      	@läinud	mine	nud		V	nud
+kattuksest	katt_uks	katt_uks	st		S	sg el
+          	£katusest	katus	st		S	sg el
+sisse	sisse	sisse	0		D	
+     	@sisse	sisse	0		K	
+     	siss	siss	e		S	pl p
+ja	ja	ja	0		J	
+löhkunud	####	####				
+        	#lõhkunud	lõhku	nud		V	nud
+kattukse	katt_uks	katt_uks	0		S	sg g
+        	£katuse	katus	0		S	sg g
+ärra	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+ja	ja	ja	0		J	
+kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+Johann	Johann	Johann	0		H	sg n
+Matson	####	####				
+      	#Matson	Matson	0		H	sg n
+poisi	poisi	poiss	0		S	sg g
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+aanud	####	####				
+     	#ajanud	aja	nud		V	nud
+,	,	,			Z	
+siis	@siis	siis	0		D	
+    	siis	siis	0		J	
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+Jürri	####	####				
+     	#Jüri	Jürri	0		H	sg n
+Pusep	####	####				
+     	#Puusepp	Pusep	0		H	sg n
+sellesamma	####	####				
+          	#sellesama	seesama	0		P	sg g
+kattukse	katt_uks	katt_uks	0		S	sg g
+        	£katuse	katus	0		S	sg g
+haugo	####	####				
+     	#augu	auk	0		S	sg g
+läbbi	####	####				
+     	läbi	läbi	0		D	
+     	#läbi	läbi	0		K	
+     	läbi	läbi	0		V	o
+sisse	@sisse	sisse	0		D	
+     	sisse	sisse	0		K	
+     	siss	siss	e		S	pl p
+ja	ja	ja	0		J	
+tonud	####	####				
+     	#toonud	too	nud		V	nud
+ühhed	####	####				
+     	#ühed	üks	d		N	pl n
+Kleid	####	####				
+     	#kleit	kleit	0		S	sg n
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+,	,	,			Z	
+ning	ning	ning	0		J	
+wötnud	####	####				
+      	#võtnud	võt	nud		V	nud
+seest	@seest	seest	0		D	
+     	seest	seest	0		K	
+poolt	@poolt	poolt	0		D	
+     	poolt	poolt	0		K	
+     	pool	pool	t		N	sg p
+     	pool	pool	t		S	sg p
+aggerikku	####	####				
+         	#hageriku	hagerik	0		S	sg g
+ukse	ukse	uks	0		S	sg g
+lahti	@lahti	lahti	0		D	
+     	laht	laht	i		S	pl p
+.	.	.			Z	
+Mart	@Mart	Mart	0		H	sg n
+    	mart	mart	0		S	sg n
+Matson	####	####				
+      	#Matson	Matson	0		H	sg n
+räkis	####	####				
+     	#rääkis	rääki	s		V	s
+,	,	,			Z	
+et	et	et	0		J	
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+polle	####	####				
+     	#pole	ole	0		V	neg o
+mitte	mitte	mitte	0		D	
+muud	muu	muu	d		P	pl n
+    	@muud	muu	d		P	sg p
+    	muu	muu	d		S	pl n
+    	muu	muu	d		S	sg p
+    	muu	muu	d		V	d
+waia	vai	vai	0		S	adt
+    	vai	vai	0		S	sg g
+    	vai	vai	0		S	sg p
+    	vaia	vaia	0		V	o
+    	£vaja	vaja	0		D	
+leidnud	leid=nud	leid=nud	0		A	
+       	leid=nud	leid=nud	0		A	sg n
+       	leid=nu	leid=nu	d		S	pl n
+       	leid=nud	leid=nud	d		A	pl n
+       	@leidnud	leid	nud		V	nud
+kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+Kleid	####	####				
+     	#kleit	kleit	0		S	sg n
+,	,	,			Z	
+mis	mis	mis	0		P	pl n
+   	@mis	mis	0		P	sg n
+3	3	3	0		N	?
+rubla	rubla	rubla	0		S	sg g
+     	rubla	rubla	0		S	sg n
+     	@rubla	rubla	0		S	sg p
+wäärt	väärt	väärt	0		A	
+     	@väärt	väärt	0		D	
+,	,	,			Z	
+mu	mina	mina	0		P	sg g
+  	£muu	muu	0		P	sg n
+assi	ass	ass	0		S	adt
+    	ass	ass	0		S	sg g
+    	ass	ass	0		S	sg p
+    	£asi	asi	0		S	sg n
+olnud	ol=nud	ol=nud	0		A	
+     	ol=nud	ol=nud	0		A	sg n
+     	ol=nud	ol=nud	d		A	pl n
+     	@olnud	ole	nud		V	nud
+     	olnu	olnu	d		S	pl n
+keik	####	####				
+    	kõik	kõik	0		P	pl n
+    	#kõik	kõik	0		P	sg n
+polele	####	####				
+      	#pooleli	pooleli	0		D	
+prugitud	####	####				
+        	#pruugitud	pruuki	tud		V	tud
+ja	ja	ja	0		J	
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+woinud	####	####				
+      	#võinud	või	nud		V	nud
+mitte	mitte	mitte	0		D	
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+lihhast	####	####				
+       	#lihast	liha	st		S	sg el
+ega	ega	ega	0		D	
+   	@ega	ega	0		J	
+silgust	silgune	silgune	t		A	sg p
+       	@silgust	silk	st		S	sg el
+arro	####	####				
+    	#aru	aru	0		S	sg p
+saada	@saada	saa	da		V	da
+     	saa	saa	da		V	ta
+     	saat	saat	0		V	o
+,	,	,			Z	
+kas	kas	kas	0		D	
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+wöetud	####	####				
+      	#võetud	võt	tud		V	tud
+,	,	,			Z	
+ehk	ehk	ehk	0		D	
+   	@ehk	ehk	0		J	
+mitte	mitte	mitte	0		D	
+.	.	.			Z	
+Jürri	####	####				
+     	#Jüri	Jürri	0		H	sg n
+Pusep	####	####				
+     	#Puusepp	Pusep	0		H	sg n
+ettekutsutud	ette_kutsutud	ette_kutsutud	0		A	
+            	ette_kutsutud	ette_kutsutud	0		A	sg n
+            	ette_kutsutu	ette_kutsutu	d		S	pl n
+            	ette_kutsutud	ette_kutsutud	d		A	pl n
+            	£ettekutsutud	ette_kutsu	tud		V	tud
+,	,	,			Z	
+räkis	####	####				
+     	#rääkis	rääki	s		V	s
+,	,	,			Z	
+et	et	et	0		J	
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+polle	####	####				
+     	#pole	ole	0		V	neg o
+mitte	mitte	mitte	0		D	
+muido	####	####				
+     	#muidu	muidu	0		D	
+aita	@aita	ait	0		S	adt
+    	ait	ait	0		S	sg p
+    	aita	aita	0		V	o
+läinud	läinud	läinud	0		A	
+      	läinud	läinud	0		A	sg n
+      	läinu	läinu	d		S	pl n
+      	läinud	läinud	d		A	pl n
+      	@läinud	mine	nud		V	nud
+,	,	,			Z	
+kuiet	####	####				
+     	#kui_et	kui_et	0		J	
+Mart	@Mart	Mart	0		H	sg n
+    	mart	mart	0		S	sg n
+Matsoni	####	####				
+       	#Matsoni	Matson	0		H	sg g
+poeg	poeg	poeg	0		S	sg n
+enne	@enne	enne	0		D	
+    	enne	enne	0		K	
+    	enne	enne	0		S	sg n
+sisse	@sisse	sisse	0		D	
+     	sisse	sisse	0		K	
+     	siss	siss	e		S	pl p
+ollema	####	####				
+      	#olema	ole	ma		V	ma
+läinud	läinud	läinud	0		A	
+      	läinud	läinud	0		A	sg n
+      	läinu	läinu	d		S	pl n
+      	läinud	läinud	d		A	pl n
+      	@läinud	mine	nud		V	nud
+,	,	,			Z	
+siis	@siis	siis	0		D	
+    	siis	siis	0		J	
+ollema	####	####				
+      	#olema	ole	ma		V	ma
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+kül	####	####				
+   	#küll	küll	0		D	
+kattuksest	katt_uks	katt_uks	st		S	sg el
+          	£katusest	katus	st		S	sg el
+sisse	@sisse	sisse	0		D	
+     	sisse	sisse	0		K	
+     	siss	siss	e		S	pl p
+läinud	läinud	läinud	0		A	
+      	läinud	läinud	0		A	sg n
+      	läinu	läinu	d		S	pl n
+      	läinud	läinud	d		A	pl n
+      	@läinud	mine	nud		V	nud
+ja	ja	ja	0		J	
+ühhed	####	####				
+     	#ühed	üks	d		N	pl n
+Kleid	####	####				
+     	#kleit	kleit	0		S	sg n
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+tonud	####	####				
+     	#toonud	too	nud		V	nud
+ja	ja	ja	0		J	
+ärra	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+winud	vinu	vinu	d		S	pl n
+     	£viinud	vii	nud		V	nud
+.	.	.			Z	
+Peale	peale	peale	0		D	
+     	@peale	peale	0		K	
+     	pea	pea	le		S	sg all
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+ollema	####	####				
+      	#olema	ole	ma		V	ma
+Jürri	####	####				
+     	#Jüri	Jürri	0		H	sg n
+Pusep	####	####				
+     	#Puusepp	Pusep	0		H	sg n
+ärra	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+wötnud	####	####				
+      	#võtnud	võt	nud		V	nud
+keik	####	####				
+    	kõik	kõik	0		P	pl n
+    	#kõik	kõik	0		P	sg n
+surnud	@surnud	sure	nud		V	nud
+      	surnud	surnud	0		A	
+      	surnud	surnud	0		A	sg n
+      	surnu	surnu	d		S	pl n
+      	surnud	surnud	d		A	pl n
+Mart	@Mart	Mart	0		H	sg n
+    	mart	mart	0		S	sg n
+Matsoni	####	####				
+       	#Matsoni	Matson	0		H	sg g
+naese	####	####				
+     	#naise	naine	0		S	sg g
+rided	####	####				
+     	#riided	riie	d		S	pl n
+ärra	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+wötnud	####	####				
+      	#võtnud	võt	nud		V	nud
+:	:	:			Z	
+4	4	4	0		N	?
+särki	särk	särk	0		S	adt
+     	@särki	särk	0		S	sg p
+ja	ja	ja	0		J	
+mitmesuggused	####	####				
+             	#mitmesugused	mitme_sugune	d		P	pl n
+penemad	####	####				
+       	#peenemad	peenem	d		C	pl n
+kramid	####	####				
+      	#kraamid	kraam	d		S	pl n
+,	,	,			Z	
+3	3	3	0		N	?
+rättikud	####	####				
+        	#rätikut	rätik	d		S	sg p
+,	,	,			Z	
+2	2	2	0		N	?
+wööd	vöö	vöö	d		S	pl n
+    	v@ööd	vöö	d		S	sg p
+,	,	,			Z	
+1	1	1	0		N	?
+kortsik	kortsik	kortsik	0		S	sg n
+.	.	.			Z	
+Peale	peale	peale	0		D	
+     	@peale	peale	0		K	
+     	pea	pea	le		S	sg all
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+ollema	####	####				
+      	#olema	ole	ma		V	ma
+Jürri	####	####				
+     	#Jüri	Jürri	0		H	sg n
+minnewa	####	####				
+       	#mineva	mine	va		V	v sg g
+kewwade	####	####				
+       	#kevade	kevad	0		S	sg g
+5	5	5	0		N	?
+wakka	vakk	vakk	0		S	adt
+     	vakk	vakk	0		S	sg p
+     	vakka	vakka	0		D	
+     	vakka	vakk	0		S	adt
+     	@vakka	vakk	0		S	sg p
+rukkid	rukis	rukis	d		S	pl n
+      	£rukkeid	rukis	d		S	pl p
+ja	ja	ja	0		J	
+6	6	6	0		N	?
+wakka	vakk	vakk	0		S	adt
+     	vakk	vakk	0		S	sg p
+     	vakka	vakka	0		D	
+     	vakka	vakk	0		S	adt
+     	@vakka	vakk	0		S	sg p
+odre	####	####				
+    	#odrad	oder	e		S	pl p
+sanud	####	####				
+     	#saanud	saa	nud		V	nud
+,	,	,			Z	
+agga	####	####				
+    	#aga	aga	0		J	
+nüüd	nüüd	nüüd	0		D	
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+nöudma	####	####				
+      	#nõudma	nõud	ma		V	ma
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+sedda	####	####				
+     	#seda	see	da		P	sg p
+taggasi	####	####				
+       	#tagasi	tagasi	0		D	
+       	tagasi	tagasi	0		K	
+,	,	,			Z	
+et	et	et	0		J	
+Jürri	####	####				
+     	#Jüri	Jürri	0		H	sg n
+nisuggused	####	####				
+          	#niisugused	nii_sugune	d		P	pl n
+tükkid	####	####				
+      	#tükid	tükk	d		S	pl n
+teeb	teeb	tege	b		V	b
+.	.	.			Z	
+Moisteti	####	####				
+        	#mõisteti	mõist	ti		V	ti
+:	:	:			Z	
+Et	et	et	0		J	
+Jürri	####	####				
+     	#Jüri	Jürri	0		H	sg n
+Pusep	####	####				
+     	#Puusepp	Pusep	0		H	sg n
+peab	peab	pida	b		V	b
+Kleid	####	####				
+      	#kleit	kleit	0		S	sg n
+,	,	,			Z	
+särgid	särgid	särk	d		S	pl n
+ja	ja	ja	0		J	
+keik	####	####				
+    	kõik	kõik	0		P	pl n
+    	#kõik	kõik	0		P	sg n
+kraam	kraam	kraam	0		S	sg n
+,	,	,			Z	
+mis	mis	mis	0		P	pl n
+   	@mis	mis	0		P	sg n
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+isse	####	####				
+    	#ise	ise	0		P	sg n
+    	ise	ise	0		D	
+    	ise	ise	0		P	pl n
+wötnud	####	####				
+      	#võtnud	võt	nud		V	nud
+Mart	@Mart	Mart	0		H	sg n
+    	mart	mart	0		S	sg n
+Matsonil	####	####				
+        	#Matsonile	Matson	l		H	sg ad
+taggasi	####	####				
+       	#tagasi	tagasi	0		D	
+       	tagasi	tagasi	0		K	
+andma	andma	and	ma		V	ma
+,	,	,			Z	
+ja	ja	ja	0		J	
+nimmelt	nimme	nimme	lt		S	sg abl
+       	@nimelt	nimelt	0		D	
+ilma	ilm	ilm	0		S	adt
+    	ilm	ilm	0		S	sg g
+    	ilm	ilm	0		S	sg p
+    	ilma	ilma	0		D	
+    	@ilma	ilma	0		K	
+wibimatta	####	####				
+         	#viibimata	viibi	mata		V	mata
+,	,	,			Z	
+emma	####	####				
+    	#ema	ema	0		S	sg g
+rided	####	####				
+     	#riided	riie	d		S	pl n
+,	,	,			Z	
+surnud	@surnud	sure	nud		V	nud
+      	surnud	surnud	0		A	
+      	surnud	surnud	0		A	sg n
+      	surnu	surnu	d		S	pl n
+      	surnud	surnud	d		A	pl n
+naese	####	####				
+     	#naise	naine	0		S	sg g
+rided	####	####				
+     	#riided	riie	d		S	pl n
+.	.	.			Z	
+Peale	peale	peale	0		D	
+     	@peale	peale	0		K	
+     	pea	pea	le		S	sg all
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+saab	saab	saa	b		V	b
+Jürri	####	####				
+     	#Jüri	Jürri	0		H	sg n
+Pusep	####	####				
+     	#Puusepp	Pusep	0		H	sg n
+25	25	25	0		N	?
+hopi	####	####				
+    	#hoopi	hoop	0		S	sg p
+witsad	vits	vits	d		S	pl n
+      	£vitsa	vits	d		S	sg p
+kleide	####	####				
+      	#kleidi	kleit	0		S	sg g
+warguse	varguse	vargus	0		S	sg g
+ja	ja	ja	0		J	
+kattukse	katt_uks	katt_uks	0		S	sg g
+        	£katuse	katus	0		S	sg g
+löhkumisse	####	####				
+          	#lõhkumise	lõhkumine	0		S	sg g
+eest	eest	eest	0		D	
+    	@eest	eest	0		K	
+    	esi	esi	st		S	sg el
+ja	ja	ja	0		J	
+maksab	maksab	maks	b		V	b
+Ewa	Ewa	Ewa	0		H	sg g
+   	@Eva	Ewa	0		H	sg n
+Aunapole	####	####				
+        	#Õunapuule	Ounapu	le		H	sg all
+1	1	1	0		N	?
+rubla	@rubla	rubla	0		S	sg g
+     	rubla	rubla	0		S	sg n
+     	rubla	rubla	0		S	sg p
+kattukse	katt_uks	katt_uks	0		S	sg g
+        	£katuse	katus	0		S	sg g
+eest	eest	eest	0		D	
+    	@eest	eest	0		K	
+    	esi	esi	st		S	sg el
+.	.	.			Z	
+Palwe	@palve	palve	0		S	sg g
+     	palve	palve	0		S	sg n
+peale	peale	peale	0		D	
+     	@peale	peale	0		K	
+     	pea	pea	le		S	sg all
+maksis	maksis	maks	is		V	s
+5	5	5	0		N	?
+rubla	rubla	rubla	0		S	sg g
+     	rubla	rubla	0		S	sg n
+     	@rubla	rubla	0		S	sg p
+trahwi	trahv	trahv	0		S	adt
+      	trahv	trahv	0		S	sg g
+      	trahv	trahv	0		S	sg p
+      	trahvi	trahvi	0		V	o
+      	trahvi	trahv	0		S	adt
+      	@trahvi	trahv	0		S	sg p
+      	trahvi	trahv	0		S	sg g
+.	.	.			Z	

@@ -10,10 +10,10 @@ def extract_annotations(no_goldstandard_annotations, trained_files_location, tes
     test = list()
     
     if file.endswith('.json') and file not in no_goldstandard_annotations:
-        with open(os.path.join(trained_files_location, file), 'r', encoding='UTF-8') as f_test, \
-             open(os.path.join(testing_files_location, file), 'r', encoding='UTF-8') as f_gold:
-                test_import = json_to_text(f_test.read())
-                gold_import = json_to_text(f_gold.read())
+        with open(os.path.join(trained_files_location, file), 'r', encoding='UTF-8') as f_test:
+            test_import = json_to_text(f_test.read())
+        with open(os.path.join(testing_files_location, file), 'r', encoding='UTF-8') as f_gold:
+            gold_import = json_to_text(f_gold.read())
 
         for i in range(len(gold_import['gold_ner'])):
             ner = gold_import['gold_ner'][i]
@@ -39,8 +39,8 @@ def extract_results(model_dir, files, no_goldstandard_annotations, trained_files
         
         for file in [key for key, value in files.items()]:
             gold, test = extract_annotations(no_goldstandard_annotations, trained_files_location, testing_files_location, file)
-            results_gold += gold
-            results_test += test
+            gold_ner.append(gold)
+            test_ner.append(test)
         
         evaluator = Evaluator(gold_ner, test_ner, tags=['ORG', 'PER', 'MISC', 'LOC', 'LOC_ORG'])
         results, results_per_tag = evaluator.evaluate()
@@ -120,23 +120,18 @@ def results_by_subdistribution(results_json, files):
     
     return results_df
 
-def results_by_named_entity(results_json, files):
-    data = dict()
-    totals = dict()
-
-    for subdistribution in sorted(set(files.values())):
-        by_kind = dict()
-        
-        for key in list(results_json[subdistribution][1].keys()):
-            correct_all = 0
-            actual_all = 0
-            possible_all = 0
-            
-            correct = results_json[subdistribution][1][str(key)]['strict']['correct']
+def results_by_named_entity_key(results_json, subdistribution, one_distr):
+    by_kind = dict()
+    correct_all = 0
+    actual_all = 0
+    possible_all = 0
+    if one_distr:
+        for key in list(results_json[1].keys()):
+            correct = results_json[1][str(key)]['strict']['correct']
             correct_all += correct
-            actual = results_json[subdistribution][1][str(key)]['strict']['actual']
+            actual = results_json[1][str(key)]['strict']['actual']
             actual_all += actual
-            possible = results_json[subdistribution][1][str(key)]['strict']['possible']
+            possible = results_json[1][str(key)]['strict']['possible']
             possible_all += possible
             
             precision = (correct / actual)
@@ -146,8 +141,34 @@ def results_by_named_entity(results_json, files):
             by_kind[str(key) + "_precision"] = precision
             by_kind[str(key) + "_recall"] = recall
             by_kind[str(key) + "_f1score"] = f1
-        
-        data[str(subdistribution)] = by_kind
+
+    else:    
+        for key in list(results_json[subdistribution][1].keys()):
+            correct = results_json[subdistribution][1][str(key)]['strict']['correct']
+            correct_all += correct
+            actual = results_json[subdistribution][1][str(key)]['strict']['actual']
+            actual_all += actual
+            possible = results_json[subdistribution][1][str(key)]['strict']['possible']
+            possible_all += possible
+
+            precision = (correct / actual)
+            recall = (correct / possible)
+            f1 = 2 * ((precision * recall) / (precision + recall))
+
+            by_kind[str(key) + "_precision"] = precision
+            by_kind[str(key) + "_recall"] = recall
+            by_kind[str(key) + "_f1score"] = f1
+    return by_kind
+
+def results_by_named_entity(results_json, files):
+    data = dict()
+    totals = dict()
+
+    for subdistribution in sorted(set(files.values())):
+        if len(set(files.values())) == 1:
+            data[str(subdistribution)] = results_by_named_entity_key(results_json, subdistribution, one_distr = True)
+        else:
+            data[str(subdistribution)] = results_by_named_entity_key(results_json, subdistribution, one_distr = False)
 
     for key, value in data.items():
         for name, score in value.items():
@@ -165,7 +186,7 @@ def results_by_named_entity(results_json, files):
     
     return results_df
     
-def confusion_matrix(model_dir, files):
+def confusion_matrix(model_dir, files, no_goldstandard_annotations, trained_files_location, testing_files_location):
     gold_ner = []
     test_ner = []
 

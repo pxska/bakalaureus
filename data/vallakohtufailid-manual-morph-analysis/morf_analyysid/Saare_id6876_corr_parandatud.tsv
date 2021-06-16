@@ -1,0 +1,1014 @@
+Tennasel	####	####				
+        	#tänasel	tänane	l		A	sg ad
+päwal	####	####				
+     	#päeval	päev	l		S	sg ad
+laskis	laskis	lask	is		V	s
+Mart	@Mart	Mart	0		H	sg n
+    	mart	mart	0		S	sg n
+Pank	pank	pank	0		S	sg n
+    	£Pank	Pank	0		H	sg n
+omma	####	####				
+    	#oma	oma	0		P	sg g
+    	on	ole	0		V	vad
+puumaa	puu_maa	puu_maa	0		S	sg g
+      	puu_maa	puu_maa	0		S	sg n
+      	£talukoha	puu_maa	0		S	sg g
+warra	####	####				
+     	#vara	vara	0		S	sg g
+ülles	####	####				
+     	#üles	üles	0		D	
+kirjuta	kirjuta	kirjuta	0		V	o
+       	kirju	kirju	ta		A	sg ab
+       	£kirjutada	kirjuta	0		V	da
+1	1	1	0		N	?
+Puumaa	puu_maa	puu_maa	0		S	sg g
+      	puu_maa	puu_maa	0		S	sg n
+      	£talukoht	puu_maa	0		S	sg n
+raud	raud	raud	0		S	sg n
+warraks	####	####				
+       	#varaks	vara	ks		S	sg tr
+sinnise	####	####				
+       	#sinise	sinine	0		A	sg g
+hail	hai	hai	l		S	sg ad
+    	¤					
+mära	mära	mära	0		S	sg g
+    	@mära	mära	0		S	sg n
+    	mära	mära	0		S	sg p
+hobbune	####	####				
+       	#hobune	hobune	0		S	sg n
+5	5	5	0		N	?
+aastane	aastane	aastane	0		A	sg n
+musta	must	must	0		A	adt
+     	@musta	must	0		A	sg g
+     	must	must	0		A	sg p
+     	must	must	0		S	adt
+     	must	must	0		S	sg g
+     	must	must	0		S	sg p
+     	musta	musta	0		V	o
+keut	####	####				
+    	¤					
+härg	härg	härg	0		S	sg n
+5	5	5	0		N	?
+aastane	aastane	aastane	0		A	sg n
+.	.	.			Z	
+Mart	@Mart	Mart	0		H	sg n
+    	mart	mart	0		S	sg n
+laskis	laskis	lask	is		V	s
+omma	####	####				
+    	#oma	oma	0		P	sg g
+    	on	ole	0		V	vad
+naese	####	####				
+     	#naise	naine	0		S	sg g
+Mariule	####	####				
+       	#Marjule	Mariu	le		H	sg all
+panne	pann	pann	e		S	pl p
+     	£pane	pane	0		V	o
+kolme	kolm	kolm	0		N	adt
+     	@kolme	kolm	0		N	sg g
+     	kolm	kolm	0		N	sg p
+astane	####	####				
+      	#aastane	aastane	0		A	sg n
+härg	härg	härg	0		S	sg n
+mis	mis	mis	0		P	pl n
+   	@mis	mis	0		P	sg n
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+Maie	@Maie	Maie	0		H	sg g
+    	Maie	Maie	0		H	sg n
+ouest	####	####				
+     	#õuest	õu	st		S	sg el
+kasa	####	####				
+    	#kaasa	kaasa	0		D	
+tonud	####	####				
+     	#toonud	too	nud		V	nud
+Mardi	@Mardi	Mart	0		H	sg g
+     	mart	mart	0		S	sg g
+omma	####	####				
+    	#oma	oma	0		P	sg g
+    	on	ole	0		V	vad
+jäuks	####	####				
+     	#jaoks	jaoks	0		K	
+1	1	1	0		N	?
+aastane	aastane	aastane	0		A	sg n
+mullik	mul=lik	mul=lik	0		A	sg n
+      	£mullikas	mullik	0		S	sg n
+teist	sina	sina	st		P	pl el
+     	tee	tee	ist		S	pl el
+     	@teist	teine	t		O	sg p
+     	teine	teine	t		P	sg p
+     	teist	teist	0		D	
+keib	####	####				
+    	#käib	käi	b		V	b
+3	3	3	0		N	?
+härga	härg	härg	0		S	adt
+     	@härga	härg	0		S	sg p
+1	1	1	0		N	?
+must	mina	mina	st		P	sg el
+    	@must	must	0		A	sg n
+    	must	must	0		S	sg n
+härg	härg	härg	0		S	sg n
+10	10	10	0		N	?
+aastat	aastat	aasta	t		S	sg p
+wanna	####	####				
+     	#vana	vana	0		A	sg n
+     	vana	vana	0		A	sg g
+     	vana	vana	0		A	sg p
+     	vana	vana	0		S	sg n
+     	vana	vana	0		S	sg g
+     	vana	vana	0		S	sg p
+1	1	1	0		N	?
+ruske	ruske	ruske	0		A	sg g
+     	@ruske	ruske	0		A	sg n
+     	rusk	rusk	e		S	pl p
+keut	####	####				
+    	¤					
+8	8	8	0		N	?
+aastat	aastat	aasta	t		S	sg p
+wanna	####	####				
+     	#vana	vana	0		A	sg n
+     	vana	vana	0		A	sg g
+     	vana	vana	0		A	sg p
+     	vana	vana	0		S	sg n
+     	vana	vana	0		S	sg g
+     	vana	vana	0		S	sg p
+1	1	1	0		N	?
+walge	valge	valge	0		A	sg g
+     	@valge	valge	0		A	sg n
+     	valge	valge	0		S	sg g
+     	valge	valge	0		S	sg n
+3	3	3	0		N	?
+aastane	aastane	aastane	0		A	sg n
+neljast	neli	neli	st		N	sg el
+       	neljane	neljane	t		A	sg p
+       	£neljandat	neljas	t		O	sg p
+keib	####	####				
+    	#käib	käi	b		V	b
+1	1	1	0		N	?
+halli	hall	hall	0		A	adt
+     	@hall	hall	0		A	sg g
+     	hall	hall	0		A	sg p
+     	hall	hall	0		S	adt
+     	hall	hall	0		S	sg g
+     	hall	hall	0		S	sg p
+keut	####	####				
+    	¤					
+lehm	lehm	lehm	0		S	sg n
+10	10	10	0		N	?
+aastat	aastat	aasta	t		S	sg p
+wanna	####	####				
+     	#vana	vana	0		A	sg n
+     	vana	vana	0		A	sg g
+     	vana	vana	0		A	sg p
+     	vana	vana	0		S	sg n
+     	vana	vana	0		S	sg g
+     	vana	vana	0		S	sg p
+1	1	1	0		N	?
+lehmit	####	####				
+      	#lehm	lehmit	0		S	sg n
+kopli	kopli	koppel	0		S	sg g
+wassik	####	####				
+      	#vasikas	vasik	0		S	sg n
+1	1	1	0		N	?
+musta	must	must	0		A	adt
+     	@musta	must	0		A	sg g
+     	must	must	0		A	sg p
+     	must	must	0		S	adt
+     	must	must	0		S	sg g
+     	must	must	0		S	sg p
+     	musta	musta	0		V	o
+lauk	lauk	lauk	0		S	sg n
+    	£lauguga	lauk	0		S	sg kom
+ruun	ruun	ruun	0		S	sg n
+hobbune	####	####				
+       	#hobune	hobune	0		S	sg n
+14	14	14	0		N	?
+aastat	aastat	aasta	t		S	sg p
+wanna	####	####				
+     	#vana	vana	0		A	sg n
+     	vana	vana	0		A	sg g
+     	vana	vana	0		A	sg p
+     	vana	vana	0		S	sg n
+     	vana	vana	0		S	sg g
+     	vana	vana	0		S	sg p
+1	1	1	0		N	?
+punnase	punn_ase	punn_ase	0		S	sg n
+       	£punase	punane	0		S	sg g
+köirb	####	####				
+     	#kõrb	kõrb	0		A	sg n
+mära	mära	mära	0		S	sg g
+    	@mära	mära	0		S	sg n
+    	mära	mära	0		S	sg p
+sälg	sälg	sälg	0		S	sg n
+1	1	1	0		N	?
+aasta	aasta	aasta	0		S	sg g
+     	@aasta	aasta	0		S	sg n
+wanna	####	####				
+     	#vana	vana	0		A	sg n
+     	vana	vana	0		A	sg g
+     	vana	vana	0		A	sg p
+     	vana	vana	0		S	sg n
+     	vana	vana	0		S	sg g
+     	vana	vana	0		S	sg p
+4	4	4	0		N	?
+sigga	####	####				
+     	#siga	siga	0		S	sg p
+,	,	,			Z	
+2	2	2	0		N	?
+aastast	@aastast	aastane	t		A	sg p
+       	aasta	aasta	st		S	sg el
+2	2	2	0		N	?
+pole	ole	ole	0		V	neg o
+    	£poole	pool	0		N	sg g
+aastast	@aastast	aastane	t		A	sg p
+       	aasta	aasta	st		S	sg el
+Seppa	sepp	sepp	0		S	adt
+     	sepp	sepp	0		S	sg p
+     	£sepa	sepp	0		S	sg g
+riistad	riistad	riist	d		S	pl n
+1	1	1	0		N	?
+suur	suur	suur	0		A	sg n
+wassar	####	####				
+      	#vasar	vasar	0		S	sg n
+8	8	8	0		N	?
+N	N	N	0		Y	?
+raske	raske	raske	0		A	sg g
+     	@raske	raske	0		A	sg n
+     	rask	rask	e		S	pl p
+45	45	45	0		N	?
+kop	kop	kop	0		Y	?
+2	2	2	0		N	?
+pissist	piss	piss	st		S	sg el
+       	£pisikest	pisine	t		A	sg p
+wassarat	####	####				
+        	#vasarat	vasar	t		S	sg p
+teine	teine	teine	0		O	sg n
+     	@teine	teine	0		P	sg n
+30	30	30	0		N	?
+kop	kop	kop	0		Y	?
+teine	teine	teine	0		O	sg n
+     	@teine	teine	0		P	sg n
+15	15	15	0		N	?
+kop	kop	kop	0		Y	?
+45	45	45	0		N	?
+kop	kop	kop	0		Y	?
+1	1	1	0		N	?
+allasi	all_asi	all_asi	0		S	sg n
+      	£alasi	alasi	0		S	sg n
+70	70	70	0		N	?
+kop	kop	kop	0		Y	?
+1	1	1	0		N	?
+pärrak	####	####				
+      	¤					
+20	20	20	0		N	?
+kop	kop	kop	0		Y	?
+90	90	90	0		N	?
+kop	kop	kop	0		Y	?
+1	1	1	0		N	?
+allasi	all_asi	all_asi	0		S	sg n
+      	£alasi	alasi	0		S	sg g
+pak	####	####				
+   	#pakk	pakk	0		S	sg n
+60	60	60	0		N	?
+kop	kop	kop	0		Y	?
+1	1	1	0		N	?
+lööts	####	####				
+     	#lõõts	lõõts	0		S	sg n
+3	3	3	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+3	3	3	0		N	?
+R	R	R	0		Y	?
+,	,	,			Z	
+60	60	60	0		N	?
+kahhed	####	####				
+      	#kahed	kaks	d		N	pl n
+seppa	sepp	sepp	0		S	adt
+     	sepp	sepp	0		S	sg p
+     	£sepa	sepp	0		S	sg g
+pihhid	####	####				
+      	#pihid	piht	d		S	pl n
+20	20	20	0		N	?
+kop	kop	kop	0		Y	?
+kahhed	####	####				
+      	#kahed	kaks	d		N	pl n
+mere	mere	meri	0		S	sg g
+pihid	@pihid	pihid	d		S	pl n
+     	piht	piht	d		S	pl n
+     	pihti	pihti	d		V	d
+50	50	50	0		N	?
+k	k	k	0		Y	?
+70	70	70	0		N	?
+4	4	4	0		N	?
+Raud	raud	raud	0		S	sg n
+kangi	kang	kang	0		S	adt
+     	kang	kang	0		S	sg g
+     	@kangi	kang	0		S	sg p
+1	1	1	0		N	?
+Rubla	rubla	rubla	0		S	sg g
+     	@rubla	rubla	0		S	sg n
+     	rubla	rubla	0		S	sg p
+2	2	2	0		N	?
+Raud	raud	raud	0		S	sg n
+lasna	####	####				
+     	#labidat	lasn	0		S	sg p
+70	70	70	0		N	?
+1	1	1	0		N	?
+R 40	R40	R40	0		Y	?
+    	£R_40	R_40	0		N	sg n
+30	30	30	0		N	?
+wikkatid	####	####				
+        	#vikatit	vikat	d		S	sg p
+6	6	6	0		N	?
+Rubla	rubla	rubla	0		S	sg g
+     	rubla	rubla	0		S	sg n
+     	@rubla	rubla	0		S	sg p
+8	8	8	0		N	?
+sirpi	sirp	sirp	0		S	adt
+     	@sirpi	sirp	0		S	sg p
+1	1	1	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+28	28	28	0		N	?
+kop	kop	kop	0		Y	?
+7	7	7	0		N	?
+R	R	R	0		Y	?
+.	.	.			Z	
+28	28	28	0		N	?
+1	1	1	0		N	?
+pakku	pakk	pakk	0		S	adt
+     	pakku	pakk	0		S	sg p
+     	£paku	pakk	0		S	sg g
+saag	saag	saag	0		S	sg n
+3	3	3	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+3	3	3	0		N	?
+"R						
+  	£"_R	"_R	0		Y	?
+2"	R2	R2	0		Y	?
+  	£2_"	2_"	0		J	
+pissist	piss	piss	st		S	sg el
+       	£pisikest	pisine	t		A	sg p
+hamidega	####	####				
+        	¤					
+sagi	sagi	sagi	0		V	o
+    	sina	sina	0	gi	P	sg n
+    	£saagi	saag	0		S	sg p
+teine	teine	teine	0		O	sg n
+     	@teine	teine	0		P	sg n
+45	45	45	0		N	?
+teine	teine	teine	0		O	sg n
+     	@teine	teine	0		P	sg n
+15	15	15	0		N	?
+kop	kop	kop	0		Y	?
+60	60	60	0		N	?
+2	2	2	0		N	?
+ööwlid	####	####				
+      	#höövlit	höövel	d		S	sg p
+teine	teine	teine	0		O	sg n
+     	@teine	teine	0		P	sg n
+härg	härg	härg	0		S	sg n
+ööwel	####	####				
+     	#höövel	höövel	0		S	sg n
+55	55	55	0		N	?
+kop	kop	kop	0		Y	?
+teine	teine	teine	0		O	sg n
+     	@teine	teine	0		P	sg n
+kassi	kass	kass	0		S	adt
+     	kass	kass	0		S	sg g
+     	kass	kass	0		S	sg p
+     	£käsi	käsi	0		S	sg n
+ööwel	####	####				
+     	#höövel	höövel	0		S	sg n
+55	55	55	0		N	?
+kop	kop	kop	0		Y	?
+1	1	1	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+10	10	10	0		N	?
+9	9	9	0		N	?
+Kirwest	kirves	kirves	st		S	sg el
+       	@kirvest	kirves	t		S	sg p
+1	1	1	0		N	?
+Rubla	rubla	rubla	0		S	sg g
+     	@rubla	rubla	0		S	sg n
+     	rubla	rubla	0		S	sg p
+4	4	4	0		N	?
+pöiklid	####	####				
+       	#peitlit	pöikel	d		S	sg p
+1	1	1	0		N	?
+niinmeeter	niin_meeter	niin_meeter	0		S	sg n
+          	£niimeister	niimeister	0		S	sg n
+50	50	50	0		N	?
+k	k	k	0		Y	?
+1	1	1	0		N	?
+R 50	R50	R50	0		Y	?
+    	£R_50	R_50	0		N	?
+2	2	2	0		N	?
+ölle	####	####				
+    	#õlle	õlu	0		S	sg g
+tört	####	####				
+    	#tõrt	tõrs	t		S	sg p
+,	,	,			Z	
+6	6	6	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+arwatud	arva=tud	arva=tud	0		A	
+       	arva=tud	arva=tud	0		A	sg n
+       	arva=tu	arva=tu	d		S	pl n
+       	arva=tud	arva=tud	d		A	pl n
+       	@arvatud	arva	tud		V	tud
+6	6	6	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+10	10	10	0		N	?
+ölle	####	####				
+    	#õlle	õlu	0		S	sg g
+kehha	####	####				
+     	#vaati	keha	0		S	sg p
+,	,	,			Z	
+2	2	2	0		N	?
+tükki	tükk	tükk	0		S	adt
+     	@tükki	tükk	0		S	sg p
+     	tükki	tükki	0		D	
+80	80	80	0		N	?
+tobist	tobi	tobi	st		S	sg el
+      	£toobist	toobine	t		A	sg p
+1	1	1	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+60	60	60	0		N	?
+kop	kop	kop	0		Y	?
+jälle	jälle	jälle	0		D	
+2	2	2	0		N	?
+kehha	####	####				
+     	#vaati	keha	0		S	sg p
+teine	teine	teine	0		O	sg n
+     	@teine	teine	0		P	sg n
+60	60	60	0		N	?
+topi	topp	topp	0		S	sg g
+    	toppi	toppi	0		V	o
+    	£toopi	toop	0		S	sg p
+teine	teine	teine	0		O	sg n
+     	@teine	teine	0		P	sg n
+35	35	35	0		N	?
+topi	topp	topp	0		S	sg g
+    	toppi	toppi	0		V	o
+    	£toopi	toop	0		S	sg p
+1	1	1	0		N	?
+rub	####	####				
+   	rubl	rubl	0		Y	?
+   	#rub	rub	0		Y	?
+6	6	6	0		N	?
+tükki	tükk	tükk	0		S	adt
+     	@tükki	tükk	0		S	sg p
+     	tükki	tükki	0		D	
+30me	####	####				
+    	#30	30	0		N	sg g
+tobelist	####	####				
+        	#toobist	toobiline	t		S	sg p
+3	3	3	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+1	1	1	0		N	?
+kolme	kolm	kolm	0		N	adt
+     	@kolme	kolm	0		N	sg g
+     	kolm	kolm	0		N	sg p
+wakkane	####	####				
+       	#vakane	vakane	0		A	sg n
+kalla	kalla	kalla	0		S	sg g
+     	kalla	kalla	0		S	sg n
+     	kalla	kalla	0		V	o
+     	£kalja	kali	0		S	sg g
+kehha	####	####				
+     	#vaat	keha	0		S	sg n
+1	1	1	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+3	3	3	0		N	?
+kalla	kalla	kalla	0		S	sg g
+     	kalla	kalla	0		S	sg n
+     	kalla	kalla	0		V	o
+     	£kalja	kali	0		S	sg g
+kehha	####	####				
+     	#vaati	keha	0		S	sg p
+tamest	####	####				
+      	#tammest	tamm	st		S	sg el
+3	3	3	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+2	2	2	0		N	?
+kaapso	####	####				
+      	#kapsa	kapsas	0		S	sg g
+kehha	####	####				
+     	#vaati	keha	0		S	sg p
+teine	teine	teine	0		O	sg n
+     	@teine	teine	0		P	sg n
+1	1	1	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+teine	teine	teine	0		O	sg n
+     	@teine	teine	0		P	sg n
+1	1	1	0		N	?
+/	/	/			Z	
+2	2	2	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+,	,	,			Z	
+1	1	1	0		N	?
+R 50	R50	R50	0		Y	?
+    	£R_50	R_50	0		N	?
+k	k	k	0		Y	?
+2	2	2	0		N	?
+wilja	vili	vili	0		S	adt
+     	vili	vili	0		S	sg g
+     	vili	vili	0		S	sg p
+     	vilja	vili	0		S	adt
+     	@vilja	vili	0		S	sg g
+     	vilja	vili	0		S	sg p
+kirsto	####	####				
+      	#kirstu	kirst	0		S	sg p
+teine	teine	teine	0		O	sg n
+     	@teine	teine	0		P	sg n
+2	2	2	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+teine	teine	teine	0		O	sg n
+     	@teine	teine	0		P	sg n
+1	1	1	0		N	?
+R 50	R50	R50	0		Y	?
+    	£R_50	R_50	0		N	?
+k	k	k	0		Y	?
+,	,	,			Z	
+3	3	3	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+50	50	50	0		N	?
+uhhed	####	####				
+     	#ühed	üks	d		N	pl n
+ued	####	####				
+   	#uued	uus	d		A	pl n
+pari	pari	pari	0		S	sg g
+    	pari	pari	0		S	sg n
+    	pari	pari	0		S	sg p
+    	£paari	paar	0		N	sg g
+ellajatte	####	####				
+         	#elajate	elajas	tte		S	pl g
+raud	raud	raud	0		S	sg n
+Rattad	rattad	ratas	d		S	pl n
+8	8	8	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+teised	teine	teine	d		O	pl n
+      	@teised	teine	d		P	pl n
+wannad	####	####				
+      	#vanad	vana	d		A	pl n
+pari	pari	pari	0		S	sg g
+    	pari	pari	0		S	sg n
+    	pari	pari	0		S	sg p
+    	£paari	paar	0		N	sg g
+ellajate	####	####				
+        	#elajate	elajas	te		S	pl g
+raud	raud	raud	0		S	sg n
+ratt	####	####				
+    	#ratt	ratt	0		Y	?
+3	3	3	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+kolmanda	kolmanda	kolmas	0		O	sg g
+wannad	####	####				
+      	#vanad	vana	d		A	pl n
+pari	pari	pari	0		S	sg g
+    	pari	pari	0		S	sg n
+    	pari	pari	0		S	sg p
+    	£paari	paar	0		N	sg g
+ellajate	####	####				
+        	#elajate	elajas	te		S	pl g
+raud	raud	raud	0		S	sg n
+rattad	rattad	ratas	d		S	pl n
+3	3	3	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+ühhed	####	####				
+     	#ühed	üks	d		N	pl n
+ühhe	####	####				
+    	ühe	ühe	0		S	sg n
+    	#ühe	üks	0		N	sg g
+    	ühe	üks	0		P	sg g
+obbuse	####	####				
+      	#hobuse	hobune	0		S	sg g
+Raud	raud	raud	0		S	sg n
+rattad	rattad	ratas	d		S	pl n
+6	6	6	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+2	2	2	0		N	?
+ohherdid	####	####				
+        	#lusikpuuri	oherdit	d		S	sg p
+30	30	30	0		N	?
+kop	kop	kop	0		Y	?
+törwast	####	####				
+       	#tõrvast	tõrvane	t		A	sg p
+heiba	####	####				
+     	¤					
+köit	köit	köis	t		S	sg p
+100	100	100	0		N	?
+sülda	süld	süld	0		S	adt
+     	@sülda	süld	0		S	sg p
+4	4	4	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+niin	niin	niin	0		S	sg n
+heina	hein	hein	0		S	adt
+     	@heina	hein	0		S	sg g
+     	hein	hein	0		S	sg p
+köit	köit	köis	t		S	sg p
+130	130	130	0		N	?
+sülda	süld	süld	0		S	adt
+     	@sülda	süld	0		S	sg p
+1	1	1	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+90	90	90	0		N	?
+k	k	k	0		Y	?
+3	3	3	0		N	?
+rantsi	####	####				
+      	¤					
+rüssad	####	####				
+      	¤					
+15	15	15	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+3	3	3	0		N	?
+rüssa	####	####				
+     	¤					
+tura	####	####				
+    	¤					
+50	50	50	0		N	?
+k	k	k	0		Y	?
+1	1	1	0		N	?
+Rössa	####	####				
+     	¤					
+püri	pürgi	pürgi	0		V	o
+    	¤					
+raggi	####	####				
+     	¤					
+25	25	25	0		N	?
+kop	kop	kop	0		Y	?
+1	1	1	0		N	?
+Rössa	####	####				
+     	¤					
+püü	püü	püü	0		S	sg g
+   	püü	püü	0		S	sg n
+   	¤					
+ankur	ankur	ankur	0		S	sg n
+25	25	25	0		N	?
+kop	kop	kop	0		Y	?
+1	1	1	0		N	?
+4ja	####	####				
+   	#4	4	0		N	sg g
+mehhe	####	####				
+     	#mehe	mees	0		S	sg g
+Räim	räim	räim	0		S	sg n
+wörgo	####	####				
+     	#võrgu	võrk	0		S	sg g
+laew	laev	laev	0		S	sg n
+1	1	1	0		N	?
+jäggu	####	####				
+     	#jagu	jagu	0		S	sg n
+5	5	5	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+1	1	1	0		N	?
+ühhe	####	####				
+    	ühe	ühe	0		S	sg n
+    	ühe	üks	0		N	sg g
+    	#ühe	üks	0		P	sg g
+mehhe	####	####				
+     	#mehe	mees	0		S	sg g
+Rössa	####	####				
+     	¤					
+püü	püü	püü	0		S	sg g
+   	püü	püü	0		S	sg n
+   	¤					
+paet	####	####				
+    	#paat	paat	0		S	sg n
+5	5	5	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+10	10	10	0		N	?
+lesta	lest	lest	0		S	adt
+     	@lesta	lest	0		S	sg g
+     	lest	lest	0		S	sg p
+wörku	####	####				
+     	#võrku	võrk	0		S	sg p
+59kop	####	####				
+     	#59_kop	59_kop	0		Y	?
+tükk	tükk	tükk	0		S	sg n
+summa	summ	summ	0		S	adt
+     	summ	summ	0		S	sg g
+     	summ	summ	0		S	sg p
+     	summa	summa	0		S	sg g
+     	@summa	summa	0		S	sg n
+5	5	5	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+13	13	13	0		N	?
+Räim	räim	räim	0		S	sg n
+wörku	####	####				
+     	#võrku	võrk	0		S	sg p
+1	1	1	0		N	?
+Rubla	rubla	rubla	0		S	sg g
+     	@rubla	rubla	0		S	sg n
+     	rubla	rubla	0		S	sg p
+50	50	50	0		N	?
+kop	kop	kop	0		Y	?
+tük	####	####				
+   	#tükk	tükk	0		S	sg n
+19	19	19	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+50	50	50	0		N	?
+kop	kop	kop	0		Y	?
+2	2	2	0		N	?
+wilja	vili	vili	0		S	adt
+     	vili	vili	0		S	sg g
+     	vili	vili	0		S	sg p
+     	vilja	vili	0		S	adt
+     	@vilja	vili	0		S	sg g
+     	vilja	vili	0		S	sg p
+kotti	kott	kott	0		S	adt
+     	@kotti	kott	0		S	sg p
+     	kotti	kotti	0		D	
+     	kott	kott	i		S	pl p
+20	20	20	0		N	?
+tük	####	####				
+   	#tükk	tükk	0		S	sg n
+40	40	40	0		N	?
+kop	kop	kop	0		Y	?
+5	5	5	0		N	?
+kattelt	kate	kate	lt		S	sg abl
+       	£katelt	katel	t		S	sg p
+1	1	1	0		N	?
+16	16	16	0		N	?
+me	mina	mina	0		P	pl g
+  	mina	mina	0		P	pl n
+  	¤					
+raandaline	####	####				
+          	#ämbriline	raandaline	0		A	sg n
+kattel	kate	kate	l		S	sg ad
+      	£katel	katel	0		S	sg n
+3	3	3	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+1 1 1	111	111	0		N	?
+/	/	/			Z	
+2	2	2	0		N	?
+raandalinne	####	####				
+          	#ämbriline	raandaline	0		A	sg n
+90	90	90	0		N	?
+kop	kop	kop	0		Y	?
+1	1	1	0		N	?
+,	,	,			Z	
+5-raandaline	5	5	0		N	?
+            	£5_-_ämbriline	5_-_raandaline	0		A	sg n
+50	50	50	0		N	?
+kop	kop	kop	0		Y	?
+1	1	1	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+40	40	40	0		N	?
+1	1	1	0		N	?
+,	,	,			Z	
+raandalinne	####	####				
+          	#ämbriline	raandaline	0		A	sg n
+50	50	50	0		N	?
+kop	kop	kop	0		Y	?
+1	1	1	0		N	?
+pissikene	pissi=kene	pissi=kene	0		S	sg n
+         	£pisikene	pisikene	0		A	sg n
+30	30	30	0		N	?
+kop	kop	kop	0		Y	?
+80	80	80	0		N	?
+ühhed	####	####				
+     	#ühed	üks	d		N	pl n
+puu	@puu	puu	0		S	sg g
+   	puu	puu	0		S	sg n
+rattad	rattad	ratas	d		S	pl n
+1	1	1	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+4	4	4	0		N	?
+Tossinad	####	####				
+        	#tosinat	tosin	d		N	sg p
+laudu	laudu	laud	u		S	pl p
+60	60	60	0		N	?
+kop	kop	kop	0		Y	?
+tosin	@tosin	tosin	0		N	sg n
+     	tosin	tosin	0		S	sg n
+2	2	2	0		N	?
+Rub	Rub	Rub			H	?
+   	£rub	rub	0		Y	?
+40	40	40	0		N	?
+k	k	k	0		Y	?
+5	5	5	0		N	?
+heina	hein	hein	0		S	adt
+     	@heina	hein	0		S	sg g
+     	hein	hein	0		S	sg p
+hangu	hang	hang	0		S	adt
+     	hang	hang	0		S	sg g
+     	@hangu	hang	0		S	sg p
+     	hangu	hangu	0		V	o
+7	7	7	0		N	?
+sönniku	####	####				
+       	#sõnniku	sõnnik	0		S	sg g
+hangu	hang	hang	0		S	adt
+     	hang	hang	0		S	sg g
+     	@hangu	hang	0		S	sg p
+     	hangu	hangu	0		V	o
+2	2	2	0		N	?
+härja	härja	härg	0		S	sg g
+higge	####	####				
+     	¤					
+80	80	80	0		N	?
+kop	kop	kop	0		Y	?
+5	5	5	0		N	?
+hobbuse	####	####				
+       	#hobuse	hobune	0		S	sg g
+hohjad	####	####				
+      	#ohjad	ohi	d		S	pl n
+50	50	50	0		N	?
+kop	kop	kop	0		Y	?
+4	4	4	0		N	?
+hobbuse	####	####				
+       	#hobuse	hobune	0		S	sg g
+rangid	rangid	rangid	d		S	pl n
+1	1	1	0		N	?
+R 20	R20	R20	0		Y	?
+    	£R_20	R_20	0		N	sg n
+k	k	k	0		Y	?
+3	3	3	0		N	?
+telgast	####	####				
+       	¤					
+90	90	90	0		N	?
+kop	kop	kop	0		Y	?
+1	1	1	0		N	?
+rattaste	####	####				
+        	#rataste	ratas	te		S	pl g
+täis	täis	täis	0		A	
+    	täis	täis	0		A	sg n
+    	täis	täis	0		D	
+    	@täis	täis	0		S	sg n
+    	täi	täi	s		S	sg in
+    	täi	täi	s		V	s
+rauda	raud	raud	0		S	adt
+     	@rauda	raud	0		S	sg p
+90	90	90	0		N	?
+k	k	k	0		Y	?
+Raua	raua	raud	0		S	sg g
+hired	####	####				
+     	¤					
+nimmetamatta	####	####				
+            	#nimetamata	nimeta	matta		V	mata
+Mihkli	@Mihkli	Mihkel	0		H	sg g
+      	Mihkli	Mihkli	0		H	sg g
+      	Mihkli	Mihkli	0		H	sg n
+      	mihkel	mihkel	0		A	sg g
+      	mihkel	mihkel	0		S	sg g
+naese	####	####				
+     	#naise	naine	0		S	sg g
+Marrissele	####	####				
+          	#Marisele	Marris	le		H	sg all
+Mart	@Mart	Mart	0		H	sg n
+    	mart	mart	0		S	sg n
+anndu	####	####				
+     	#andnud	and	u		V	nud
+1	1	1	0		N	?
+kahhe	####	####				
+     	#kahe	kahe	0		N	sg g
+aastane	aastane	aastane	0		A	sg n
+mullik	mul=lik	mul=lik	0		A	sg n
+      	£mullikas	mullik	0		S	sg n
+kolmat	kolmandat	kolmas	t		O	sg p
+keib	####	####				
+    	#käib	käi	b		V	b
+1	1	1	0		N	?
+wilja	vili	vili	0		S	adt
+     	vili	vili	0		S	sg g
+     	vili	vili	0		S	sg p
+     	vilja	vili	0		S	adt
+     	@vilja	vili	0		S	sg g
+     	vilja	vili	0		S	sg p
+kirst	kirst	kirst	0		S	sg n
+6	6	6	0		N	?
+räim	räim	räim	0		S	sg n
+wörku	####	####				
+     	#võrku	võrk	0		S	sg p
+1	1	1	0		N	?
+rants	####	####				
+     	¤					
+Rössad	####	####				
+      	¤					
+1	1	1	0		N	?
+2he	####	####				
+   	#2	2	0		N	sg g
+raandalinne	####	####				
+           	#ämbriline	raandaline	0		A	sg n
+kattel	kate	kate	l		S	sg ad
+      	£katel	katel	0		S	sg n
+1	1	1	0		N	?
+tamme	tamm	tamm	0		S	adt
+     	@tamme	tamm	0		S	sg g
+     	tamm	tamm	0		S	sg p
+     	tamm	tamm	e		S	pl p
+kalla	kalla	kalla	0		S	sg g
+     	kalla	kalla	0		S	sg n
+     	kalla	kalla	0		V	o
+     	£kalja	kali	0		S	sg g
+kehha	####	####				
+     	#vaat	keha	0		S	sg n
+1	1	1	0		N	?
+kuse	kuse	kuse	0		V	o
+    	kusi	kusi	0		S	sg g
+    	£kuuse	kuusk	0		S	sg g
+kalla	kalla	kalla	0		S	sg g
+     	kalla	kalla	0		S	sg n
+     	kalla	kalla	0		V	o
+     	£kalja	kali	0		S	sg g
+keha	keha	keha	0		S	sg g
+    	keha	keha	0		S	sg n
+    	keha	keha	0		S	sg p
+    	£vaat	keha	0		S	sg n
+1	1	1	0		N	?
+Tossin	####	####				
+      	#tosin	tosin	0		N	sg n
+laude	####	####				
+     	¤					
+15	15	15	0		N	?
+sülda	süld	süld	0		S	adt
+     	@sülda	süld	0		S	sg p
+törwast	####	####				
+       	#tõrvast	tõrvane	t		A	sg p
+köit	köit	köis	t		S	sg p
+2	2	2	0		N	?
+kopli	kopli	koppel	0		S	sg g
+wassikad	####	####				
+        	#vasikat	vasik	d		S	sg p
+ühhed	####	####				
+     	#ühed	üks	d		N	pl n
+pari	pari	pari	0		S	sg g
+    	pari	pari	0		S	sg n
+    	pari	pari	0		S	sg p
+    	£paari	paar	0		N	sg g
+ellajate	####	####				
+        	#elajate	elajas	te		S	pl g
+raud	raud	raud	0		S	sg n
+rattad	rattad	ratas	d		S	pl n
+1	1	1	0		N	?
+2he	####	####				
+   	#2	2	0		N	sg g
+aastane	aastane	aastane	0		A	sg n
+söin	####	####				
+    	#sõnn	sõnn	0		S	sg n
+kolmat	kolmandat	kolmas	t		O	sg p
+19me	####	####				
+    	#19	19	0		N	sg g
+aastane	aastane	aastane	0		A	sg n
+must	mina	mina	st		P	sg el
+    	@must	must	0		A	sg n
+    	must	must	0		S	sg n
+mära	mära	mära	0		S	sg g
+    	@mära	mära	0		S	sg n
+    	mära	mära	0		S	sg p
+hobbune	####	####				
+       	#hobune	hobune	0		S	sg n
+.	.	.			Z	
+Pea	pea	pea	0		D	
+   	pea	pea	0		S	sg g
+   	@pea	pea	0		S	sg n
+   	pida	pida	0		V	o
+kohtu	kohtu	kohtu	0		V	o
+     	@kohtu	kohus	0		S	sg g
+mees	@mees	mees	0		S	sg n
+    	mesi	mesi	s		S	sg in
+Simmo	####	####				
+     	#Simo	Simmo	0		H	sg n
+Saks	saks	saks	0		S	sg n
+    	£Saks	Saks	0		H	sg n
+Kohtu	kohtu	kohtu	0		V	o
+     	@kohtu	kohus	0		S	sg g
+mees	@mees	mees	0		S	sg n
+    	mesi	mesi	s		S	sg in
+Mihkel	@Mihkel	Mihkel	0		H	sg n
+      	mihkel	mihkel	0		A	sg n
+      	mihkel	mihkel	0		S	sg n
+Seil	####	####				
+    	#Seil	Seil	0		H	sg n
+Tallitaja	####	####				
+         	#talitaja	talitaja	0		S	sg n
+         	talitaja	talitaja	0		S	sg g
+Mihkel	@Mihkel	Mihkel	0		H	sg n
+      	mihkel	mihkel	0		A	sg n
+      	mihkel	mihkel	0		S	sg n
+Pookand	pook_and	pook_and	0		S	sg n
+       	£Pookand	Pookand	0		H	sg n
