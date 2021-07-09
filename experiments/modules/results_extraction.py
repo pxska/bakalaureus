@@ -31,7 +31,7 @@ def extract_annotations(no_goldstandard_annotations, trained_files_location, tes
     
     return gold, test
 
-def extract_results(model_dir, files, no_goldstandard_annotations, trained_files_location, testing_files_location, results_location):
+def extract_results(files, no_goldstandard_annotations, trained_files_location, testing_files_location, results_location):
     
     if (len(set(files.values())) == 1):
         gold_ner = list()
@@ -153,7 +153,10 @@ def results_by_named_entity_key(results_json, subdistribution, one_distr):
 
             precision = (correct / actual)
             recall = (correct / possible)
-            f1 = 2 * ((precision * recall) / (precision + recall))
+            if (precision+recall) == 0:
+                f1 = 0
+            else:
+                f1 = 2 * ((precision * recall) / (precision + recall))
 
             by_kind[str(key) + "_precision"] = precision
             by_kind[str(key) + "_recall"] = recall
