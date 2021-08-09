@@ -86,7 +86,7 @@ def results_by_subdistribution(results_json, files):
         correct_all = 0
         actual_all = 0
         possible_all = 0
-        for subdistribution in sorted(set(files.values())):    
+        for subdistribution in sorted(set(files.values())):   
             correct = results_json[subdistribution][0]['strict']['correct']
             actual = results_json[subdistribution][0]['strict']['actual']
             possible = results_json[subdistribution][0]['strict']['possible']
