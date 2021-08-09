@@ -7,7 +7,7 @@ The protocol texts originate from the crowdsourcing project of [The National Arc
 # Thesis topic: 
 Named Entity Recognition in 19th Century Parish Court Protocols
 
-# Thesis instructior:
+# Thesis instructor:
 Siim Orasmaa, PhD
 
 # Libraries and technologies used in the thesis:
