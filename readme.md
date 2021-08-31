@@ -17,6 +17,8 @@ Siim Orasmaa, PhD
 - [EstNLTK](https://github.com/estnltk/estnltk/tree/master) (version 1.6). The files from the [estner](https://github.com/estnltk/estnltk/tree/devel_1.6/estnltk/taggers/estner) folder of branch [devel_1.6](https://github.com/estnltk/estnltk/tree/devel_1.6) were also used (state of files at commit [ebf1451](https://github.com/estnltk/estnltk/commit/ebf1451e69a2327502021e50571e318af1852ab2#diff-ebc8422f5e537e04a286bc2df0c9c830311f142c0494a47d42878097723d26ea)).
 - Jupyter Notebooks (+ Anaconda)
 
+**The training has also been tested and works with Python 3.8 and EstNLTK version 1.6.8b.**
+
 ### Libraries/dependencies:
 - [nervaluate 0.1.8](https://pypi.org/project/nervaluate/)
 - [pandas 1.2.0](https://pandas.pydata.org/)
