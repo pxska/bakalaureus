@@ -1,6 +1,6 @@
 # bakalaureus
 
-This repositorium was created to manage the files used in Kristjan Poska's bachelor's thesis.
+This repositorium was created to manage the files used in [Kristjan Poska's bachelor's thesis](http://dspace.ut.ee/handle/10062/74471).
 
 The protocol texts originate from the crowdsourcing project of [The National Archives of Estonia](https://www.ra.ee/vallakohtud/), and the manual annotations have been created in the project "Possibilities of automatic analysis of historical texts by the example of 19th-century Estonian communal court minutes". The project "Possibilities of automatic analysis of historical texts by the example of 19th-century Estonian communal court minutes" is funded by the national programme "Estonian Language and Culture in the Digital Age 2019-2027". 
 
